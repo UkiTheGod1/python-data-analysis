@@ -1,0 +1,101 @@
+returned_late,days_borrowed,genre,user_age,city
+0,13,Science,47,East Albert
+0,20,Fantasy,69,East Albert
+0,15,Non-Fiction,48,Hillview
+1,17,Fantasy,25,Lakeside
+0,9,Mystery,18,East Albert
+0,18,Romance,47,East Albert
+1,28,Romance,20,Lakeside
+0,1,Mystery,69,Northfield
+1,22,Science,26,Lakeside
+1,24,Mystery,19,Northfield
+0,4,Non-Fiction,53,Hillview
+1,22,Non-Fiction,19,Greenport
+0,29,Romance,58,Hillview
+0,18,Non-Fiction,70,Greenport
+0,25,Romance,30,East Albert
+0,9,Mystery,40,East Albert
+1,25,Mystery,22,East Albert
+0,21,Mystery,51,Northfield
+0,11,Romance,30,Greenport
+0,4,Mystery,52,East Albert
+0,10,Mystery,53,Lakeside
+0,14,Science,17,Greenport
+0,6,Mystery,54,Greenport
+1,15,Non-Fiction,20,Northfield
+0,1,Romance,41,Hillview
+0,24,Science,57,Northfield
+0,29,Fantasy,52,East Albert
+0,24,Romance,51,Lakeside
+0,9,Non-Fiction,48,Lakeside
+0,17,Romance,35,East Albert
+0,25,Non-Fiction,31,Lakeside
+0,6,Non-Fiction,28,Northfield
+0,17,Fantasy,57,Northfield
+0,30,Romance,60,East Albert
+0,4,Fantasy,35,Lakeside
+0,28,Fantasy,30,Greenport
+0,21,Romance,31,Hillview
+0,10,Mystery,40,Greenport
+1,27,Mystery,23,Northfield
+0,21,Fantasy,57,Northfield
+0,17,Science,56,Northfield
+0,20,Fantasy,34,Northfield
+0,7,Fantasy,44,Hillview
+0,5,Fantasy,35,East Albert
+0,12,Mystery,63,Northfield
+1,25,Mystery,19,Lakeside
+0,6,Mystery,15,Hillview
+0,18,Fantasy,44,Northfield
+0,25,Science,54,Lakeside
+0,30,Mystery,51,Northfield
+1,17,Romance,21,East Albert
+1,30,Romance,19,Hillview
+0,1,Romance,49,East Albert
+1,20,Non-Fiction,28,Hillview
+0,11,Fantasy,47,Northfield
+0,16,Romance,31,Northfield
+0,1,Fantasy,23,Hillview
+0,4,Romance,37,Lakeside
+1,30,Science,19,Lakeside
+0,12,Fantasy,30,Northfield
+0,29,Romance,38,Northfield
+0,27,Mystery,33,East Albert
+1,26,Fantasy,25,Northfield
+0,10,Non-Fiction,43,Hillview
+0,8,Mystery,68,Lakeside
+0,2,Mystery,49,Lakeside
+0,8,Non-Fiction,60,East Albert
+0,29,Mystery,34,Lakeside
+0,19,Mystery,54,Lakeside
+0,3,Romance,66,Greenport
+0,3,Romance,56,Hillview
+0,24,Fantasy,48,Greenport
+1,16,Fantasy,15,Lakeside
+0,27,Fantasy,57,East Albert
+0,3,Romance,67,East Albert
+0,25,Fantasy,50,Lakeside
+0,18,Mystery,34,Northfield
+0,25,Romance,57,Greenport
+0,5,Fantasy,21,Lakeside
+0,5,Mystery,23,East Albert
+0,22,Fantasy,31,East Albert
+1,16,Science,22,Greenport
+1,18,Fantasy,21,Hillview
+0,6,Science,62,Lakeside
+0,9,Fantasy,50,Lakeside
+1,17,Non-Fiction,24,Hillview
+0,28,Fantasy,32,Greenport
+0,20,Romance,33,Greenport
+0,14,Romance,53,East Albert
+0,7,Science,28,Hillview
+0,30,Romance,60,Greenport
+0,18,Mystery,36,Northfield
+1,25,Non-Fiction,28,Lakeside
+0,24,Non-Fiction,58,East Albert
+0,23,Mystery,55,Hillview
+0,7,Science,69,East Albert
+0,23,Mystery,31,Greenport
+0,10,Mystery,47,Greenport
+0,13,Non-Fiction,46,Northfield
+0,22,Fantasy,31,Lakeside

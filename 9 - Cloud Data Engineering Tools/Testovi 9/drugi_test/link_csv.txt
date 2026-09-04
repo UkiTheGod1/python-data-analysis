@@ -1,0 +1,3 @@
+S3 URL - s3://uros-djordjic-task-2/final/top_20_artists.csv
+
+Object URL - https://uros-djordjic-task-2.s3.us-east-1.amazonaws.com/final/top_20_artists.csv

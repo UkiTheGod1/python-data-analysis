@@ -1,0 +1,37 @@
+{
+    "company": [
+        {
+            "id": "101",
+            "name": "John Doe",
+            "position": "Software Engineer",
+            "department": "IT",
+            "hire_date": "2018-05-22",
+            "salary": {
+                "amount": "75000",
+                "currency": "USD"
+            }
+        },
+        {
+            "id": "102",
+            "name": "Jane Smith",
+            "position": "Project Manager",
+            "department": "Operations",
+            "hire_date": "2015-03-10",
+            "salary": {
+                "amount": "90000",
+                "currency": "USD"
+            }
+        },
+        {   
+            "id": "103",
+            "name": "Emily Johnson",
+            "position": "Data Analyst",
+            "department": "Marketing",
+            "hire_date": "2020-07-15",
+            "salary": {
+                "amount": "60000",
+                "currency": "USD"
+            }
+        }
+    ]
+}

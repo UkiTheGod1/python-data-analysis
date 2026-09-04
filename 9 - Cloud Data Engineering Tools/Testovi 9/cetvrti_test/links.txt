@@ -1,0 +1,9 @@
+ARN Lambda Funkcije --- arn:aws:lambda:us-east-1:256716302320:function:uros-djordjic-monthly-top-list
+
+ARN EventBridge pravila --- arn:aws:events:us-east-1:256716302320:rule/monthlyTopListTrigger
+
+Javni link do rezultujuceg CSV fajla --- 
+https://uros-djordjic-task-2.s3.us-east-1.amazonaws.com/final/top_20_artists.csv
+
+(S3 Url --- s3://uros-djordjic-task-2/final/top_20_artists.csv)
+

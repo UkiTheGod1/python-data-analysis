@@ -1,0 +1,24 @@
+<company>
+    <employee id="101">
+        <name>John Doe</name>
+        <position>Software Engineer</position>
+        <department>IT</department>
+        <hire_date>2018-05-22</hire_date>
+        <salary currency="USD">75000</salary>
+    </employee>
+    <employee id="102">
+        <name>Jane Smith</name>
+        <position>Project Manager</position>
+        <department>Operations</department>
+        <hire_date>2015-03-10</hire_date>
+        <salary currency="USD">90000</salary>
+    </employee>
+    <employee id="103">
+        <name>Emily Johnson</name>
+        <position>Data Analyst</position>
+        <department>Marketing</department>
+        <hire_date>2020-07-15</hire_date>
+        <salary currency="USD">60000</salary>
+    </employee>
+</company>
+

@@ -1,0 +1,4 @@
+Koristimo _ ispred objekta klase kako bismo naglasili da je to deo koji ne bi trebalo da se menja
+Koristimo __ kad zelimo da totalno onemogucimo pristup tom objektu vam klase
+
+Geteri i seteri mi nisu jasni, samo dodatne linije koda ni za sta bukvalno, ali dobro (get_price, set_price)

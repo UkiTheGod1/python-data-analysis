@@ -1,0 +1,9 @@
+2. Koji faktori najbolje predvidjaju IMDb ocenu sadržaja – zanr, duzina, godina, zemlja produkcije?
+
+Najveci pozitivan uticaj - zanrovi (istorija, dokumentarci, drama i ratni filmovi)
+                         - drzave produkcije (SAD, Velika Britanija, Japan)
+Najveci negativan uticaj - zanrovi (horor, porodicni)
+                         - duzina trajanja (duzi filmovi - manje ocene)
+                         - godina izlaska (noviji filmovi - manja ocena)
+ 
+Zakljucak - ocenu ce najbolje da predvidi zanr i godina izlaska

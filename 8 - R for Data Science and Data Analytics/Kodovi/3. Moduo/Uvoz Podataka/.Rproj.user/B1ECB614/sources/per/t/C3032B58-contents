@@ -1,0 +1,107 @@
+library(readr) # Za CSV
+library(readxl) # Za Excel
+library(DBI) # Za SQL
+library(RMySQL)
+library(dplyr)
+
+# CSV uvoz
+books_df <- read_csv("books_3.csv", 
+                     skip = 1,               # Preskocili prvi red
+                     na = c("N/A", ""),      # "Izbacili" NA vrednosti
+                     col_types = cols(       # Definisali tipove vrednosti
+                       id = col_double(),
+                       title = col_character(),
+                       author = col_character(),
+                       published = col_integer(),
+                       genre = col_character()
+                     )
+)
+# Promena imena kolone "published"
+books_df <- books_df |> rename(publication_year = published)
+# Provera/Prikaz
+spec(books_df)
+glimpse(books_df)
+
+
+
+# Excel uvoz - tipovi kolona su ispravni, ali definisani za svaki slucaj
+rentals_df <- read_excel("user_rentals_3.xlsx",
+                         na = c("", "N/A"),
+                         col_types = c("numeric", "text", "text", "text", "text", "numeric", "date")
+) 
+# Provera/Prikaz
+glimpse(rentals_df)
+
+
+
+# SQL uvoz
+con <- dbConnect(
+  RMySQL::MySQL(),
+  dbname = "library",
+  host = "localhost",
+  user = "root",
+  password = "DbSb3272GlObEaBb")
+
+dbIsValid(con) # Provera veze
+dbListTables(con) # Provera tabela
+
+# Preuzimanje tabela
+books_db <- dbReadTable(con, "book")
+users_db <- dbReadTable(con, "user")
+rentals_db <- dbReadTable(con, "rental")
+
+dbDisconnect(con)
+
+
+
+# Analiza konzistentnosti
+# Razlika kolicina knjiga u CSv i SQL fajlovima
+count(books_df) # Ima 529
+count(books_db) # Ima 510
+
+# Najraniji i najkasniji datum izdavanja knjiga u Excel fajlu
+max(rentals_df$rental_date, na.rm=TRUE) # 24.5.2025. 
+min(rentals_df$rental_date, na.rm=TRUE) # 17.2.2021.
+
+# Ukupni zapisi o iznajmljivanju u Excel fajlu
+length(rentals_df$rental_book_id) # 300 ukupno
+sum(!is.na(rentals_df$rental_book_id)) # 216 vrednosti (84 NA vrednosti)
+
+# Razlika unikatnih knjiga kod SQL i Excel fajla
+length(unique(rentals_df$rental_book_id)) # 194 unikatne knjige
+length(unique(rentals_db$book_id)) # 122 unikatne knjige
+
+# Dostupnost knjiga u Excel fajlu
+# Pitanje nejasno - U Excel fajlu nema podatak koliko knjiga postoje, nego ko i kada ih je iznajmio
+
+# Broj korisnika u "East Albert" bez iznajmljenih knjiga
+filter(rentals_df, city == "East Albert" & is.na(rental_book_id)) # 4 korisnika
+
+
+# Export
+result_df <- data.frame(
+  index = c(
+    "Broj knjiga u CSV", 
+    "Broj knjiga u SQL", 
+    "Najraniji datum iznajmljivanja", 
+    "Najkasniji datum iznajmljivanja",
+    "Ukupan broj zapisa u rentals_df", 
+    "Broj popunjenih rental_book_id vrednosti", 
+    "Broj unikatnih knjiga u rentals_df", 
+    "Broj unikatnih knjiga u rentals_db", 
+    "Broj korisnika iz East Albert bez iznajmljene knjige"
+  ),
+  values = c(
+    nrow(books_df),
+    nrow(books_db),
+    as.character(min(rentals_df$rental_date, na.rm = TRUE)),
+    as.character(max(rentals_df$rental_date, na.rm = TRUE)),
+    length(rentals_df$rental_book_id),
+    sum(!is.na(rentals_df$rental_book_id)),
+    length(unique(rentals_df$rental_book_id)),
+    length(unique(rentals_db$book_id)),
+    nrow(filter(rentals_df, city == "East Albert" & is.na(rental_book_id)))
+  )
+)
+
+write.csv(result_df, "Uros_Djordjic_Task3.csv", row.names = FALSE)

@@ -1,0 +1,28 @@
+body {
+    background-color: #89D6D9
+}
+
+
+#main {
+    margin: 0px auto;
+    width: 920px;
+    background-color: #FFFFFF;
+    padding: 20px 20px 20px 20px
+}
+
+.tbl, .tbl th, .tbl td {
+	border:1px solid #CCCCCC;
+	border-collapse:collapse;
+	padding:4px;
+	background:#F5F4F2;
+}
+
+.tbl th {
+	background:#ECE7D7;
+}
+
+.footer {
+	background:#DDDDDD;
+	padding:10px;
+	margin-top:20px;
+}

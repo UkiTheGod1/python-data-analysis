@@ -1,0 +1,516 @@
+Datum,Proizvod,Grad,Cena_EUR,Količina,Ukupna_Zarada
+2025-13-01,Prečišćivač AirPro,Novi Sad,244.35,8.0,1954.8
+2025-13-01,Robot Usisivač X1,Beograd,433.33,4.0,1733.32
+2025-13-01,Senzor Pokreta,Novi Sad,58.17,3.0,174.51
+2025-13-01,Pametna Brava Locky,Niš,403.57,7.0,2824.99
+2025-13-01,Senzor Pokreta,Subotica,446.25,3.0,1338.75
+2025-13-01,Senzor Pokreta,Beograd,37.07,8.0,296.56
+2025-01-21 00:00:00,Prečišćivač AirPro,Beograd,,6.0,
+2025-04-13 00:00:00,Pametna Brava Locky,Beograd,237.07,5.0,1185.35
+2025-05-02 00:00:00,Senzor Pokreta,Beograd,408.87,4.0,1635.48
+2025-08-03 00:00:00,Robot Usisivač X1,Beograd,261.38,8.0,2091.04
+01/05/2025,Robot Usisivač X1,Novi Sad,301.33,8.0,2410.64
+01/05/2025,Pametna Sijalica RGB,Subotica,249.26,1.0,249.26
+01/05/2025,Pametna Brava Locky,Niš,390.38,9.0,3513.42
+01/05/2025,Pametna Brava Locky,Niš,332.92,5.0,1664.6000000000001
+01/05/2025,Pametna Sijalica RGB,Niš,239.35,4.0,957.4
+01/05/2025,Senzor Pokreta,Niš,391.99,6.0,2351.94
+2025-05-30 00:00:00,Pametna Brava Locky,Novi Sad,117.93,6.0,707.58
+2025-11-05 00:00:00,Robot Usisivač X1,Kragujevac,79.23,2.0,158.46
+2025-09-15 00:00:00,Robot Usisivač X1,Subotica,80.58,8.0,644.64
+2025-12-10 00:00:00,Prečišćivač AirPro,Beograd,156.96,7.0,1098.72
+2025-10-21 00:00:00,Pametna Brava Locky,Kragujevac,115.02,1.0,115.02
+2025-07-11 00:00:00,Senzor Pokreta,Niš,419.24,5.0,2096.2
+2025-10-04 00:00:00,Pametna Sijalica RGB,Kragujevac,56.57,6.0,339.42
+2025-06-10 00:00:00,Pametna Sijalica RGB,Subotica,317.56,4.0,1270.24
+2025-11-10 00:00:00,Senzor Pokreta,Beograd,93.26,2.0,186.52
+2025-01-22 00:00:00,Prečišćivač AirPro,Beograd,397.92,4.0,1591.68
+2025-09-10 00:00:00,Pametna Sijalica RGB,Subotica,432.98,1.0,432.98
+2025-08-24 00:00:00,Pametna Brava Locky,Subotica,214.81,7.0,1503.67
+2025-12-11 00:00:00,Prečišćivač AirPro,Niš,396.79,2.0,793.58
+2025-02-18 00:00:00,Pametna Brava Locky,Beograd,12.26,2.0,24.52
+2025-02-28 00:00:00,Robot Usisivač X1,Kragujevac,370.78,9.0,3337.0199999999995
+2025-06-19 00:00:00,Prečišćivač AirPro,Novi Sad,110.6,5.0,553.0
+2025-07-07 00:00:00,Pametna Sijalica RGB,Novi Sad,409.83,2.0,819.66
+2025-09-28 00:00:00,Prečišćivač AirPro,Subotica,10.49,9.0,94.41
+2025-07-09 00:00:00,Prečišćivač AirPro,Niš,254.72,9.0,2292.48
+2025-06-24 00:00:00,Prečišćivač AirPro,Novi Sad,342.92,1.0,342.92
+2025-02-20 00:00:00,Prečišćivač AirPro,Beograd,123.82,3.0,371.46
+2025-12-30 00:00:00,Pametna Brava Locky,Subotica,94.98,4.0,379.92
+2025-02-24 00:00:00,Robot Usisivač X1,Kragujevac,,7.0,0.0
+2025-09-01 00:00:00,Senzor Pokreta,Subotica,153.63,4.0,614.52
+2025-11-16 00:00:00,Prečišćivač AirPro,Kragujevac,256.33,2.0,512.66
+2025-05-11 00:00:00,Pametna Sijalica RGB,Subotica,60.97,7.0,426.78999999999996
+2025-11-03 00:00:00,Prečišćivač AirPro,Subotica,,6.0,
+2025-05-15 00:00:00,Pametna Sijalica RGB,Subotica,13.99,3.0,41.97
+2025-01-21 00:00:00,Pametna Brava Locky,Kragujevac,370.22,,
+2025-11-25 00:00:00,Pametna Sijalica RGB,Kragujevac,66.52,6.0,399.12
+2025-06-16 00:00:00,Senzor Pokreta,Subotica,134.67,5.0,673.3499999999999
+2025-10-01 00:00:00,Robot Usisivač X1,Novi Sad,18.11,4.0,72.44
+2025-03-30 00:00:00,Pametna Sijalica RGB,Niš,200.19,1.0,200.19
+2025-11-12 00:00:00,Pametna Sijalica RGB,Niš,379.65,,
+2025-01-14 00:00:00,Robot Usisivač X1,Niš,182.55,2.0,365.1
+2025-08-30 00:00:00,Senzor Pokreta,Kragujevac,88.98,3.0,266.94
+2025-09-22 00:00:00,Prečišćivač AirPro,Kragujevac,341.63,8.0,2733.04
+2025-12-12 00:00:00,Pametna Sijalica RGB,Novi Sad,357.08,6.0,2142.48
+2025-02-22 00:00:00,Robot Usisivač X1,Niš,86.45,3.0,259.35
+2025-12-06 00:00:00,Pametna Brava Locky,Niš,349.18,7.0,2444.26
+2025-04-02 00:00:00,Robot Usisivač X1,Subotica,426.81,4.0,1707.24
+2025-09-21 00:00:00,Pametna Brava Locky,Kragujevac,83.21,9.0,748.89
+2025-02-04 00:00:00,Senzor Pokreta,Niš,,5.0,
+2025-07-25 00:00:00,Prečišćivač AirPro,Novi Sad,321.77,3.0,965.31
+2025-03-22 00:00:00,Robot Usisivač X1,Novi Sad,218.37,2.0,436.74
+2025-02-19 00:00:00,Pametna Sijalica RGB,Niš,35.49,2.0,70.98
+2025-12-26 00:00:00,Senzor Pokreta,Kragujevac,42.87,3.0,128.60999999999999
+2025-01-02 00:00:00,Robot Usisivač X1,Novi Sad,385.06,2.0,770.12
+2025-02-23 00:00:00,Pametna Sijalica RGB,Subotica,445.67,4.0,1782.68
+2025-04-16 00:00:00,Robot Usisivač X1,Novi Sad,307.46,2.0,614.92
+2025-09-17 00:00:00,Pametna Brava Locky,Beograd,206.22,9.0,1855.98
+2025-11-06 00:00:00,Robot Usisivač X1,Beograd,,2.0,
+2025-07-10 00:00:00,Robot Usisivač X1,Kragujevac,,9.0,
+2025-08-06 00:00:00,Robot Usisivač X1,Niš,178.79,6.0,1072.74
+2025-02-13 00:00:00,Senzor Pokreta,Kragujevac,38.88,1.0,38.88
+2025-06-11 00:00:00,Robot Usisivač X1,Kragujevac,371.47,4.0,1485.88
+2025-07-21 00:00:00,Pametna Sijalica RGB,Kragujevac,173.61,1.0,173.61
+2025-09-27 00:00:00,Pametna Brava Locky,Kragujevac,370.27,6.0,2221.62
+2025-12-17 00:00:00,Pametna Brava Locky,Subotica,121.1,4.0,484.4
+2025-10-31 00:00:00,Robot Usisivač X1,Subotica,10.45,3.0,31.349999999999998
+2025-09-28 00:00:00,Senzor Pokreta,Novi Sad,79.93,3.0,239.79000000000002
+2025-08-03 00:00:00,Senzor Pokreta,Beograd,216.16,9.0,1945.44
+2025-09-09 00:00:00,Pametna Sijalica RGB,Kragujevac,425.49,6.0,2552.94
+2025-07-09 00:00:00,Robot Usisivač X1,Novi Sad,54.97,9.0,494.73
+2025-10-23 00:00:00,Pametna Brava Locky,Beograd,385.85,5.0,1929.25
+2025-08-01 00:00:00,Senzor Pokreta,Niš,241.89,2.0,483.78
+2025-07-27 00:00:00,Robot Usisivač X1,Subotica,373.41,8.0,2987.28
+2025-08-25 00:00:00,Senzor Pokreta,Beograd,141.28,5.0,706.4
+2025-12-04 00:00:00,Senzor Pokreta,Niš,379.58,2.0,759.16
+2025-02-22 00:00:00,Pametna Brava Locky,Beograd,350.04,4.0,1400.16
+2025-10-07 00:00:00,Prečišćivač AirPro,Subotica,111.22,9.0,1000.98
+2025-08-05 00:00:00,Pametna Sijalica RGB,Subotica,67.79,4.0,271.16
+2025-09-09 00:00:00,Pametna Sijalica RGB,Novi Sad,391.94,,
+2025-07-07 00:00:00,Pametna Brava Locky,Kragujevac,433.82,2.0,0.0
+2025-02-10 00:00:00,Senzor Pokreta,Beograd,23.77,6.0,142.62
+2025-06-06 00:00:00,Robot Usisivač X1,Beograd,331.76,2.0,663.52
+2025-01-15 00:00:00,Senzor Pokreta,Niš,410.19,7.0,2871.33
+2025-10-28 00:00:00,Pametna Brava Locky,Subotica,387.24,3.0,1161.72
+2025-03-06 00:00:00,Pametna Sijalica RGB,Beograd,434.39,3.0,1303.17
+2025-12-11 00:00:00,Senzor Pokreta,Subotica,344.44,5.0,1722.2
+2025-11-23 00:00:00,Pametna Sijalica RGB,Beograd,204.61,,
+2025-01-09 00:00:00,Robot Usisivač X1,Novi Sad,147.26,2.0,294.52
+2025-12-10 00:00:00,Pametna Sijalica RGB,Kragujevac,151.13,9.0,1360.17
+2025-05-09 00:00:00,Pametna Sijalica RGB,Beograd,328.75,2.0,657.5
+2025-05-16 00:00:00,Prečišćivač AirPro,Subotica,338.17,2.0,676.34
+2025-03-04 00:00:00,Prečišćivač AirPro,Novi Sad,98.16,8.0,785.28
+2025-05-19 00:00:00,Prečišćivač AirPro,Beograd,391.97,9.0,3527.7300000000005
+2025-03-22 00:00:00,Pametna Sijalica RGB,Niš,324.57,7.0,2271.99
+2025-06-12 00:00:00,Pametna Brava Locky,Kragujevac,257.61,3.0,772.83
+2025-10-16 00:00:00,Pametna Sijalica RGB,Beograd,217.47,9.0,0.0
+2025-09-18 00:00:00,Pametna Brava Locky,Novi Sad,249.02,3.0,747.0600000000001
+2025-08-19 00:00:00,Pametna Brava Locky,Niš,80.07,5.0,400.34999999999997
+2025-02-10 00:00:00,Prečišćivač AirPro,Novi Sad,99.63,9.0,896.67
+2025-01-28 00:00:00,Senzor Pokreta,Novi Sad,50.11,3.0,150.32999999999998
+2025-05-15 00:00:00,Robot Usisivač X1,Niš,77.61,7.0,543.27
+2025-07-20 00:00:00,Prečišćivač AirPro,Novi Sad,209.63,1.0,209.63
+2025-11-24 00:00:00,Prečišćivač AirPro,Niš,243.36,4.0,973.44
+2025-09-25 00:00:00,Senzor Pokreta,Beograd,17.86,4.0,71.44
+2025-02-02 00:00:00,Robot Usisivač X1,Niš,360.59,7.0,0.0
+2025-02-17 00:00:00,Pametna Sijalica RGB,Niš,139.43,8.0,1115.44
+2025-03-03 00:00:00,Pametna Sijalica RGB,Kragujevac,411.21,1.0,411.21
+2025-08-04 00:00:00,Prečišćivač AirPro,Niš,435.7,5.0,2178.5
+2025-10-20 00:00:00,Robot Usisivač X1,Niš,91.6,7.0,641.1999999999999
+2025-04-09 00:00:00,Prečišćivač AirPro,Beograd,213.32,4.0,853.28
+2025-06-21 00:00:00,Pametna Brava Locky,Kragujevac,10.54,4.0,42.16
+2025-12-26 00:00:00,Prečišćivač AirPro,Subotica,273.26,4.0,1093.04
+2025-08-02 00:00:00,Prečišćivač AirPro,Beograd,277.21,6.0,1663.2599999999998
+2025-02-04 00:00:00,Pametna Sijalica RGB,Beograd,118.92,7.0,832.44
+2025-08-15 00:00:00,Pametna Sijalica RGB,Subotica,255.7,2.0,511.4
+2025-04-11 00:00:00,Pametna Sijalica RGB,Niš,109.24,5.0,546.1999999999999
+2025-05-11 00:00:00,Pametna Brava Locky,Novi Sad,80.76,4.0,323.04
+2025-09-14 00:00:00,Pametna Sijalica RGB,Kragujevac,296.67,3.0,890.01
+2025-01-05 00:00:00,Robot Usisivač X1,Novi Sad,153.41,7.0,1073.87
+2025-08-06 00:00:00,Senzor Pokreta,Subotica,269.72,6.0,1618.3200000000002
+2025-09-12 00:00:00,Robot Usisivač X1,Beograd,200.63,7.0,1404.4099999999999
+2025-12-25 00:00:00,Robot Usisivač X1,Beograd,443.11,5.0,2215.55
+2025-10-10 00:00:00,Pametna Sijalica RGB,Kragujevac,75.82,6.0,454.91999999999996
+2025-07-26 00:00:00,Senzor Pokreta,Beograd,,5.0,
+2025-01-15 00:00:00,Senzor Pokreta,Beograd,309.4,7.0,2165.7999999999997
+2025-12-12 00:00:00,Senzor Pokreta,Kragujevac,184.04,2.0,368.08
+2025-02-11 00:00:00,Pametna Brava Locky,Kragujevac,438.87,5.0,2194.35
+2025-06-28 00:00:00,Pametna Sijalica RGB,Subotica,327.63,6.0,1965.78
+2025-03-04 00:00:00,Senzor Pokreta,Beograd,299.07,6.0,1794.42
+2025-12-18 00:00:00,Pametna Brava Locky,Beograd,343.11,5.0,1715.5500000000002
+2025-08-19 00:00:00,Prečišćivač AirPro,Subotica,429.17,7.0,3004.19
+2025-08-29 00:00:00,Prečišćivač AirPro,Niš,409.44,8.0,3275.52
+2025-02-21 00:00:00,Pametna Brava Locky,Niš,328.69,7.0,2300.83
+2025-04-06 00:00:00,Pametna Brava Locky,Niš,339.63,5.0,1698.15
+2025-08-10 00:00:00,Pametna Sijalica RGB,Subotica,74.21,1.0,74.21
+2025-08-19 00:00:00,Pametna Sijalica RGB,Beograd,55.23,5.0,276.15
+2025-08-25 00:00:00,Prečišćivač AirPro,Subotica,261.2,2.0,522.4
+2025-05-23 00:00:00,Senzor Pokreta,Subotica,18.08,5.0,90.39999999999999
+2025-06-20 00:00:00,Prečišćivač AirPro,Niš,,5.0,
+2025-01-29 00:00:00,Senzor Pokreta,Novi Sad,,2.0,0.0
+2025-02-05 00:00:00,Senzor Pokreta,Beograd,162.25,5.0,811.25
+2025-01-13 00:00:00,Pametna Sijalica RGB,Niš,351.35,4.0,1405.4
+2025-06-09 00:00:00,Robot Usisivač X1,Novi Sad,424.14,1.0,424.14
+2025-11-23 00:00:00,Robot Usisivač X1,Novi Sad,41.86,3.0,125.58
+2025-07-06 00:00:00,Pametna Brava Locky,Kragujevac,245.07,1.0,245.07
+2025-08-31 00:00:00,Pametna Sijalica RGB,Beograd,398.31,5.0,1991.55
+2025-03-27 00:00:00,Senzor Pokreta,Novi Sad,46.3,,
+2025-10-11 00:00:00,Robot Usisivač X1,Niš,372.79,7.0,2609.53
+2025-03-07 00:00:00,Senzor Pokreta,Kragujevac,167.43,5.0,837.1500000000001
+2025-06-19 00:00:00,Robot Usisivač X1,Beograd,151.72,4.0,606.88
+2025-02-14 00:00:00,Robot Usisivač X1,Subotica,440.09,2.0,880.18
+2025-03-03 00:00:00,Robot Usisivač X1,Niš,98.38,4.0,393.52
+2025-05-14 00:00:00,Pametna Sijalica RGB,Novi Sad,315.01,2.0,630.02
+2025-10-11 00:00:00,Prečišćivač AirPro,Novi Sad,371.43,8.0,2971.44
+2025-01-28 00:00:00,Senzor Pokreta,Niš,28.12,3.0,84.36
+2025-04-18 00:00:00,Pametna Sijalica RGB,Novi Sad,304.97,9.0,2744.7300000000005
+2025-02-13 00:00:00,Pametna Sijalica RGB,Kragujevac,428.68,4.0,1714.72
+2025-12-06 00:00:00,Pametna Sijalica RGB,Beograd,64.66,6.0,387.96
+2025-10-13 00:00:00,Pametna Sijalica RGB,Kragujevac,404.34,5.0,2021.6999999999998
+2025-11-27 00:00:00,Pametna Sijalica RGB,Novi Sad,271.7,1.0,271.7
+2025-05-08 00:00:00,Pametna Brava Locky,Subotica,281.31,,
+2025-12-14 00:00:00,Senzor Pokreta,Beograd,279.7,1.0,279.7
+2025-08-19 00:00:00,Pametna Sijalica RGB,Beograd,,8.0,
+2025-07-09 00:00:00,Senzor Pokreta,Niš,421.49,9.0,3793.41
+2025-08-13 00:00:00,Pametna Brava Locky,Niš,426.83,9.0,3841.47
+2025-10-10 00:00:00,Pametna Brava Locky,Subotica,285.13,1.0,285.13
+2025-05-01 00:00:00,Senzor Pokreta,Beograd,354.71,2.0,709.42
+2025-04-26 00:00:00,Robot Usisivač X1,Subotica,279.39,1.0,279.39
+2025-08-21 00:00:00,Prečišćivač AirPro,Niš,223.14,2.0,446.28
+2025-09-16 00:00:00,Robot Usisivač X1,Niš,300.76,8.0,2406.08
+2025-12-25 00:00:00,Robot Usisivač X1,Beograd,253.32,5.0,1266.6
+2025-07-17 00:00:00,Robot Usisivač X1,Kragujevac,272.89,7.0,1910.23
+2025-05-17 00:00:00,Pametna Sijalica RGB,Novi Sad,354.89,2.0,709.78
+2025-11-14 00:00:00,Pametna Brava Locky,Niš,221.6,8.0,1772.8
+2025-06-14 00:00:00,Robot Usisivač X1,Niš,27.93,6.0,167.57999999999998
+2025-08-13 00:00:00,Pametna Brava Locky,Kragujevac,82.16,8.0,657.28
+2025-11-03 00:00:00,Senzor Pokreta,Kragujevac,202.99,1.0,202.99
+2025-08-22 00:00:00,Prečišćivač AirPro,Subotica,328.92,1.0,328.92
+2025-06-21 00:00:00,Senzor Pokreta,Subotica,271.04,7.0,1897.2800000000002
+2025-06-01 00:00:00,Senzor Pokreta,Novi Sad,296.13,8.0,2369.04
+2025-11-11 00:00:00,Pametna Sijalica RGB,Novi Sad,220.88,3.0,662.64
+2025-06-09 00:00:00,Prečišćivač AirPro,Beograd,280.93,5.0,1404.65
+2025-04-06 00:00:00,Senzor Pokreta,Subotica,154.77,1.0,154.77
+2025-08-21 00:00:00,Senzor Pokreta,Niš,216.88,7.0,1518.1599999999999
+2025-06-29 00:00:00,Prečišćivač AirPro,Subotica,337.48,5.0,1687.4
+2025-04-23 00:00:00,Prečišćivač AirPro,Niš,393.61,,
+2025-11-14 00:00:00,Senzor Pokreta,Kragujevac,200.81,8.0,0.0
+2025-02-21 00:00:00,Prečišćivač AirPro,Subotica,29.21,9.0,262.89
+2025-09-25 00:00:00,Senzor Pokreta,Kragujevac,81.14,7.0,567.98
+2025-10-22 00:00:00,Senzor Pokreta,Novi Sad,19.18,1.0,19.18
+2025-04-23 00:00:00,Pametna Sijalica RGB,Novi Sad,297.44,3.0,892.3199999999999
+2025-04-11 00:00:00,Robot Usisivač X1,Beograd,156.22,8.0,1249.76
+2025-04-23 00:00:00,Senzor Pokreta,Subotica,248.69,3.0,746.0699999999999
+2025-03-22 00:00:00,Pametna Brava Locky,Kragujevac,227.04,8.0,1816.32
+2025-07-06 00:00:00,Robot Usisivač X1,Niš,45.87,1.0,45.87
+2025-04-23 00:00:00,Robot Usisivač X1,Novi Sad,187.43,5.0,937.1500000000001
+2025-01-02 00:00:00,Robot Usisivač X1,Novi Sad,107.05,4.0,428.2
+2025-05-10 00:00:00,Pametna Sijalica RGB,Niš,194.1,5.0,970.5
+2025-08-08 00:00:00,Senzor Pokreta,Kragujevac,99.57,8.0,796.56
+2025-02-23 00:00:00,Pametna Sijalica RGB,Kragujevac,379.8,4.0,1519.2
+2025-12-09 00:00:00,Senzor Pokreta,Subotica,86.65,4.0,346.6
+2025-08-12 00:00:00,Pametna Sijalica RGB,Subotica,432.74,3.0,1298.22
+2025-08-13 00:00:00,Pametna Sijalica RGB,Beograd,193.0,7.0,1351.0
+2025-05-06 00:00:00,Pametna Brava Locky,Novi Sad,382.35,3.0,1147.0500000000002
+2025-05-10 00:00:00,Pametna Sijalica RGB,Subotica,286.66,,
+2025-02-22 00:00:00,Prečišćivač AirPro,Kragujevac,333.55,5.0,1667.75
+2025-06-21 00:00:00,Pametna Brava Locky,Niš,347.8,5.0,1739.0
+2025-08-06 00:00:00,Pametna Sijalica RGB,Kragujevac,232.13,6.0,1392.78
+2025-06-09 00:00:00,Robot Usisivač X1,Novi Sad,249.05,8.0,1992.4
+2025-07-17 00:00:00,Prečišćivač AirPro,Kragujevac,236.16,6.0,1416.96
+2025-09-04 00:00:00,Prečišćivač AirPro,Beograd,,1.0,
+2025-11-20 00:00:00,Prečišćivač AirPro,Novi Sad,22.93,8.0,183.44
+2025-07-22 00:00:00,Pametna Brava Locky,Niš,184.03,8.0,1472.24
+2025-07-03 00:00:00,Pametna Sijalica RGB,Beograd,276.72,9.0,2490.4800000000005
+2025-05-03 00:00:00,Pametna Sijalica RGB,Novi Sad,273.0,9.0,2457.0
+2025-09-12 00:00:00,Robot Usisivač X1,Niš,358.9,2.0,717.8
+2025-10-21 00:00:00,Robot Usisivač X1,Beograd,298.2,2.0,596.4
+2025-10-07 00:00:00,Prečišćivač AirPro,Beograd,446.54,3.0,1339.6200000000001
+2025-11-21 00:00:00,Robot Usisivač X1,Novi Sad,,1.0,
+2025-04-08 00:00:00,Pametna Brava Locky,Subotica,168.03,4.0,672.12
+2025-07-17 00:00:00,Pametna Sijalica RGB,Beograd,178.89,4.0,715.56
+2025-08-28 00:00:00,Prečišćivač AirPro,Beograd,214.96,9.0,1934.64
+2025-05-24 00:00:00,Robot Usisivač X1,Niš,377.84,9.0,3400.56
+2025-04-07 00:00:00,Pametna Brava Locky,Kragujevac,113.75,9.0,1023.75
+2025-07-20 00:00:00,Pametna Brava Locky,Novi Sad,,7.0,
+2025-05-04 00:00:00,Robot Usisivač X1,Novi Sad,188.34,2.0,376.68
+2025-07-06 00:00:00,Pametna Sijalica RGB,Subotica,274.82,5.0,1374.1
+2025-11-22 00:00:00,Robot Usisivač X1,Subotica,288.32,4.0,1153.28
+2025-12-15 00:00:00,Prečišćivač AirPro,Novi Sad,174.05,8.0,1392.4
+2025-09-16 00:00:00,Robot Usisivač X1,Subotica,235.55,2.0,471.1
+2025-05-28 00:00:00,Pametna Brava Locky,Niš,191.73,6.0,1150.3799999999999
+2025-09-09 00:00:00,Robot Usisivač X1,Novi Sad,40.42,5.0,202.10000000000002
+2025-12-12 00:00:00,Pametna Sijalica RGB,Subotica,202.35,,
+2025-05-27 00:00:00,Senzor Pokreta,Novi Sad,52.85,1.0,52.85
+2025-05-28 00:00:00,Robot Usisivač X1,Kragujevac,188.21,8.0,1505.68
+2025-12-18 00:00:00,Pametna Sijalica RGB,Beograd,270.88,2.0,541.76
+2025-07-18 00:00:00,Pametna Sijalica RGB,Novi Sad,264.94,7.0,0.0
+2025-11-04 00:00:00,Pametna Brava Locky,Beograd,301.55,9.0,2713.9500000000003
+2025-05-08 00:00:00,Pametna Sijalica RGB,Subotica,51.92,9.0,467.28000000000003
+2025-02-08 00:00:00,Pametna Sijalica RGB,Beograd,296.93,8.0,2375.44
+2025-12-04 00:00:00,Pametna Sijalica RGB,Novi Sad,147.35,,
+2025-12-26 00:00:00,Pametna Sijalica RGB,Kragujevac,185.58,2.0,371.16
+2025-05-09 00:00:00,Prečišćivač AirPro,Subotica,387.51,6.0,2325.06
+2025-09-24 00:00:00,Prečišćivač AirPro,Novi Sad,13.97,4.0,55.88
+2025-05-31 00:00:00,Pametna Brava Locky,Subotica,,4.0,
+2025-10-25 00:00:00,Robot Usisivač X1,Niš,273.43,5.0,1367.15
+2025-04-09 00:00:00,Pametna Sijalica RGB,Beograd,184.53,3.0,553.59
+2025-09-20 00:00:00,Robot Usisivač X1,Niš,114.29,1.0,114.29
+2025-09-09 00:00:00,Robot Usisivač X1,Novi Sad,113.26,,
+2025-05-24 00:00:00,Pametna Brava Locky,Kragujevac,398.83,5.0,1994.1499999999999
+2025-12-12 00:00:00,Pametna Sijalica RGB,Subotica,204.49,3.0,613.47
+2025-04-22 00:00:00,Pametna Sijalica RGB,Beograd,,7.0,
+2025-03-01 00:00:00,Senzor Pokreta,Subotica,207.46,7.0,1452.22
+2025-01-02 00:00:00,Robot Usisivač X1,Novi Sad,304.53,1.0,304.53
+2025-10-31 00:00:00,Robot Usisivač X1,Subotica,74.13,9.0,667.17
+2025-09-11 00:00:00,Prečišćivač AirPro,Beograd,207.75,2.0,415.5
+2025-05-20 00:00:00,Senzor Pokreta,Novi Sad,268.67,5.0,1343.3500000000001
+2025-02-06 00:00:00,Prečišćivač AirPro,Subotica,427.38,5.0,2136.9
+2025-06-09 00:00:00,Prečišćivač AirPro,Kragujevac,121.11,8.0,968.88
+2025-01-09 00:00:00,Prečišćivač AirPro,Novi Sad,168.07,8.0,1344.56
+2025-08-21 00:00:00,Pametna Brava Locky,Novi Sad,176.92,7.0,1238.4399999999998
+2025-04-09 00:00:00,Pametna Brava Locky,Kragujevac,276.44,7.0,1935.08
+2025-05-27 00:00:00,Prečišćivač AirPro,Niš,166.96,6.0,1001.76
+2025-10-31 00:00:00,Senzor Pokreta,Beograd,244.75,6.0,1468.5
+2025-07-27 00:00:00,Robot Usisivač X1,Niš,353.99,9.0,3185.91
+2025-05-11 00:00:00,Senzor Pokreta,Subotica,,6.0,
+2025-06-01 00:00:00,Pametna Sijalica RGB,Kragujevac,206.4,2.0,412.8
+2025-02-23 00:00:00,Pametna Brava Locky,Niš,390.26,2.0,780.52
+2025-04-30 00:00:00,Robot Usisivač X1,Novi Sad,255.58,5.0,1277.9
+2025-06-10 00:00:00,Robot Usisivač X1,Subotica,247.56,,
+2025-04-26 00:00:00,Pametna Sijalica RGB,Subotica,25.04,2.0,50.08
+2025-03-16 00:00:00,Pametna Sijalica RGB,Niš,444.14,,
+2025-04-23 00:00:00,Prečišćivač AirPro,Niš,64.11,7.0,448.77
+2025-04-14 00:00:00,Pametna Brava Locky,Kragujevac,111.7,8.0,893.6
+2025-12-06 00:00:00,Pametna Brava Locky,Beograd,32.75,,
+2025-09-11 00:00:00,Senzor Pokreta,Niš,291.6,5.0,1458.0
+2025-08-15 00:00:00,Prečišćivač AirPro,Niš,108.87,1.0,108.87
+2025-04-22 00:00:00,Prečišćivač AirPro,Novi Sad,89.2,,
+2025-04-09 00:00:00,Prečišćivač AirPro,Subotica,48.96,3.0,146.88
+2025-06-02 00:00:00,Prečišćivač AirPro,Beograd,55.46,6.0,332.76
+2025-12-15 00:00:00,Pametna Brava Locky,Novi Sad,267.26,3.0,801.78
+2025-12-04 00:00:00,Pametna Brava Locky,Kragujevac,312.81,7.0,2189.67
+2025-07-13 00:00:00,Prečišćivač AirPro,Kragujevac,184.85,7.0,1293.95
+2025-11-06 00:00:00,Senzor Pokreta,Niš,221.15,9.0,1990.3500000000001
+2025-06-12 00:00:00,Robot Usisivač X1,Niš,311.83,5.0,1559.1499999999999
+2025-07-27 00:00:00,Robot Usisivač X1,Kragujevac,17.65,8.0,141.2
+2025-06-18 00:00:00,Senzor Pokreta,Niš,152.18,8.0,1217.44
+2025-06-10 00:00:00,Prečišćivač AirPro,Beograd,438.16,1.0,438.16
+2025-03-09 00:00:00,Pametna Brava Locky,Niš,265.25,5.0,1326.25
+2025-10-16 00:00:00,Robot Usisivač X1,Subotica,121.86,3.0,365.58
+2025-10-04 00:00:00,Pametna Sijalica RGB,Niš,239.56,1.0,239.56
+2025-10-31 00:00:00,Pametna Sijalica RGB,Novi Sad,160.77,4.0,643.08
+2025-05-15 00:00:00,Senzor Pokreta,Beograd,244.19,8.0,1953.52
+2025-07-14 00:00:00,Prečišćivač AirPro,Novi Sad,65.33,3.0,195.99
+2025-05-08 00:00:00,Robot Usisivač X1,Novi Sad,68.39,2.0,136.78
+2025-02-02 00:00:00,Prečišćivač AirPro,Subotica,73.16,9.0,658.4399999999999
+2025-06-25 00:00:00,Robot Usisivač X1,Beograd,423.52,5.0,2117.6
+2025-01-22 00:00:00,Senzor Pokreta,Beograd,332.48,7.0,2327.36
+2025-08-26 00:00:00,Senzor Pokreta,Beograd,81.45,2.0,162.9
+2025-06-07 00:00:00,Pametna Sijalica RGB,Beograd,92.87,9.0,835.83
+2025-02-07 00:00:00,Prečišćivač AirPro,Beograd,331.56,9.0,2984.04
+2025-08-18 00:00:00,Pametna Sijalica RGB,Subotica,78.71,4.0,314.84
+2025-12-31 00:00:00,Prečišćivač AirPro,Niš,113.21,4.0,452.84
+2025-02-20 00:00:00,Pametna Sijalica RGB,Novi Sad,433.87,6.0,2603.2200000000003
+2025-09-21 00:00:00,Pametna Brava Locky,Beograd,122.33,6.0,733.98
+2025-10-10 00:00:00,Pametna Brava Locky,Niš,301.12,1.0,301.12
+2025-01-27 00:00:00,Pametna Brava Locky,Niš,440.6,9.0,3965.4
+2025-08-14 00:00:00,Pametna Brava Locky,Novi Sad,174.69,2.0,349.38
+2025-10-04 00:00:00,Robot Usisivač X1,Subotica,17.71,5.0,88.55000000000001
+2025-10-13 00:00:00,Pametna Brava Locky,Kragujevac,117.42,9.0,1056.78
+2025-04-07 00:00:00,Senzor Pokreta,Kragujevac,375.59,4.0,1502.36
+2025-10-11 00:00:00,Senzor Pokreta,Niš,390.43,3.0,1171.29
+2025-11-13 00:00:00,Robot Usisivač X1,Novi Sad,348.15,7.0,2437.0499999999997
+2025-10-31 00:00:00,Pametna Brava Locky,Kragujevac,59.77,6.0,358.62
+2025-05-27 00:00:00,Pametna Brava Locky,Niš,360.02,8.0,2880.16
+2025-01-04 00:00:00,Pametna Brava Locky,Subotica,414.22,3.0,1242.66
+2025-02-04 00:00:00,Pametna Sijalica RGB,Kragujevac,274.27,5.0,1371.35
+2025-07-11 00:00:00,Prečišćivač AirPro,Niš,,4.0,
+2025-02-18 00:00:00,Pametna Sijalica RGB,Niš,,4.0,
+2025-01-17 00:00:00,Prečišćivač AirPro,Beograd,303.47,,
+2025-06-21 00:00:00,Pametna Brava Locky,Subotica,263.96,8.0,2111.68
+2025-08-08 00:00:00,Pametna Brava Locky,Beograd,163.37,6.0,980.22
+2025-06-07 00:00:00,Pametna Sijalica RGB,Novi Sad,80.09,3.0,240.27
+2025-02-15 00:00:00,Pametna Sijalica RGB,Beograd,276.18,5.0,1380.9
+2025-01-06 00:00:00,Prečišćivač AirPro,Beograd,149.97,6.0,899.8199999999999
+2025-04-09 00:00:00,Senzor Pokreta,Kragujevac,391.23,5.0,1956.15
+2025-08-21 00:00:00,Prečišćivač AirPro,Niš,447.07,6.0,2682.42
+2025-02-06 00:00:00,Pametna Sijalica RGB,Subotica,341.07,8.0,2728.56
+2025-10-07 00:00:00,Pametna Sijalica RGB,Beograd,49.81,7.0,348.67
+2025-12-15 00:00:00,Robot Usisivač X1,Subotica,137.02,5.0,685.1
+2025-10-29 00:00:00,Pametna Sijalica RGB,Beograd,58.01,6.0,348.06
+2025-06-30 00:00:00,Robot Usisivač X1,Novi Sad,296.23,4.0,1184.92
+2025-04-05 00:00:00,Senzor Pokreta,Beograd,346.68,9.0,3120.12
+2025-04-09 00:00:00,Prečišćivač AirPro,Kragujevac,417.3,4.0,1669.2
+2025-07-07 00:00:00,Prečišćivač AirPro,Niš,202.8,1.0,202.8
+2025-04-26 00:00:00,Robot Usisivač X1,Novi Sad,406.61,7.0,2846.27
+2025-07-10 00:00:00,Prečišćivač AirPro,Beograd,396.27,7.0,2773.89
+2025-09-10 00:00:00,Pametna Sijalica RGB,Subotica,149.57,4.0,598.28
+2025-06-10 00:00:00,Pametna Brava Locky,Novi Sad,392.32,3.0,1176.96
+2025-09-13 00:00:00,Robot Usisivač X1,Novi Sad,175.3,8.0,1402.4
+2025-11-19 00:00:00,Prečišćivač AirPro,Beograd,140.62,5.0,703.1
+2025-05-08 00:00:00,Robot Usisivač X1,Novi Sad,,7.0,
+2025-01-18 00:00:00,Robot Usisivač X1,Subotica,154.49,4.0,617.96
+2025-10-08 00:00:00,Pametna Brava Locky,Novi Sad,287.29,4.0,1149.16
+2025-08-11 00:00:00,Pametna Sijalica RGB,Subotica,278.33,8.0,2226.64
+2025-02-23 00:00:00,Robot Usisivač X1,Beograd,257.91,8.0,2063.28
+2025-02-27 00:00:00,Prečišćivač AirPro,Niš,177.38,2.0,354.76
+2025-11-19 00:00:00,Senzor Pokreta,Novi Sad,251.34,,
+2025-12-26 00:00:00,Robot Usisivač X1,Niš,272.45,3.0,817.3499999999999
+2025-06-23 00:00:00,Robot Usisivač X1,Subotica,250.1,3.0,750.3
+2025-10-07 00:00:00,Pametna Brava Locky,Novi Sad,,1.0,
+2025-04-24 00:00:00,Pametna Sijalica RGB,Kragujevac,16.45,3.0,49.349999999999994
+2025-10-15 00:00:00,Senzor Pokreta,Niš,268.31,6.0,1609.8600000000001
+2025-12-08 00:00:00,Prečišćivač AirPro,Novi Sad,84.12,8.0,672.96
+2025-05-31 00:00:00,Senzor Pokreta,Niš,292.73,6.0,1756.38
+2025-05-07 00:00:00,Prečišćivač AirPro,Novi Sad,344.11,5.0,1720.5500000000002
+2025-06-04 00:00:00,Pametna Sijalica RGB,Beograd,230.2,4.0,920.8
+2025-09-30 00:00:00,Prečišćivač AirPro,Niš,248.64,3.0,745.92
+2025-04-14 00:00:00,Pametna Brava Locky,Kragujevac,428.65,4.0,1714.6
+2025-10-26 00:00:00,Pametna Brava Locky,Kragujevac,382.75,7.0,2679.25
+2025-09-03 00:00:00,Pametna Brava Locky,Subotica,412.26,,
+2025-06-25 00:00:00,Pametna Brava Locky,Novi Sad,,7.0,
+2025-02-08 00:00:00,Senzor Pokreta,Niš,57.92,1.0,57.92
+2025-06-19 00:00:00,Pametna Sijalica RGB,Subotica,75.56,2.0,151.12
+2025-09-04 00:00:00,Prečišćivač AirPro,Niš,241.71,4.0,966.84
+2025-01-26 00:00:00,Prečišćivač AirPro,Novi Sad,118.27,1.0,118.27
+2025-12-21 00:00:00,Pametna Brava Locky,Kragujevac,219.75,9.0,1977.75
+2025-11-02 00:00:00,Pametna Brava Locky,Beograd,183.52,6.0,1101.1200000000001
+2025-01-13 00:00:00,Robot Usisivač X1,Kragujevac,251.74,1.0,251.74
+2025-11-12 00:00:00,Pametna Sijalica RGB,Subotica,338.63,1.0,338.63
+2025-11-09 00:00:00,Senzor Pokreta,Beograd,324.82,6.0,1948.92
+2025-02-05 00:00:00,Prečišćivač AirPro,Subotica,239.34,4.0,957.36
+2025-06-22 00:00:00,Robot Usisivač X1,Novi Sad,371.85,4.0,1487.4
+2025-01-20 00:00:00,Robot Usisivač X1,Beograd,199.58,6.0,1197.48
+2025-11-17 00:00:00,Prečišćivač AirPro,Subotica,404.55,7.0,2831.85
+2025-09-21 00:00:00,Senzor Pokreta,Novi Sad,41.36,9.0,372.24
+2025-05-22 00:00:00,Robot Usisivač X1,Kragujevac,430.05,5.0,2150.25
+2025-05-23 00:00:00,Robot Usisivač X1,Novi Sad,298.06,9.0,2682.54
+2025-04-02 00:00:00,Pametna Sijalica RGB,Niš,177.23,4.0,708.92
+2025-12-20 00:00:00,Senzor Pokreta,Novi Sad,96.75,2.0,193.5
+2025-11-18 00:00:00,Robot Usisivač X1,Novi Sad,220.84,,
+2025-10-15 00:00:00,Senzor Pokreta,Niš,95.61,1.0,95.61
+2025-08-03 00:00:00,Prečišćivač AirPro,Subotica,83.19,6.0,499.14
+2025-12-08 00:00:00,Pametna Brava Locky,Subotica,281.63,6.0,1689.78
+2025-02-20 00:00:00,Robot Usisivač X1,Novi Sad,240.16,1.0,240.16
+2025-06-02 00:00:00,Pametna Sijalica RGB,Niš,304.84,3.0,914.52
+2025-07-05 00:00:00,Prečišćivač AirPro,Niš,419.03,,
+2025-03-04 00:00:00,Senzor Pokreta,Kragujevac,244.19,3.0,732.5699999999999
+2025-07-09 00:00:00,Prečišćivač AirPro,Subotica,265.61,3.0,796.83
+2025-05-05 00:00:00,Robot Usisivač X1,Beograd,49.44,3.0,148.32
+2025-05-30 00:00:00,Senzor Pokreta,Subotica,325.76,,
+2025-11-10 00:00:00,Pametna Brava Locky,Subotica,185.96,5.0,929.8000000000001
+2025-02-27 00:00:00,Prečišćivač AirPro,Kragujevac,439.76,4.0,1759.04
+2025-12-08 00:00:00,Robot Usisivač X1,Beograd,372.2,1.0,372.2
+2025-11-01 00:00:00,Pametna Sijalica RGB,Kragujevac,239.89,5.0,1199.4499999999998
+2025-06-29 00:00:00,Senzor Pokreta,Beograd,64.22,5.0,321.1
+2025-06-19 00:00:00,Prečišćivač AirPro,Novi Sad,388.14,4.0,1552.56
+2025-11-22 00:00:00,Prečišćivač AirPro,Beograd,361.9,6.0,2171.3999999999996
+2025-09-28 00:00:00,Pametna Brava Locky,Kragujevac,91.22,4.0,364.88
+2025-02-23 00:00:00,Pametna Brava Locky,Subotica,139.92,7.0,979.4399999999999
+2025-04-11 00:00:00,Pametna Sijalica RGB,Beograd,359.1,7.0,2513.7000000000003
+2025-09-21 00:00:00,Pametna Sijalica RGB,Beograd,91.5,2.0,183.0
+2025-02-22 00:00:00,Robot Usisivač X1,Niš,413.81,3.0,1241.43
+2025-03-01 00:00:00,Robot Usisivač X1,Subotica,196.79,1.0,196.79
+2025-04-18 00:00:00,Pametna Sijalica RGB,Novi Sad,48.3,8.0,386.4
+2025-01-05 00:00:00,Pametna Sijalica RGB,Kragujevac,,9.0,
+2025-04-13 00:00:00,Senzor Pokreta,Novi Sad,174.34,4.0,697.36
+2025-07-15 00:00:00,Pametna Brava Locky,Subotica,241.66,6.0,1449.96
+2025-09-19 00:00:00,Robot Usisivač X1,Beograd,59.41,9.0,534.6899999999999
+2025-12-31 00:00:00,Pametna Brava Locky,Beograd,11.14,6.0,66.84
+2025-12-16 00:00:00,Pametna Brava Locky,Subotica,290.71,9.0,2616.39
+2025-02-16 00:00:00,Pametna Sijalica RGB,Beograd,,4.0,
+2025-12-21 00:00:00,Senzor Pokreta,Beograd,271.16,8.0,2169.28
+2025-11-07 00:00:00,Prečišćivač AirPro,Beograd,359.25,9.0,3233.25
+2025-11-04 00:00:00,Senzor Pokreta,Kragujevac,294.51,4.0,1178.04
+2025-05-24 00:00:00,Senzor Pokreta,Kragujevac,86.9,5.0,434.5
+2025-09-26 00:00:00,Pametna Brava Locky,Niš,168.74,8.0,1349.92
+2025-05-04 00:00:00,Senzor Pokreta,Novi Sad,408.59,6.0,2451.54
+2025-04-16 00:00:00,Robot Usisivač X1,Subotica,348.78,7.0,2441.46
+2025-06-07 00:00:00,Pametna Brava Locky,Subotica,254.92,3.0,764.76
+2025-05-27 00:00:00,Robot Usisivač X1,Subotica,122.48,,
+2025-05-25 00:00:00,Prečišćivač AirPro,Niš,142.91,8.0,1143.28
+2025-04-30 00:00:00,Pametna Brava Locky,Kragujevac,332.06,6.0,1992.3600000000001
+2025-11-15 00:00:00,Prečišćivač AirPro,Niš,384.52,9.0,3460.68
+2025-10-02 00:00:00,Pametna Brava Locky,Subotica,305.43,6.0,1832.58
+2025-04-02 00:00:00,Pametna Sijalica RGB,Novi Sad,366.19,9.0,0.0
+2025-02-27 00:00:00,Senzor Pokreta,Beograd,347.33,,
+2025-12-12 00:00:00,Pametna Sijalica RGB,Kragujevac,75.87,8.0,606.96
+2025-08-17 00:00:00,Prečišćivač AirPro,Kragujevac,196.54,4.0,786.16
+2025-04-27 00:00:00,Senzor Pokreta,Niš,77.31,2.0,154.62
+2025-11-14 00:00:00,Pametna Brava Locky,Kragujevac,113.5,9.0,1021.5
+2025-10-06 00:00:00,Senzor Pokreta,Subotica,392.47,5.0,1962.3500000000001
+2025-05-07 00:00:00,Robot Usisivač X1,Subotica,218.07,4.0,872.28
+2025-05-09 00:00:00,Senzor Pokreta,Niš,245.56,2.0,491.12
+2025-02-27 00:00:00,Robot Usisivač X1,Subotica,88.52,1.0,88.52
+2025-05-02 00:00:00,Senzor Pokreta,Novi Sad,147.4,7.0,1031.8
+2025-01-01 00:00:00,Robot Usisivač X1,Niš,111.31,6.0,667.86
+2025-08-27 00:00:00,Prečišćivač AirPro,Novi Sad,100.72,2.0,201.44
+2025-10-17 00:00:00,Pametna Sijalica RGB,Beograd,290.7,8.0,2325.6
+2025-04-06 00:00:00,Pametna Brava Locky,Novi Sad,123.03,4.0,492.12
+2025-05-06 00:00:00,Senzor Pokreta,Beograd,288.09,8.0,2304.72
+2025-04-28 00:00:00,Pametna Sijalica RGB,Beograd,35.72,7.0,250.04
+2025-02-17 00:00:00,Pametna Brava Locky,Novi Sad,72.38,5.0,361.9
+2025-03-30 00:00:00,Pametna Brava Locky,Niš,130.8,8.0,1046.4
+2025-08-25 00:00:00,Robot Usisivač X1,Subotica,272.7,9.0,2454.2999999999997
+2025-09-29 00:00:00,Prečišćivač AirPro,Subotica,307.37,5.0,1536.85
+2025-07-08 00:00:00,Prečišćivač AirPro,Beograd,204.8,5.0,1024.0
+2025-07-11 00:00:00,Pametna Sijalica RGB,Beograd,206.15,2.0,412.3
+2025-03-10 00:00:00,Prečišćivač AirPro,Niš,328.79,5.0,1643.95
+2025-10-05 00:00:00,Senzor Pokreta,Kragujevac,16.96,3.0,50.88
+2025-12-15 00:00:00,Prečišćivač AirPro,Novi Sad,160.08,7.0,1120.5600000000002
+2025-09-04 00:00:00,Pametna Sijalica RGB,Beograd,370.23,5.0,1851.15
+2025-03-17 00:00:00,Prečišćivač AirPro,Subotica,275.42,8.0,2203.36
+2025-06-03 00:00:00,Senzor Pokreta,Niš,158.38,1.0,158.38
+2025-05-24 00:00:00,Robot Usisivač X1,Novi Sad,408.43,3.0,0.0
+2025-03-27 00:00:00,Pametna Sijalica RGB,Niš,349.95,3.0,1049.85
+2025-07-04 00:00:00,Robot Usisivač X1,Novi Sad,126.55,9.0,1138.95
+2025-10-12 00:00:00,Robot Usisivač X1,Novi Sad,293.93,5.0,1469.65
+2025-08-08 00:00:00,Robot Usisivač X1,Beograd,272.13,9.0,2449.17
+2025-03-10 00:00:00,Pametna Brava Locky,Niš,186.52,9.0,1678.68
+2025-02-16 00:00:00,Pametna Brava Locky,Niš,171.46,,
+2025-04-04 00:00:00,Robot Usisivač X1,Subotica,161.17,2.0,322.34
+2025-08-26 00:00:00,Pametna Sijalica RGB,Subotica,281.55,5.0,1407.75
+2025-07-23 00:00:00,Senzor Pokreta,Beograd,204.66,4.0,818.64
+2025-08-06 00:00:00,Senzor Pokreta,Beograd,376.02,9.0,3384.18
+2025-12-07 00:00:00,Prečišćivač AirPro,Kragujevac,304.63,7.0,2132.41
+2025-02-08 00:00:00,Pametna Sijalica RGB,Subotica,40.77,6.0,244.62
+2025-04-10 00:00:00,Pametna Brava Locky,Novi Sad,291.67,7.0,2041.69
+2025-10-16 00:00:00,Robot Usisivač X1,Niš,129.3,1.0,129.3
+2025-09-11 00:00:00,Prečišćivač AirPro,Beograd,270.84,1.0,270.84
+2025-08-10 00:00:00,Senzor Pokreta,Niš,,8.0,
+2025-12-23 00:00:00,Pametna Brava Locky,Niš,111.56,2.0,223.12
+2025-01-23 00:00:00,Pametna Brava Locky,Kragujevac,211.02,9.0,1899.18
+2025-09-07 00:00:00,Robot Usisivač X1,Subotica,93.74,7.0,656.18
+2025-01-10 00:00:00,Senzor Pokreta,Beograd,33.03,,
+2025-09-03 00:00:00,Pametna Sijalica RGB,Niš,176.53,1.0,176.53
+2025-11-21 00:00:00,Pametna Brava Locky,Beograd,169.7,1.0,169.7
+2025-04-10 00:00:00,Robot Usisivač X1,Novi Sad,448.01,2.0,896.02
+2025-10-17 00:00:00,Pametna Sijalica RGB,Kragujevac,206.4,6.0,1238.4
+2025-06-29 00:00:00,Senzor Pokreta,Novi Sad,156.77,6.0,940.6200000000001
+2025-08-11 00:00:00,Pametna Brava Locky,Beograd,265.41,2.0,530.82
+2025-09-07 00:00:00,Pametna Sijalica RGB,Beograd,49.06,1.0,0.0
+2025-05-27 00:00:00,Pametna Sijalica RGB,Subotica,433.13,5.0,2165.65
+2025-04-06 00:00:00,Pametna Sijalica RGB,Niš,289.38,5.0,1446.9
+2025-09-14 00:00:00,Pametna Brava Locky,Niš,342.13,2.0,684.26
+2025-11-21 00:00:00,Pametna Brava Locky,Novi Sad,85.01,6.0,510.06000000000006
+2025-01-04 00:00:00,Prečišćivač AirPro,Kragujevac,190.17,9.0,1711.53
+2025-01-16 00:00:00,Senzor Pokreta,Niš,195.98,2.0,391.96
+2025-10-07 00:00:00,Robot Usisivač X1,Subotica,371.59,2.0,743.18
+2025-12-02 00:00:00,Pametna Sijalica RGB,Novi Sad,10.54,3.0,31.619999999999997
+2025-07-09 00:00:00,Robot Usisivač X1,Novi Sad,54.97,9.0,494.73
+2025-04-10 00:00:00,Pametna Brava Locky,Niš,390.38,9.0,3513.42
+2025-07-20 00:00:00,Pametna Brava Locky,Novi Sad,,7.0,
+2025-10-23 00:00:00,Pametna Brava Locky,Beograd,385.85,5.0,1929.25
+2025-02-18 00:00:00,Pametna Sijalica RGB,Niš,,4.0,
+2025-10-07 00:00:00,Pametna Brava Locky,Novi Sad,,1.0,
+2025-05-10 00:00:00,Pametna Sijalica RGB,Niš,194.1,5.0,970.5
+2025-07-06 00:00:00,Pametna Sijalica RGB,Subotica,274.82,5.0,1374.1
+2025-04-11 00:00:00,Robot Usisivač X1,Beograd,156.22,8.0,1249.76
+2025-06-19 00:00:00,Robot Usisivač X1,Beograd,151.72,4.0,606.88
+2025-03-06 00:00:00,Pametna Sijalica RGB,Beograd,434.39,3.0,1303.17
+2025-08-04 00:00:00,Prečišćivač AirPro,Niš,435.7,5.0,2178.5
+2025-06-04 00:00:00,Pametna Sijalica RGB,Beograd,230.2,4.0,920.8
+2025-07-17 00:00:00,Pametna Sijalica RGB,Beograd,178.89,4.0,715.56
+2025-05-15 00:00:00,Robot Usisivač X1,Niš,77.61,7.0,543.27

@@ -1,0 +1,47 @@
+Funkcija open() se koristi za otvaranje fajlova u različitim režimima (za čitanje, pisanje, dodavanje itd.). 
+Režim otvaranja fajla zavisi od vrednosti drugog parametra:
+
+r – otvara fajl za čitanje;
+rb – otvara fajl za čitanje binarnog formata;
+w – otvara fajl za pisanje; ukoliko fajl ne postoji, kreira ga; tekst se upisuje preko postojećeg sadržaja;
+wb – otvara fajl za pisanje binarnog formata; ukoliko fajl ne postoji, kreira ga; binarni sadržaj se upisuje preko postojećeg sadržaja;
+a – otvara fajl za dodavanje sadržaja na njegov kraj; ukoliko fajl ne postoji, kreira ga;
+ab – otvara fajl za dodavanje binarnog sadržaja na njegov kraj; ukoliko fajl ne postoji, kreira ga.
+
+Funkcija open() kao svoju povratnu vrednosti vraća objekat koji reprezentuje otvoreni fajl. 
+Nad takvim objektom je zatim moguće pozivati nekoliko različitih metoda, a sve u zavisnosti od toga šta želimo da uradimo sa fajlom:
+
+read() – čita sadržaj fajla;
+write() – upisuje tekst unutar fajla;
+close() – zatvara fajl.
+
+
+Pickle:
+
+pickle.dumps() – serijalizuje prosleđeni objekat, ali ga ne upisuje u fajl, već ga vraća kao niz bajtova;
+pickle.dump() – serijalizuje prosleđeni objekat i upisuje njegovu reprezentaciju unutar navedenog fajla;
+pickle.loads() – deserijalizuje objekat iz niza bajtova koji je prethodno kreiran pomoću funkcije dumps();
+pickle.load() – učitava i deserijalizuje objekat iz fajla koji je prethodno snimljen pomoću dump() funkcije.
+
+
+Ključna reč with se u Pythonu koristi za pojednostavljivanje oslobađanja resursa prilikom rada sa fajlovima, 
+mrežnim konekcijama ili bilo kojim objektima koji zahtevaju eksplicitno otvaranje i zatvaranje. 
+Njena glavna uloga je automatsko upravljanje resursima i osiguravanje da se resursi pravilno oslobode nakon završetka upotrebe. 
+To praktično znači da, kada koristimo ključnu reč with, ne moramo eksplicitno da pozovemo close() metodu za zatvaranje fajla.
+
+import os
+os.listdir(path) – vraća listu fajlova i foldera u zadatom folderu;
+os.mkdir(path) – kreira novi folder na zadatoj lokaciji;
+os.remove(file) – briše fajl;
+os.path.exists(path) – proverava da li fajl ili direktorijum postoji;
+os.path.isfile(path) – Proverava da li je putanja fajl;
+os.path.isdir(path) – proverava da li je putanja direktorijum.
+
+import pandas as pd
+
+df = pd.read_csv("...") - citanje
+df = pd.DataFrame(data=[[...]], columns=[...]) - pisanje
+for index, row in df.iterrows():   # iteriranje
+    print(row.to_string())
+df.title.to_string() - kolone
+df.iloc[x].to_string() - redovi

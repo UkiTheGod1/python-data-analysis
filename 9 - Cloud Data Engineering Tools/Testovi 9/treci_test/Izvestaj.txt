@@ -1,0 +1,12 @@
+Ukratko:
+- kreirao sam Lambda funkciju "uros-djordjic-task-3"
+- ubacio kod u Lambdu i colab-a
+- kreirao policy za Lambda role koji omogućava ListBucket, GetObject i PutObject
+- bucket sa CSV fajlovima sam imao od prethodnog zadataka (bucket "uros-djordjic-task-2")
+samo je finalni csv izbrisan
+
+
+Lambda mi je par puta vratila AccessDenied, ali brzo sam shvatio problem i ispravio ga.
+Najveći izazov je bio taj policy, jer sve ostalo smo već imali (bucket i kod), a kreirati funkciju je bilo lako
+
+Linkove sam ostavio u .txt fajlovima jer svakako šaljem screenshot-ove.

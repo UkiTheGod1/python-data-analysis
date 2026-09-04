@@ -1,0 +1,6 @@
+Starost i dužina članstva utiču na broj pročitanih knjiga – što su članovi stariji i što su duže u biblioteci, u proseku čitaju više. 
+
+Međutim, dužina članstva ima znatno jači uticaj od starosne dobi. 
+
+Model je prilično pouzdan (82%) i omogućava da sa velikom verovatnoćom predvidimo koliko će knjiga pročitati novi član.
+

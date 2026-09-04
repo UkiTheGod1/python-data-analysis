@@ -1,0 +1,15 @@
+# Ignorisanje svih .log fajlova
+*.log
+
+# Ignorisanje Python cache fajlova
+__pycache__/
+*.pyc
+
+# Ignorisanje virtualnog okruženja
+/venv/
+
+# Ignorisanje datoteka sa poverljivim informacijama
+*.env
+
+# Ignorisanje datoteka sa informacijama
+*.txt

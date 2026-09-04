@@ -1,0 +1,1241 @@
+ID_Porudzbine,Datum,Proizvod,Kategorija,Kolicina,Prodajna_Cena,Nabavna_Cena,Grad
+ORD_10000,2026-01-15,HP Pavilion Gaming,Elektronika,1.0,878.66 RSD,680,
+ORD_10001,2025-02-14,HP Pavilion Gaming,Elektronika,,988.14 RSD,680,Subotica
+ORD_10002,2025-09-16,Samsung S24 Ultra,Elektronika,2.0,1295.32 RSD,900,
+ORD_10003,2025-04-23,Dell Monitor 27,Elektronika,4.0,290.92 RSD,180,Subotica
+ORD_10004,2025-06-24,iPhone 15 Pro,Elektronika,4.0,1057.44 RSD,850,Novi Sad
+ORD_10005,2025-07-14,HP Pavilion Gaming,Elektronika,1.0,837.14,680,Kragujevac
+ORD_10006,2026-01-09,Radni Sto Podesivi,Namestaj,1.0,215.4 RSD,120,Nis
+ORD_10007,2025-05-31,HP Pavilion Gaming,Elektronika,5.0,972.07 RSD,680,Novi Sad
+ORD_10008,2025-12-27,Slusalice ANC,Periferije,2.0,106.72,50,Novi Sad
+ORD_10009,2026-03-20,HP Pavilion Gaming,Elektronika,2.0,942.03 RSD,680,
+ORD_10010,2025-07-09,Kancelarijska Stolica,Namestaj,2.0,128.12 RSD,70,
+ORD_10011,2025-11-22,HP Pavilion Gaming,Elektronika,5.0,991.78 RSD,680,Beograd
+ORD_10012,2025-05-19,Gaming Mis RGB,Periferije,4.0,50.82 RSD,20,Kragujevac
+ORD_10013,2026-03-08,Samsung S24 Ultra,Elektronika,3.0,1160.21 RSD,900,Subotica
+ORD_10014,2025-05-18,Kancelarijska Stolica,Namestaj,4.0,132.95,70,Kragujevac
+ORD_10015,2025-12-02,Kancelarijska Stolica,Namestaj,2.0,133.0 RSD,70,
+ORD_10016,2025-05-16,Gaming Mis RGB,Periferije,2.0,45.54 RSD,20,Kragujevac
+ORD_10017,2025-08-08,Radni Sto Podesivi,Namestaj,5.0,238.74 RSD,120,Beograd
+ORD_10018,2025-09-10,iPhone 15 Pro,Elektronika,,1123.67,850,Subotica
+ORD_10019,2026-02-10,iPhone 15 Pro,Elektronika,2.0,1089.89 RSD,850,Nis
+ORD_10020,2025-08-28,Mehanicka Tastatura,Periferije,5.0,77.79 RSD,35,Subotica
+ORD_10021,2026-01-20,HP Pavilion Gaming,Elektronika,5.0,834.0 RSD,680,Subotica
+ORD_10022,2025-03-22,Radni Sto Podesivi,Namestaj,4.0,227.11 RSD,120,
+ORD_10023,2026-01-26,Radni Sto Podesivi,Namestaj,5.0,230.82 RSD,120,
+ORD_10024,2025-11-08,Radni Sto Podesivi,Namestaj,5.0,235.3 RSD,120,Beograd
+ORD_10025,2025-01-01,Dell Monitor 27,Elektronika,5.0,302.11 RSD,180,Subotica
+ORD_10026,2025-05-03,Kancelarijska Stolica,Namestaj,3.0,133.49,70,Subotica
+ORD_10027,2026-02-22,HP Pavilion Gaming,Elektronika,4.0,905.2,680,Beograd
+ORD_10028,2025-10-09,iPhone 15 Pro,Elektronika,4.0,1162.18 RSD,850,Kragujevac
+ORD_10029,2025-10-04,Mehanicka Tastatura,Periferije,2.0,68.74 RSD,35,
+ORD_10030,2025-12-10,Radni Sto Podesivi,Namestaj,4.0,242.88 RSD,120,Kragujevac
+ORD_10031,2025-05-07,Gaming Mis RGB,Periferije,1.0,44.21 RSD,20,Kragujevac
+ORD_10032,2025-10-29,Dell Monitor 27,Elektronika,2.0,258.9 RSD,180,
+ORD_10033,2025-02-04,Laptop ASUS ZenBook,Elektronika,2.0,1143.75 RSD,750,Subotica
+ORD_10034,2025-05-23,Dell Monitor 27,Elektronika,2.0,312.94 RSD,180,Beograd
+ORD_10035,2025-08-31,Slusalice ANC,Periferije,5.0,111.28 RSD,50,Nis
+ORD_10036,2025-02-19,Samsung S24 Ultra,Elektronika,1.0,1184.2 RSD,900,Nis
+ORD_10037,2025-12-11,Gaming Mis RGB,Periferije,1.0,43.48 RSD,20,Subotica
+ORD_10038,2026-02-14,Mehanicka Tastatura,Periferije,3.0,78.95 RSD,35,Beograd
+ORD_10039,2025-03-13,Dell Monitor 27,Elektronika,4.0,281.41 RSD,180,Beograd
+ORD_10040,2026-02-18,HP Pavilion Gaming,Elektronika,4.0,830.69 RSD,680,Subotica
+ORD_10041,2025-02-17,Dell Monitor 27,Elektronika,1.0,284.71 RSD,180,Beograd
+ORD_10042,2025-09-04,Mehanicka Tastatura,Periferije,4.0,68.55 RSD,35,Subotica
+ORD_10043,2025-01-02,iPhone 15 Pro,Elektronika,4.0,1238.24 RSD,850,Nis
+ORD_10044,2025-12-23,Radni Sto Podesivi,Namestaj,4.0,225.44 RSD,120,Kragujevac
+ORD_10045,2025-04-08,Gaming Mis RGB,Periferije,2.0,49.13 RSD,20,Kragujevac
+ORD_10046,2026-01-18,Dell Monitor 27,Elektronika,1.0,273.7 RSD,180,Nis
+ORD_10047,2025-03-22,Dell Monitor 27,Elektronika,5.0,286.2,180,Beograd
+ORD_10048,2025-02-04,HP Pavilion Gaming,Elektronika,5.0,911.37 RSD,680,Subotica
+ORD_10049,2025-10-24,Slusalice ANC,Periferije,2.0,97.57 RSD,50,Nis
+ORD_10050,2025-09-25,Slusalice ANC,Periferije,5.0,114.83 RSD,50,
+ORD_10051,2025-05-16,Kancelarijska Stolica,Namestaj,2.0,150.75 RSD,70,Novi Sad
+ORD_10052,2026-01-20,Gaming Mis RGB,Periferije,,51.89 RSD,20,Kragujevac
+ORD_10053,2025-02-07,Slusalice ANC,Periferije,1.0,113.19 RSD,50,Beograd
+ORD_10054,2026-03-27,Kancelarijska Stolica,Namestaj,1.0,145.44 RSD,70,Nis
+ORD_10055,2025-11-10,Dell Monitor 27,Elektronika,3.0,310.31 RSD,180,Kragujevac
+ORD_10056,2025-06-03,Laptop ASUS ZenBook,Elektronika,5.0,954.47 RSD,750,Beograd
+ORD_10057,2025-02-24,Radni Sto Podesivi,Namestaj,1.0,222.3 RSD,120,Novi Sad
+ORD_10058,2026-01-03,Slusalice ANC,Periferije,2.0,94.5 RSD,50,Novi Sad
+ORD_10059,2025-05-09,Dell Monitor 27,Elektronika,4.0,274.52 RSD,180,Subotica
+ORD_10060,2025-01-23,Mehanicka Tastatura,Periferije,3.0,74.22,35,
+ORD_10061,2026-01-15,Radni Sto Podesivi,Namestaj,2.0,226.07 RSD,120,Kragujevac
+ORD_10062,2025-02-08,Laptop ASUS ZenBook,Elektronika,1.0,1117.32 RSD,750,Beograd
+ORD_10063,2026-03-04,Dell Monitor 27,Elektronika,1.0,276.41 RSD,180,Nis
+ORD_10064,2025-06-07,iPhone 15 Pro,Elektronika,1.0,1087.42 RSD,850,Subotica
+ORD_10065,2025-12-16,Kancelarijska Stolica,Namestaj,2.0,143.78 RSD,70,Kragujevac
+ORD_10066,2026-01-19,Mehanicka Tastatura,Periferije,5.0,70.25 RSD,35,Beograd
+ORD_10067,2025-01-13,iPhone 15 Pro,Elektronika,4.0,1212.53 RSD,850,Nis
+ORD_10068,2025-03-23,Samsung S24 Ultra,Elektronika,3.0,1124.38 RSD,900,Subotica
+ORD_10069,2025-04-13,Gaming Mis RGB,Periferije,2.0,52.37 RSD,20,Novi Sad
+ORD_10070,2025-01-13,Samsung S24 Ultra,Elektronika,2.0,1305.78 RSD,900,Novi Sad
+ORD_10071,2025-06-29,HP Pavilion Gaming,Elektronika,3.0,845.26 RSD,680,Kragujevac
+ORD_10072,2025-03-01,Kancelarijska Stolica,Namestaj,1.0,127.67 RSD,70,Kragujevac
+ORD_10073,2025-02-25,Radni Sto Podesivi,Namestaj,1.0,253.27 RSD,120,Novi Sad
+ORD_10074,2025-09-19,Mehanicka Tastatura,Periferije,5.0,79.31 RSD,35,Beograd
+ORD_10075,2025-12-29,Radni Sto Podesivi,Namestaj,1.0,248.95 RSD,120,Kragujevac
+ORD_10076,2025-08-09,Samsung S24 Ultra,Elektronika,3.0,1305.53,900,Novi Sad
+ORD_10077,2025-12-06,Slusalice ANC,Periferije,3.0,95.13 RSD,50,Novi Sad
+ORD_10078,2025-12-08,Dell Monitor 27,Elektronika,3.0,276.51 RSD,180,Novi Sad
+ORD_10079,2025-04-09,Dell Monitor 27,Elektronika,2.0,261.95 RSD,180,
+ORD_10080,2025-10-19,iPhone 15 Pro,Elektronika,5.0,1227.14 RSD,850,Subotica
+ORD_10081,2025-04-18,Radni Sto Podesivi,Namestaj,3.0,243.66 RSD,120,
+ORD_10082,2025-08-15,Kancelarijska Stolica,Namestaj,4.0,137.43 RSD,70,Nis
+ORD_10083,2025-05-26,iPhone 15 Pro,Elektronika,1.0,1035.25 RSD,850,Novi Sad
+ORD_10084,2025-12-11,HP Pavilion Gaming,Elektronika,2.0,866.59 RSD,680,Beograd
+ORD_10085,2025-05-06,Laptop ASUS ZenBook,Elektronika,1.0,1006.54 RSD,750,Subotica
+ORD_10086,2025-11-19,Gaming Mis RGB,Periferije,4.0,49.8 RSD,20,Nis
+ORD_10087,2025-05-05,Gaming Mis RGB,Periferije,4.0,48.88 RSD,20,Subotica
+ORD_10088,2025-04-01,Mehanicka Tastatura,Periferije,2.0,82.2 RSD,35,Nis
+ORD_10089,2025-05-08,Laptop ASUS ZenBook,Elektronika,5.0,1038.89 RSD,750,Beograd
+ORD_10090,2025-10-14,Gaming Mis RGB,Periferije,5.0,43.7 RSD,20,Nis
+ORD_10091,2025-08-07,Slusalice ANC,Periferije,5.0,109.19 RSD,50,Beograd
+ORD_10092,2025-05-13,Gaming Mis RGB,Periferije,4.0,50.11 RSD,20,Novi Sad
+ORD_10093,2025-11-17,Dell Monitor 27,Elektronika,4.0,288.68 RSD,180,
+ORD_10094,2025-05-20,Radni Sto Podesivi,Namestaj,2.0,251.05 RSD,120,Subotica
+ORD_10095,2025-04-29,iPhone 15 Pro,Elektronika,2.0,1138.51 RSD,850,Beograd
+ORD_10096,2025-07-28,HP Pavilion Gaming,Elektronika,4.0,906.82 RSD,680,Subotica
+ORD_10097,2025-07-19,Samsung S24 Ultra,Elektronika,4.0,1216.16 RSD,900,
+ORD_10098,2025-07-14,Laptop ASUS ZenBook,Elektronika,5.0,940.59 RSD,750,Novi Sad
+ORD_10099,2025-10-03,Mehanicka Tastatura,Periferije,4.0,69.73 RSD,35,Kragujevac
+ORD_10100,2025-04-23,Samsung S24 Ultra,Elektronika,4.0,1113.17 RSD,900,Nis
+ORD_10101,2026-01-06,Kancelarijska Stolica,Namestaj,4.0,146.59 RSD,70,Beograd
+ORD_10102,2025-01-14,Slusalice ANC,Periferije,5.0,100.42 RSD,50,
+ORD_10103,2025-11-26,Laptop ASUS ZenBook,Elektronika,1.0,1046.89 RSD,750,Beograd
+ORD_10104,2025-07-14,Laptop ASUS ZenBook,Elektronika,3.0,1134.66 RSD,750,Novi Sad
+ORD_10105,2026-01-21,Mehanicka Tastatura,Periferije,3.0,71.99 RSD,35,Subotica
+ORD_10106,2026-01-19,Gaming Mis RGB,Periferije,1.0,46.6 RSD,20,Novi Sad
+ORD_10107,2026-02-04,Samsung S24 Ultra,Elektronika,,1301.44 RSD,900,Subotica
+ORD_10108,2026-03-06,Samsung S24 Ultra,Elektronika,2.0,1164.49,900,Beograd
+ORD_10109,2025-10-16,Gaming Mis RGB,Periferije,1.0,43.27 RSD,20,Novi Sad
+ORD_10110,2025-11-07,Kancelarijska Stolica,Namestaj,2.0,136.19 RSD,70,Subotica
+ORD_10111,2025-02-25,iPhone 15 Pro,Elektronika,3.0,1058.69 RSD,850,Kragujevac
+ORD_10112,2026-01-02,Mehanicka Tastatura,Periferije,4.0,82.88 RSD,35,
+ORD_10113,2025-12-23,Samsung S24 Ultra,Elektronika,1.0,1315.11 RSD,900,Kragujevac
+ORD_10114,2026-02-05,HP Pavilion Gaming,Elektronika,5.0,927.85,680,
+ORD_10115,2025-09-17,Kancelarijska Stolica,Namestaj,,153.64 RSD,70,Nis
+ORD_10116,2025-08-10,Gaming Mis RGB,Periferije,1.0,50.54 RSD,20,Nis
+ORD_10117,2025-04-01,iPhone 15 Pro,Elektronika,4.0,1064.78 RSD,850,Novi Sad
+ORD_10118,2026-02-01,Slusalice ANC,Periferije,5.0,113.14 RSD,50,
+ORD_10119,2025-06-15,Slusalice ANC,Periferije,3.0,105.37 RSD,50,Subotica
+ORD_10120,2025-05-05,Radni Sto Podesivi,Namestaj,4.0,252.87 RSD,120,
+ORD_10121,2025-01-15,Mehanicka Tastatura,Periferije,3.0,82.34 RSD,35,Nis
+ORD_10122,2026-02-13,Samsung S24 Ultra,Elektronika,3.0,1187.68 RSD,900,Kragujevac
+ORD_10123,2025-01-06,Radni Sto Podesivi,Namestaj,5.0,218.0 RSD,120,Beograd
+ORD_10124,2025-10-12,Mehanicka Tastatura,Periferije,4.0,71.65 RSD,35,
+ORD_10125,2026-02-10,Gaming Mis RGB,Periferije,4.0,46.77,20,Nis
+ORD_10126,2025-12-06,Samsung S24 Ultra,Elektronika,3.0,1317.68 RSD,900,Kragujevac
+ORD_10127,2026-01-17,Kancelarijska Stolica,Namestaj,4.0,153.32 RSD,70,Nis
+ORD_10128,2025-05-09,Radni Sto Podesivi,Namestaj,3.0,212.85 RSD,120,Novi Sad
+ORD_10129,2026-01-26,HP Pavilion Gaming,Elektronika,5.0,904.54 RSD,680,
+ORD_10130,2026-01-06,Gaming Mis RGB,Periferije,3.0,46.67 RSD,20,Kragujevac
+ORD_10131,2026-03-03,Radni Sto Podesivi,Namestaj,1.0,223.61 RSD,120,Beograd
+ORD_10132,2025-12-29,Radni Sto Podesivi,Namestaj,1.0,218.49 RSD,120,Subotica
+ORD_10133,2025-12-24,Dell Monitor 27,Elektronika,3.0,275.26 RSD,180,Nis
+ORD_10134,2025-10-21,HP Pavilion Gaming,Elektronika,1.0,986.65 RSD,680,Novi Sad
+ORD_10135,2025-05-10,iPhone 15 Pro,Elektronika,1.0,1097.57 RSD,850,Subotica
+ORD_10136,2025-02-07,Mehanicka Tastatura,Periferije,4.0,76.3 RSD,35,Beograd
+ORD_10137,2025-06-05,iPhone 15 Pro,Elektronika,5.0,1188.72,850,Kragujevac
+ORD_10138,2025-11-02,Mehanicka Tastatura,Periferije,5.0,73.82 RSD,35,Kragujevac
+ORD_10139,2025-08-15,Mehanicka Tastatura,Periferije,4.0,83.55 RSD,35,Nis
+ORD_10140,2025-11-14,Radni Sto Podesivi,Namestaj,5.0,260.62,120,Subotica
+ORD_10141,2025-05-16,Samsung S24 Ultra,Elektronika,2.0,1170.46 RSD,900,Beograd
+ORD_10142,2025-03-22,Dell Monitor 27,Elektronika,1.0,284.83,180,Kragujevac
+ORD_10143,2025-01-17,Gaming Mis RGB,Periferije,3.0,45.51 RSD,20,
+ORD_10144,2025-12-18,Gaming Mis RGB,Periferije,1.0,45.35 RSD,20,
+ORD_10145,2025-08-06,Slusalice ANC,Periferije,2.0,94.31 RSD,50,Beograd
+ORD_10146,2025-02-06,Radni Sto Podesivi,Namestaj,2.0,242.98,120,Kragujevac
+ORD_10147,2025-08-13,Slusalice ANC,Periferije,3.0,104.56 RSD,50,
+ORD_10148,2025-09-14,Mehanicka Tastatura,Periferije,3.0,68.82 RSD,35,Kragujevac
+ORD_10149,2026-01-12,Laptop ASUS ZenBook,Elektronika,4.0,996.3 RSD,750,Subotica
+ORD_10150,2025-10-28,Samsung S24 Ultra,Elektronika,5.0,1341.15 RSD,900,
+ORD_10151,2025-01-21,Radni Sto Podesivi,Namestaj,5.0,224.48 RSD,120,Kragujevac
+ORD_10152,2025-04-03,Gaming Mis RGB,Periferije,3.0,43.95 RSD,20,Nis
+ORD_10153,2025-06-28,HP Pavilion Gaming,Elektronika,4.0,900.5 RSD,680,Subotica
+ORD_10154,2025-07-30,iPhone 15 Pro,Elektronika,3.0,1256.56 RSD,850,Nis
+ORD_10155,2025-08-21,Dell Monitor 27,Elektronika,1.0,269.52,180,Subotica
+ORD_10156,2026-02-27,Mehanicka Tastatura,Periferije,5.0,78.75 RSD,35,Kragujevac
+ORD_10157,2025-01-28,Gaming Mis RGB,Periferije,4.0,50.12 RSD,20,Nis
+ORD_10158,2025-04-15,Gaming Mis RGB,Periferije,1.0,44.88 RSD,20,Novi Sad
+ORD_10159,2025-03-04,Gaming Mis RGB,Periferije,4.0,49.78,20,Beograd
+ORD_10160,2025-10-10,iPhone 15 Pro,Elektronika,3.0,1108.27,850,Beograd
+ORD_10161,2025-03-02,HP Pavilion Gaming,Elektronika,4.0,927.64 RSD,680,
+ORD_10162,2025-12-28,Radni Sto Podesivi,Namestaj,5.0,244.18 RSD,120,Nis
+ORD_10163,2025-10-10,Samsung S24 Ultra,Elektronika,4.0,1244.3 RSD,900,Kragujevac
+ORD_10164,2026-03-19,Dell Monitor 27,Elektronika,2.0,260.42,180,Nis
+ORD_10165,2025-05-17,Kancelarijska Stolica,Namestaj,5.0,152.56 RSD,70,Novi Sad
+ORD_10166,2025-12-04,Slusalice ANC,Periferije,5.0,100.56 RSD,50,Kragujevac
+ORD_10167,2025-06-20,Gaming Mis RGB,Periferije,3.0,44.37 RSD,20,Nis
+ORD_10168,2025-12-24,Kancelarijska Stolica,Namestaj,2.0,128.72 RSD,70,Nis
+ORD_10169,2026-01-17,Laptop ASUS ZenBook,Elektronika,3.0,1065.0 RSD,750,Nis
+ORD_10170,2025-09-11,Mehanicka Tastatura,Periferije,2.0,78.84 RSD,35,Kragujevac
+ORD_10171,2026-03-24,Kancelarijska Stolica,Namestaj,1.0,128.0 RSD,70,Nis
+ORD_10172,2025-07-29,Laptop ASUS ZenBook,Elektronika,2.0,1047.66 RSD,750,Subotica
+ORD_10173,2025-06-23,Gaming Mis RGB,Periferije,3.0,44.76 RSD,20,Subotica
+ORD_10174,2025-07-14,Kancelarijska Stolica,Namestaj,5.0,146.86 RSD,70,Nis
+ORD_10175,2025-11-13,Dell Monitor 27,Elektronika,1.0,265.46,180,Novi Sad
+ORD_10176,2025-08-11,Samsung S24 Ultra,Elektronika,1.0,1284.64 RSD,900,
+ORD_10177,2025-03-27,HP Pavilion Gaming,Elektronika,4.0,880.98 RSD,680,Subotica
+ORD_10178,2025-05-31,Kancelarijska Stolica,Namestaj,1.0,155.6 RSD,70,Beograd
+ORD_10179,2025-10-17,Dell Monitor 27,Elektronika,4.0,263.25 RSD,180,Beograd
+ORD_10180,2026-03-22,HP Pavilion Gaming,Elektronika,5.0,872.3 RSD,680,Nis
+ORD_10181,2025-04-29,Slusalice ANC,Periferije,2.0,96.0 RSD,50,Novi Sad
+ORD_10182,2025-05-28,Laptop ASUS ZenBook,Elektronika,4.0,1138.43 RSD,750,Nis
+ORD_10183,2025-06-03,Kancelarijska Stolica,Namestaj,5.0,153.82 RSD,70,Novi Sad
+ORD_10184,2025-04-12,Gaming Mis RGB,Periferije,3.0,45.08 RSD,20,Subotica
+ORD_10185,2025-10-20,Samsung S24 Ultra,Elektronika,4.0,1276.6 RSD,900,
+ORD_10186,2026-03-01,Radni Sto Podesivi,Namestaj,1.0,253.36 RSD,120,Kragujevac
+ORD_10187,2026-01-17,Laptop ASUS ZenBook,Elektronika,5.0,1057.14 RSD,750,Novi Sad
+ORD_10188,2026-02-15,Samsung S24 Ultra,Elektronika,5.0,1242.71 RSD,900,Kragujevac
+ORD_10189,2025-11-18,Radni Sto Podesivi,Namestaj,2.0,224.59,120,Subotica
+ORD_10190,2025-01-18,Radni Sto Podesivi,Namestaj,4.0,217.16 RSD,120,Subotica
+ORD_10191,2026-01-18,Radni Sto Podesivi,Namestaj,3.0,257.36 RSD,120,Kragujevac
+ORD_10192,2025-09-14,Kancelarijska Stolica,Namestaj,5.0,154.51 RSD,70,Novi Sad
+ORD_10193,2026-01-18,Gaming Mis RGB,Periferije,3.0,48.83 RSD,20,Nis
+ORD_10194,2026-01-22,HP Pavilion Gaming,Elektronika,2.0,871.92 RSD,680,
+ORD_10195,2025-07-07,Mehanicka Tastatura,Periferije,5.0,73.59,35,Novi Sad
+ORD_10196,2025-08-21,Dell Monitor 27,Elektronika,1.0,298.56 RSD,180,Novi Sad
+ORD_10197,2026-02-26,Slusalice ANC,Periferije,4.0,113.24 RSD,50,
+ORD_10198,2025-01-13,Samsung S24 Ultra,Elektronika,4.0,1335.64 RSD,900,Novi Sad
+ORD_10199,2025-11-28,Slusalice ANC,Periferije,2.0,110.66,50,
+ORD_10200,2025-03-01,Radni Sto Podesivi,Namestaj,4.0,244.6 RSD,120,Novi Sad
+ORD_10201,2025-02-19,Gaming Mis RGB,Periferije,1.0,43.34 RSD,20,Nis
+ORD_10202,2025-12-10,Gaming Mis RGB,Periferije,3.0,44.12 RSD,20,Kragujevac
+ORD_10203,2026-01-16,Mehanicka Tastatura,Periferije,5.0,82.38 RSD,35,
+ORD_10204,2025-11-12,HP Pavilion Gaming,Elektronika,4.0,922.72 RSD,680,Subotica
+ORD_10205,2025-08-16,Kancelarijska Stolica,Namestaj,2.0,127.78 RSD,70,Novi Sad
+ORD_10206,2025-10-06,HP Pavilion Gaming,Elektronika,3.0,826.78 RSD,680,Subotica
+ORD_10207,2025-04-08,Mehanicka Tastatura,Periferije,3.0,78.62 RSD,35,Nis
+ORD_10208,2025-11-25,HP Pavilion Gaming,Elektronika,2.0,808.46 RSD,680,Subotica
+ORD_10209,2025-03-06,Kancelarijska Stolica,Namestaj,2.0,132.32 RSD,70,Kragujevac
+ORD_10210,2025-04-21,Samsung S24 Ultra,Elektronika,5.0,1247.67 RSD,900,Beograd
+ORD_10211,2025-05-22,Slusalice ANC,Periferije,1.0,108.72 RSD,50,Beograd
+ORD_10212,2026-02-13,Dell Monitor 27,Elektronika,3.0,294.12 RSD,180,Subotica
+ORD_10213,2025-07-03,iPhone 15 Pro,Elektronika,1.0,1073.82 RSD,850,Novi Sad
+ORD_10214,2025-05-16,Laptop ASUS ZenBook,Elektronika,2.0,1091.68,750,Kragujevac
+ORD_10215,2025-09-01,HP Pavilion Gaming,Elektronika,1.0,852.58 RSD,680,Kragujevac
+ORD_10216,2025-09-15,HP Pavilion Gaming,Elektronika,4.0,869.33 RSD,680,
+ORD_10217,2025-08-23,Dell Monitor 27,Elektronika,,299.79 RSD,180,Nis
+ORD_10218,2025-12-18,Mehanicka Tastatura,Periferije,4.0,78.39 RSD,35,Nis
+ORD_10219,2025-06-14,HP Pavilion Gaming,Elektronika,1.0,968.85 RSD,680,Novi Sad
+ORD_10220,2025-10-08,Slusalice ANC,Periferije,5.0,107.97 RSD,50,Kragujevac
+ORD_10221,2025-08-21,Dell Monitor 27,Elektronika,3.0,289.1 RSD,180,
+ORD_10222,2026-01-05,HP Pavilion Gaming,Elektronika,5.0,825.3 RSD,680,Beograd
+ORD_10223,2026-02-28,Mehanicka Tastatura,Periferije,3.0,73.88 RSD,35,Subotica
+ORD_10224,2025-06-10,Kancelarijska Stolica,Namestaj,4.0,135.46 RSD,70,Beograd
+ORD_10225,2025-02-16,Gaming Mis RGB,Periferije,1.0,44.94 RSD,20,Subotica
+ORD_10226,2025-10-12,Kancelarijska Stolica,Namestaj,2.0,156.69,70,Kragujevac
+ORD_10227,2025-07-30,Kancelarijska Stolica,Namestaj,1.0,139.29 RSD,70,Nis
+ORD_10228,2025-11-04,Laptop ASUS ZenBook,Elektronika,3.0,1131.25 RSD,750,Kragujevac
+ORD_10229,2025-12-03,Samsung S24 Ultra,Elektronika,2.0,1269.1 RSD,900,Novi Sad
+ORD_10230,2025-02-28,Dell Monitor 27,Elektronika,3.0,302.69 RSD,180,Nis
+ORD_10231,2025-11-11,Dell Monitor 27,Elektronika,5.0,285.16 RSD,180,Kragujevac
+ORD_10232,2025-04-03,Radni Sto Podesivi,Namestaj,1.0,241.35 RSD,120,Novi Sad
+ORD_10233,2025-04-03,Kancelarijska Stolica,Namestaj,1.0,142.28 RSD,70,Nis
+ORD_10234,2026-01-15,HP Pavilion Gaming,Elektronika,,844.6 RSD,680,
+ORD_10235,2025-07-12,Dell Monitor 27,Elektronika,2.0,298.35 RSD,180,Novi Sad
+ORD_10236,2026-02-02,Radni Sto Podesivi,Namestaj,3.0,226.54 RSD,120,Subotica
+ORD_10237,2026-01-22,iPhone 15 Pro,Elektronika,2.0,1025.84 RSD,850,Novi Sad
+ORD_10238,2025-09-06,Gaming Mis RGB,Periferije,4.0,48.95 RSD,20,Beograd
+ORD_10239,2025-06-26,Dell Monitor 27,Elektronika,1.0,265.63 RSD,180,
+ORD_10240,2025-09-27,Slusalice ANC,Periferije,,114.19 RSD,50,Nis
+ORD_10241,2025-01-04,Slusalice ANC,Periferije,1.0,114.49 RSD,50,Beograd
+ORD_10242,2025-06-17,Radni Sto Podesivi,Namestaj,3.0,258.24 RSD,120,Nis
+ORD_10243,2025-07-14,iPhone 15 Pro,Elektronika,2.0,1108.84 RSD,850,Kragujevac
+ORD_10244,2025-07-23,Kancelarijska Stolica,Namestaj,,127.96 RSD,70,Subotica
+ORD_10245,2026-03-18,Gaming Mis RGB,Periferije,1.0,51.78 RSD,20,Nis
+ORD_10246,2025-02-28,Mehanicka Tastatura,Periferije,3.0,74.85 RSD,35,Beograd
+ORD_10247,2026-03-02,Slusalice ANC,Periferije,4.0,114.77 RSD,50,Nis
+ORD_10248,2025-08-12,HP Pavilion Gaming,Elektronika,2.0,990.59 RSD,680,Nis
+ORD_10249,2025-04-24,Radni Sto Podesivi,Namestaj,3.0,255.15 RSD,120,Kragujevac
+ORD_10250,2025-09-19,HP Pavilion Gaming,Elektronika,5.0,863.45 RSD,680,Novi Sad
+ORD_10251,2025-02-22,iPhone 15 Pro,Elektronika,2.0,1112.42 RSD,850,Kragujevac
+ORD_10252,2025-04-01,iPhone 15 Pro,Elektronika,1.0,1224.27 RSD,850,Nis
+ORD_10253,2025-08-18,Slusalice ANC,Periferije,5.0,100.47 RSD,50,
+ORD_10254,2026-03-19,Slusalice ANC,Periferije,3.0,97.23 RSD,50,Nis
+ORD_10255,2025-08-15,HP Pavilion Gaming,Elektronika,4.0,913.29 RSD,680,Kragujevac
+ORD_10256,2025-09-17,Laptop ASUS ZenBook,Elektronika,3.0,1140.95,750,Subotica
+ORD_10257,2026-03-02,Laptop ASUS ZenBook,Elektronika,3.0,1088.13 RSD,750,Subotica
+ORD_10258,2025-09-17,Slusalice ANC,Periferije,5.0,106.04 RSD,50,
+ORD_10259,2026-02-19,Laptop ASUS ZenBook,Elektronika,4.0,956.38 RSD,750,Kragujevac
+ORD_10260,2025-03-19,Gaming Mis RGB,Periferije,5.0,48.65 RSD,20,Novi Sad
+ORD_10261,2025-11-27,HP Pavilion Gaming,Elektronika,5.0,995.61 RSD,680,Nis
+ORD_10262,2025-09-25,Gaming Mis RGB,Periferije,5.0,43.9 RSD,20,Novi Sad
+ORD_10263,2026-02-01,Mehanicka Tastatura,Periferije,4.0,76.29 RSD,35,
+ORD_10264,2025-06-18,Kancelarijska Stolica,Namestaj,1.0,153.82,70,Novi Sad
+ORD_10265,2026-03-24,Radni Sto Podesivi,Namestaj,5.0,249.54 RSD,120,
+ORD_10266,2025-06-08,iPhone 15 Pro,Elektronika,3.0,1187.28 RSD,850,Nis
+ORD_10267,2025-12-29,iPhone 15 Pro,Elektronika,5.0,1188.6 RSD,850,Nis
+ORD_10268,2025-12-10,Kancelarijska Stolica,Namestaj,2.0,138.28 RSD,70,
+ORD_10269,2025-11-27,Dell Monitor 27,Elektronika,1.0,272.62 RSD,180,Subotica
+ORD_10270,2025-04-03,Kancelarijska Stolica,Namestaj,3.0,151.78 RSD,70,Nis
+ORD_10271,2025-03-12,Samsung S24 Ultra,Elektronika,2.0,1315.63 RSD,900,Subotica
+ORD_10272,2026-03-04,Dell Monitor 27,Elektronika,5.0,307.02 RSD,180,
+ORD_10273,2025-03-09,Kancelarijska Stolica,Namestaj,5.0,154.9 RSD,70,Beograd
+ORD_10274,2026-01-05,Slusalice ANC,Periferije,2.0,104.75 RSD,50,
+ORD_10275,2025-11-09,Samsung S24 Ultra,Elektronika,4.0,1235.39 RSD,900,Nis
+ORD_10276,2025-05-03,Samsung S24 Ultra,Elektronika,5.0,1312.56 RSD,900,Nis
+ORD_10277,2025-12-14,Samsung S24 Ultra,Elektronika,3.0,1273.99 RSD,900,Nis
+ORD_10278,2025-09-15,Radni Sto Podesivi,Namestaj,4.0,247.6 RSD,120,Beograd
+ORD_10279,2026-03-23,Slusalice ANC,Periferije,2.0,111.01 RSD,50,Novi Sad
+ORD_10280,2025-12-31,Dell Monitor 27,Elektronika,1.0,308.4 RSD,180,Novi Sad
+ORD_10281,2025-05-20,HP Pavilion Gaming,Elektronika,2.0,871.72 RSD,680,Nis
+ORD_10282,2026-02-23,HP Pavilion Gaming,Elektronika,2.0,878.86 RSD,680,Subotica
+ORD_10283,2025-07-22,Mehanicka Tastatura,Periferije,1.0,69.5 RSD,35,Subotica
+ORD_10284,2025-01-15,Kancelarijska Stolica,Namestaj,2.0,144.85 RSD,70,
+ORD_10285,2025-03-12,Kancelarijska Stolica,Namestaj,2.0,128.58,70,Nis
+ORD_10286,2025-08-18,iPhone 15 Pro,Elektronika,4.0,1131.74 RSD,850,Subotica
+ORD_10287,2026-03-04,Radni Sto Podesivi,Namestaj,2.0,239.63 RSD,120,Kragujevac
+ORD_10288,2025-02-26,Dell Monitor 27,Elektronika,4.0,272.19 RSD,180,Subotica
+ORD_10289,2025-08-03,Laptop ASUS ZenBook,Elektronika,2.0,1064.98 RSD,750,Subotica
+ORD_10290,2025-11-02,HP Pavilion Gaming,Elektronika,4.0,813.3 RSD,680,Kragujevac
+ORD_10291,2025-05-30,Samsung S24 Ultra,Elektronika,2.0,1114.71 RSD,900,Beograd
+ORD_10292,2025-04-06,Slusalice ANC,Periferije,4.0,111.6 RSD,50,Novi Sad
+ORD_10293,2025-10-06,HP Pavilion Gaming,Elektronika,5.0,875.94 RSD,680,Kragujevac
+ORD_10294,2026-03-24,Laptop ASUS ZenBook,Elektronika,4.0,962.95 RSD,750,Novi Sad
+ORD_10295,2025-07-02,Radni Sto Podesivi,Namestaj,1.0,238.61 RSD,120,
+ORD_10296,2026-01-12,HP Pavilion Gaming,Elektronika,5.0,953.8 RSD,680,Novi Sad
+ORD_10297,2026-02-21,Dell Monitor 27,Elektronika,3.0,267.95 RSD,180,
+ORD_10298,2025-11-20,Gaming Mis RGB,Periferije,4.0,48.73 RSD,20,
+ORD_10299,2025-05-31,Gaming Mis RGB,Periferije,1.0,43.35 RSD,20,Subotica
+ORD_10300,2025-09-21,Kancelarijska Stolica,Namestaj,3.0,129.05 RSD,70,Nis
+ORD_10301,2026-01-21,Radni Sto Podesivi,Namestaj,1.0,239.07 RSD,120,Subotica
+ORD_10302,2025-03-05,Kancelarijska Stolica,Namestaj,3.0,143.72 RSD,70,Nis
+ORD_10303,2025-06-23,Gaming Mis RGB,Periferije,4.0,48.87 RSD,20,Nis
+ORD_10304,2025-05-17,Kancelarijska Stolica,Namestaj,5.0,149.28 RSD,70,Subotica
+ORD_10305,2026-02-26,Mehanicka Tastatura,Periferije,5.0,83.61 RSD,35,Subotica
+ORD_10306,2025-12-05,HP Pavilion Gaming,Elektronika,3.0,905.6 RSD,680,
+ORD_10307,2025-12-20,Mehanicka Tastatura,Periferije,2.0,73.17 RSD,35,
+ORD_10308,2025-08-11,Kancelarijska Stolica,Namestaj,5.0,151.36 RSD,70,Subotica
+ORD_10309,2025-07-06,HP Pavilion Gaming,Elektronika,4.0,858.96 RSD,680,Beograd
+ORD_10310,2026-03-11,Laptop ASUS ZenBook,Elektronika,2.0,1031.57 RSD,750,Subotica
+ORD_10311,2025-05-01,iPhone 15 Pro,Elektronika,1.0,1038.83 RSD,850,Nis
+ORD_10312,2025-11-06,Slusalice ANC,Periferije,1.0,94.06 RSD,50,Novi Sad
+ORD_10313,2026-01-26,Kancelarijska Stolica,Namestaj,4.0,156.38,70,Novi Sad
+ORD_10314,2025-11-29,Mehanicka Tastatura,Periferije,3.0,81.38 RSD,35,Subotica
+ORD_10315,2025-09-23,iPhone 15 Pro,Elektronika,4.0,1187.03 RSD,850,Novi Sad
+ORD_10316,2025-04-20,Radni Sto Podesivi,Namestaj,4.0,232.95 RSD,120,Nis
+ORD_10317,2025-03-11,Samsung S24 Ultra,Elektronika,1.0,1150.06 RSD,900,
+ORD_10318,2026-02-19,Gaming Mis RGB,Periferije,1.0,44.06 RSD,20,Novi Sad
+ORD_10319,2025-10-09,Kancelarijska Stolica,Namestaj,1.0,135.01 RSD,70,Beograd
+ORD_10320,2025-09-18,iPhone 15 Pro,Elektronika,3.0,1151.81 RSD,850,Beograd
+ORD_10321,2025-01-14,Samsung S24 Ultra,Elektronika,4.0,1290.79 RSD,900,Nis
+ORD_10322,2025-11-10,Dell Monitor 27,Elektronika,2.0,294.61 RSD,180,Nis
+ORD_10323,2025-07-30,Gaming Mis RGB,Periferije,5.0,45.3 RSD,20,Subotica
+ORD_10324,2025-11-25,iPhone 15 Pro,Elektronika,3.0,1249.17,850,Kragujevac
+ORD_10325,2026-03-26,Kancelarijska Stolica,Namestaj,2.0,149.64 RSD,70,Kragujevac
+ORD_10326,2025-08-10,iPhone 15 Pro,Elektronika,2.0,1153.04 RSD,850,Subotica
+ORD_10327,2025-06-05,Dell Monitor 27,Elektronika,2.0,291.7 RSD,180,
+ORD_10328,2025-09-23,Samsung S24 Ultra,Elektronika,3.0,1214.1 RSD,900,Novi Sad
+ORD_10329,2025-05-21,Samsung S24 Ultra,Elektronika,5.0,1169.41 RSD,900,Kragujevac
+ORD_10330,2025-11-25,HP Pavilion Gaming,Elektronika,5.0,875.13 RSD,680,Beograd
+ORD_10331,2026-01-04,iPhone 15 Pro,Elektronika,5.0,1201.88 RSD,850,Kragujevac
+ORD_10332,2025-02-11,Laptop ASUS ZenBook,Elektronika,1.0,938.17,750,Kragujevac
+ORD_10333,2026-01-28,Radni Sto Podesivi,Namestaj,2.0,218.3 RSD,120,Subotica
+ORD_10334,2025-05-29,Gaming Mis RGB,Periferije,5.0,42.96 RSD,20,Beograd
+ORD_10335,2025-08-21,Mehanicka Tastatura,Periferije,3.0,68.65,35,Nis
+ORD_10336,2025-08-26,Mehanicka Tastatura,Periferije,4.0,81.69 RSD,35,Novi Sad
+ORD_10337,2025-07-24,Kancelarijska Stolica,Namestaj,3.0,148.61 RSD,70,Kragujevac
+ORD_10338,2025-05-04,HP Pavilion Gaming,Elektronika,3.0,897.59 RSD,680,Beograd
+ORD_10339,2025-01-26,iPhone 15 Pro,Elektronika,1.0,1043.48 RSD,850,Kragujevac
+ORD_10340,2026-03-20,Mehanicka Tastatura,Periferije,2.0,75.87 RSD,35,Kragujevac
+ORD_10341,2026-01-26,Kancelarijska Stolica,Namestaj,2.0,141.7 RSD,70,Nis
+ORD_10342,2025-09-12,Gaming Mis RGB,Periferije,3.0,44.23,20,Kragujevac
+ORD_10343,2025-04-21,Gaming Mis RGB,Periferije,,46.84 RSD,20,Novi Sad
+ORD_10344,2026-03-08,Gaming Mis RGB,Periferije,5.0,46.49 RSD,20,Kragujevac
+ORD_10345,2025-08-09,Laptop ASUS ZenBook,Elektronika,1.0,1070.49 RSD,750,Novi Sad
+ORD_10346,2025-01-24,Mehanicka Tastatura,Periferije,3.0,78.16 RSD,35,Beograd
+ORD_10347,2025-05-28,Kancelarijska Stolica,Namestaj,5.0,128.86,70,Kragujevac
+ORD_10348,2025-12-15,Radni Sto Podesivi,Namestaj,5.0,231.23 RSD,120,Subotica
+ORD_10349,2026-02-11,Mehanicka Tastatura,Periferije,3.0,78.01 RSD,35,Novi Sad
+ORD_10350,2025-11-05,iPhone 15 Pro,Elektronika,2.0,1140.75 RSD,850,Subotica
+ORD_10351,2026-01-01,Laptop ASUS ZenBook,Elektronika,2.0,1123.43 RSD,750,Nis
+ORD_10352,2025-09-21,iPhone 15 Pro,Elektronika,5.0,1178.09 RSD,850,Novi Sad
+ORD_10353,2025-11-12,iPhone 15 Pro,Elektronika,4.0,1059.1 RSD,850,Novi Sad
+ORD_10354,2025-09-30,Dell Monitor 27,Elektronika,5.0,259.23 RSD,180,Nis
+ORD_10355,2025-06-19,Laptop ASUS ZenBook,Elektronika,3.0,1076.33 RSD,750,Kragujevac
+ORD_10356,2025-11-02,Radni Sto Podesivi,Namestaj,1.0,213.83 RSD,120,Kragujevac
+ORD_10357,2026-01-05,Slusalice ANC,Periferije,2.0,106.39,50,Kragujevac
+ORD_10358,2025-03-17,Slusalice ANC,Periferije,4.0,114.19 RSD,50,Kragujevac
+ORD_10359,2025-01-10,HP Pavilion Gaming,Elektronika,2.0,916.84 RSD,680,Nis
+ORD_10360,2025-09-14,Samsung S24 Ultra,Elektronika,4.0,1205.92 RSD,900,
+ORD_10361,2025-09-23,Laptop ASUS ZenBook,Elektronika,2.0,1076.52 RSD,750,
+ORD_10362,2025-07-12,Gaming Mis RGB,Periferije,5.0,47.08 RSD,20,Kragujevac
+ORD_10363,2025-07-01,Kancelarijska Stolica,Namestaj,5.0,143.87 RSD,70,
+ORD_10364,2025-09-05,Radni Sto Podesivi,Namestaj,5.0,259.57 RSD,120,Kragujevac
+ORD_10365,2025-06-02,Radni Sto Podesivi,Namestaj,2.0,231.81 RSD,120,
+ORD_10366,2025-09-03,Gaming Mis RGB,Periferije,3.0,52.11 RSD,20,
+ORD_10367,2025-03-04,Radni Sto Podesivi,Namestaj,3.0,257.77 RSD,120,Nis
+ORD_10368,2025-05-29,Kancelarijska Stolica,Namestaj,2.0,133.37,70,Subotica
+ORD_10369,2025-12-02,Kancelarijska Stolica,Namestaj,4.0,129.58 RSD,70,Beograd
+ORD_10370,2025-10-15,Dell Monitor 27,Elektronika,3.0,261.05 RSD,180,Kragujevac
+ORD_10371,2025-05-05,Slusalice ANC,Periferije,2.0,93.9,50,Beograd
+ORD_10372,2025-02-21,Samsung S24 Ultra,Elektronika,1.0,1129.56 RSD,900,Subotica
+ORD_10373,2025-10-09,iPhone 15 Pro,Elektronika,1.0,1183.92 RSD,850,
+ORD_10374,2025-11-30,Gaming Mis RGB,Periferije,4.0,43.21 RSD,20,Novi Sad
+ORD_10375,2026-01-29,Radni Sto Podesivi,Namestaj,1.0,228.45,120,Kragujevac
+ORD_10376,2025-08-02,Laptop ASUS ZenBook,Elektronika,2.0,1120.87 RSD,750,Subotica
+ORD_10377,2025-04-06,Mehanicka Tastatura,Periferije,4.0,68.37 RSD,35,Novi Sad
+ORD_10378,2025-06-02,Laptop ASUS ZenBook,Elektronika,1.0,1114.18 RSD,750,Novi Sad
+ORD_10379,2025-11-25,Radni Sto Podesivi,Namestaj,4.0,226.59 RSD,120,Beograd
+ORD_10380,2025-05-20,Dell Monitor 27,Elektronika,4.0,262.09 RSD,180,Beograd
+ORD_10381,2026-01-03,Gaming Mis RGB,Periferije,3.0,49.47 RSD,20,Novi Sad
+ORD_10382,2025-03-31,Slusalice ANC,Periferije,2.0,107.34 RSD,50,Nis
+ORD_10383,2025-06-17,Mehanicka Tastatura,Periferije,5.0,82.04,35,Beograd
+ORD_10384,2025-06-15,iPhone 15 Pro,Elektronika,,1196.42 RSD,850,Nis
+ORD_10385,2026-01-21,Samsung S24 Ultra,Elektronika,4.0,1313.91 RSD,900,Kragujevac
+ORD_10386,2025-05-14,Slusalice ANC,Periferije,1.0,99.7 RSD,50,Subotica
+ORD_10387,2025-06-07,HP Pavilion Gaming,Elektronika,4.0,841.21 RSD,680,
+ORD_10388,2025-11-24,Radni Sto Podesivi,Namestaj,1.0,250.03 RSD,120,Kragujevac
+ORD_10389,2025-03-10,Samsung S24 Ultra,Elektronika,2.0,1314.78 RSD,900,Kragujevac
+ORD_10390,2025-12-26,Kancelarijska Stolica,Namestaj,4.0,157.22 RSD,70,Kragujevac
+ORD_10391,2025-12-15,Samsung S24 Ultra,Elektronika,2.0,1212.28 RSD,900,Subotica
+ORD_10392,2025-09-28,Dell Monitor 27,Elektronika,4.0,277.32 RSD,180,Kragujevac
+ORD_10393,2026-03-01,HP Pavilion Gaming,Elektronika,1.0,955.02 RSD,680,Kragujevac
+ORD_10394,2025-03-26,Dell Monitor 27,Elektronika,2.0,275.45 RSD,180,Subotica
+ORD_10395,2025-09-08,Samsung S24 Ultra,Elektronika,5.0,1347.0,900,Subotica
+ORD_10396,2025-09-20,Gaming Mis RGB,Periferije,2.0,51.08 RSD,20,Kragujevac
+ORD_10397,2026-01-06,Gaming Mis RGB,Periferije,3.0,46.79,20,Subotica
+ORD_10398,2025-02-07,Samsung S24 Ultra,Elektronika,5.0,1300.23,900,Subotica
+ORD_10399,2025-02-05,Dell Monitor 27,Elektronika,1.0,300.27 RSD,180,Novi Sad
+ORD_10400,2026-01-29,Mehanicka Tastatura,Periferije,2.0,69.65 RSD,35,
+ORD_10401,2025-07-15,Mehanicka Tastatura,Periferije,3.0,82.44 RSD,35,Nis
+ORD_10402,2025-12-16,Mehanicka Tastatura,Periferije,1.0,76.08 RSD,35,Beograd
+ORD_10403,2025-04-02,Kancelarijska Stolica,Namestaj,1.0,152.29 RSD,70,Beograd
+ORD_10404,2026-01-23,Samsung S24 Ultra,Elektronika,1.0,1188.21,900,
+ORD_10405,2025-09-30,Dell Monitor 27,Elektronika,4.0,308.73 RSD,180,Nis
+ORD_10406,2025-05-22,Kancelarijska Stolica,Namestaj,2.0,139.18 RSD,70,Subotica
+ORD_10407,2025-11-11,Laptop ASUS ZenBook,Elektronika,4.0,937.38 RSD,750,Subotica
+ORD_10408,2025-02-04,Samsung S24 Ultra,Elektronika,,1340.4 RSD,900,Kragujevac
+ORD_10409,2026-01-15,Laptop ASUS ZenBook,Elektronika,2.0,955.08,750,Kragujevac
+ORD_10410,2025-03-13,Samsung S24 Ultra,Elektronika,1.0,1188.02 RSD,900,
+ORD_10411,2025-10-23,Slusalice ANC,Periferije,3.0,114.4 RSD,50,Novi Sad
+ORD_10412,2026-03-25,Samsung S24 Ultra,Elektronika,3.0,1352.16 RSD,900,Beograd
+ORD_10413,2025-05-21,Mehanicka Tastatura,Periferije,3.0,77.18,35,
+ORD_10414,2025-10-12,iPhone 15 Pro,Elektronika,4.0,1171.64 RSD,850,
+ORD_10415,2025-06-13,Mehanicka Tastatura,Periferije,5.0,75.18 RSD,35,Novi Sad
+ORD_10416,2026-01-22,Mehanicka Tastatura,Periferije,2.0,72.69 RSD,35,Beograd
+ORD_10417,2026-02-17,Radni Sto Podesivi,Namestaj,2.0,228.93 RSD,120,Nis
+ORD_10418,2025-09-29,Mehanicka Tastatura,Periferije,5.0,78.76 RSD,35,Beograd
+ORD_10419,2025-08-19,Kancelarijska Stolica,Namestaj,1.0,150.07 RSD,70,
+ORD_10420,2025-05-18,Samsung S24 Ultra,Elektronika,1.0,1310.81 RSD,900,Subotica
+ORD_10421,2026-02-16,HP Pavilion Gaming,Elektronika,2.0,957.53 RSD,680,Kragujevac
+ORD_10422,2025-04-17,Samsung S24 Ultra,Elektronika,4.0,1128.71 RSD,900,Subotica
+ORD_10423,2026-01-15,Samsung S24 Ultra,Elektronika,2.0,1233.55 RSD,900,Nis
+ORD_10424,2025-12-27,Samsung S24 Ultra,Elektronika,5.0,1119.97 RSD,900,Kragujevac
+ORD_10425,2025-07-14,Kancelarijska Stolica,Namestaj,3.0,143.99 RSD,70,Novi Sad
+ORD_10426,2025-09-20,Radni Sto Podesivi,Namestaj,3.0,234.58 RSD,120,
+ORD_10427,2025-04-15,Gaming Mis RGB,Periferije,3.0,51.38 RSD,20,Kragujevac
+ORD_10428,2025-01-09,Samsung S24 Ultra,Elektronika,2.0,1196.24 RSD,900,Kragujevac
+ORD_10429,2025-03-20,Mehanicka Tastatura,Periferije,3.0,69.87 RSD,35,Kragujevac
+ORD_10430,2025-10-09,Samsung S24 Ultra,Elektronika,4.0,1142.18 RSD,900,Novi Sad
+ORD_10431,2025-08-24,Gaming Mis RGB,Periferije,4.0,50.12 RSD,20,Beograd
+ORD_10432,2025-09-08,iPhone 15 Pro,Elektronika,5.0,1168.37 RSD,850,
+ORD_10433,2025-01-18,Laptop ASUS ZenBook,Elektronika,5.0,957.25 RSD,750,
+ORD_10434,2025-07-31,Laptop ASUS ZenBook,Elektronika,1.0,953.5 RSD,750,Subotica
+ORD_10435,2025-04-22,iPhone 15 Pro,Elektronika,1.0,1188.23 RSD,850,Kragujevac
+ORD_10436,2025-12-04,Slusalice ANC,Periferije,,95.1 RSD,50,Kragujevac
+ORD_10437,2025-01-09,Mehanicka Tastatura,Periferije,1.0,81.15 RSD,35,Novi Sad
+ORD_10438,2026-02-21,Laptop ASUS ZenBook,Elektronika,5.0,1090.37 RSD,750,Beograd
+ORD_10439,2025-09-26,HP Pavilion Gaming,Elektronika,1.0,822.96 RSD,680,Kragujevac
+ORD_10440,2025-05-17,Radni Sto Podesivi,Namestaj,3.0,216.74 RSD,120,Nis
+ORD_10441,2025-05-05,Gaming Mis RGB,Periferije,5.0,52.37 RSD,20,
+ORD_10442,2025-02-17,HP Pavilion Gaming,Elektronika,1.0,878.61 RSD,680,Nis
+ORD_10443,2025-12-26,Laptop ASUS ZenBook,Elektronika,1.0,1016.54 RSD,750,Nis
+ORD_10444,2026-03-16,Kancelarijska Stolica,Namestaj,5.0,151.88 RSD,70,Subotica
+ORD_10445,2026-03-21,Samsung S24 Ultra,Elektronika,2.0,1351.28 RSD,900,Novi Sad
+ORD_10446,2025-12-17,Laptop ASUS ZenBook,Elektronika,1.0,1151.92 RSD,750,Kragujevac
+ORD_10447,2026-03-12,Laptop ASUS ZenBook,Elektronika,2.0,1100.74 RSD,750,Kragujevac
+ORD_10448,2025-02-09,iPhone 15 Pro,Elektronika,4.0,1110.3 RSD,850,Kragujevac
+ORD_10449,2025-06-19,Mehanicka Tastatura,Periferije,5.0,69.34 RSD,35,
+ORD_10450,2026-01-17,HP Pavilion Gaming,Elektronika,5.0,955.16 RSD,680,Nis
+ORD_10451,2025-06-24,Samsung S24 Ultra,Elektronika,1.0,1250.19 RSD,900,Kragujevac
+ORD_10452,2025-01-16,Mehanicka Tastatura,Periferije,3.0,74.79 RSD,35,Nis
+ORD_10453,2025-07-02,Gaming Mis RGB,Periferije,2.0,51.56 RSD,20,Beograd
+ORD_10454,2025-02-13,Slusalice ANC,Periferije,4.0,95.95 RSD,50,Beograd
+ORD_10455,2025-05-18,HP Pavilion Gaming,Elektronika,1.0,901.1 RSD,680,
+ORD_10456,2025-06-12,iPhone 15 Pro,Elektronika,4.0,1022.72 RSD,850,Novi Sad
+ORD_10457,2026-01-25,Gaming Mis RGB,Periferije,3.0,47.19 RSD,20,Beograd
+ORD_10458,2025-10-13,Mehanicka Tastatura,Periferije,4.0,68.9 RSD,35,Subotica
+ORD_10459,2025-10-11,HP Pavilion Gaming,Elektronika,3.0,830.08,680,Novi Sad
+ORD_10460,2025-05-30,Mehanicka Tastatura,Periferije,1.0,69.88 RSD,35,
+ORD_10461,2025-10-20,Dell Monitor 27,Elektronika,2.0,293.95 RSD,180,Beograd
+ORD_10462,2025-06-04,iPhone 15 Pro,Elektronika,3.0,1199.05 RSD,850,Beograd
+ORD_10463,2025-08-04,Mehanicka Tastatura,Periferije,3.0,77.33 RSD,35,Novi Sad
+ORD_10464,2026-01-05,Radni Sto Podesivi,Namestaj,2.0,260.61 RSD,120,Beograd
+ORD_10465,2025-03-11,Gaming Mis RGB,Periferije,1.0,46.25 RSD,20,Novi Sad
+ORD_10466,2026-02-16,Slusalice ANC,Periferije,4.0,99.79 RSD,50,Nis
+ORD_10467,2025-06-03,Slusalice ANC,Periferije,2.0,112.61 RSD,50,Beograd
+ORD_10468,2025-04-01,Gaming Mis RGB,Periferije,3.0,44.74 RSD,20,Novi Sad
+ORD_10469,2026-02-05,Gaming Mis RGB,Periferije,5.0,52.13 RSD,20,Nis
+ORD_10470,2025-10-16,Kancelarijska Stolica,Namestaj,1.0,127.86 RSD,70,Beograd
+ORD_10471,2026-01-08,Dell Monitor 27,Elektronika,1.0,313.19 RSD,180,Nis
+ORD_10472,2026-02-24,Radni Sto Podesivi,Namestaj,1.0,214.66 RSD,120,
+ORD_10473,2025-11-21,Gaming Mis RGB,Periferije,2.0,51.41 RSD,20,Beograd
+ORD_10474,2025-02-07,Mehanicka Tastatura,Periferije,4.0,76.44 RSD,35,Kragujevac
+ORD_10475,2025-09-17,Mehanicka Tastatura,Periferije,5.0,83.89 RSD,35,Nis
+ORD_10476,2026-02-09,Dell Monitor 27,Elektronika,1.0,259.43 RSD,180,Kragujevac
+ORD_10477,2025-02-25,Slusalice ANC,Periferije,1.0,105.68 RSD,50,Novi Sad
+ORD_10478,2025-01-23,iPhone 15 Pro,Elektronika,5.0,1252.63 RSD,850,
+ORD_10479,2026-02-12,Mehanicka Tastatura,Periferije,,76.37 RSD,35,Novi Sad
+ORD_10480,2026-01-18,Samsung S24 Ultra,Elektronika,5.0,1268.64 RSD,900,Kragujevac
+ORD_10481,2025-07-11,Samsung S24 Ultra,Elektronika,4.0,1285.89 RSD,900,Kragujevac
+ORD_10482,2025-06-26,Dell Monitor 27,Elektronika,2.0,282.27 RSD,180,Novi Sad
+ORD_10483,2025-03-01,Mehanicka Tastatura,Periferije,1.0,78.04 RSD,35,Novi Sad
+ORD_10484,2025-08-22,Radni Sto Podesivi,Namestaj,3.0,241.72 RSD,120,Novi Sad
+ORD_10485,2025-08-13,Gaming Mis RGB,Periferije,1.0,51.51 RSD,20,Subotica
+ORD_10486,2026-02-19,Radni Sto Podesivi,Namestaj,,214.77 RSD,120,Novi Sad
+ORD_10487,2026-01-15,HP Pavilion Gaming,Elektronika,2.0,860.88 RSD,680,Beograd
+ORD_10488,2025-08-07,Kancelarijska Stolica,Namestaj,5.0,156.01 RSD,70,Nis
+ORD_10489,2025-11-24,iPhone 15 Pro,Elektronika,2.0,1233.66 RSD,850,
+ORD_10490,2025-08-19,Slusalice ANC,Periferije,2.0,103.52 RSD,50,
+ORD_10491,2025-05-23,Samsung S24 Ultra,Elektronika,2.0,1266.23 RSD,900,Subotica
+ORD_10492,2026-02-14,Slusalice ANC,Periferije,1.0,99.6 RSD,50,Novi Sad
+ORD_10493,2025-02-28,Samsung S24 Ultra,Elektronika,4.0,1153.91 RSD,900,Kragujevac
+ORD_10494,2025-07-18,Kancelarijska Stolica,Namestaj,5.0,141.41 RSD,70,Novi Sad
+ORD_10495,2025-11-13,Kancelarijska Stolica,Namestaj,4.0,138.1 RSD,70,Novi Sad
+ORD_10496,2025-02-13,Slusalice ANC,Periferije,5.0,106.34 RSD,50,Beograd
+ORD_10497,2025-04-04,Radni Sto Podesivi,Namestaj,1.0,216.39 RSD,120,Nis
+ORD_10498,2025-03-12,Mehanicka Tastatura,Periferije,5.0,83.59 RSD,35,Nis
+ORD_10499,2025-10-12,Dell Monitor 27,Elektronika,2.0,314.17 RSD,180,Beograd
+ORD_10500,2025-11-14,Kancelarijska Stolica,Namestaj,4.0,148.44,70,Subotica
+ORD_10501,2025-04-10,Gaming Mis RGB,Periferije,2.0,47.86 RSD,20,Kragujevac
+ORD_10502,2025-12-17,Gaming Mis RGB,Periferije,4.0,45.6 RSD,20,Nis
+ORD_10503,2025-02-12,Gaming Mis RGB,Periferije,2.0,50.64 RSD,20,Beograd
+ORD_10504,2025-05-21,Radni Sto Podesivi,Namestaj,1.0,246.74 RSD,120,Nis
+ORD_10505,2025-10-09,Slusalice ANC,Periferije,4.0,97.08 RSD,50,Novi Sad
+ORD_10506,2025-10-05,Dell Monitor 27,Elektronika,,309.66 RSD,180,
+ORD_10507,2025-04-22,Gaming Mis RGB,Periferije,5.0,50.73 RSD,20,
+ORD_10508,2026-03-24,Samsung S24 Ultra,Elektronika,3.0,1351.95 RSD,900,Novi Sad
+ORD_10509,2026-03-20,HP Pavilion Gaming,Elektronika,4.0,945.39 RSD,680,Beograd
+ORD_10510,2025-12-19,Samsung S24 Ultra,Elektronika,5.0,1264.49 RSD,900,
+ORD_10511,2025-11-12,Mehanicka Tastatura,Periferije,2.0,74.69 RSD,35,Beograd
+ORD_10512,2025-06-29,Laptop ASUS ZenBook,Elektronika,5.0,1140.2 RSD,750,Beograd
+ORD_10513,2025-05-29,Kancelarijska Stolica,Namestaj,3.0,153.48 RSD,70,Kragujevac
+ORD_10514,2026-01-20,HP Pavilion Gaming,Elektronika,2.0,816.09 RSD,680,Novi Sad
+ORD_10515,2025-05-08,iPhone 15 Pro,Elektronika,2.0,1026.33 RSD,850,Beograd
+ORD_10516,2025-03-14,Mehanicka Tastatura,Periferije,4.0,74.02 RSD,35,Nis
+ORD_10517,2025-02-08,Mehanicka Tastatura,Periferije,4.0,80.97 RSD,35,Subotica
+ORD_10518,2026-01-19,Mehanicka Tastatura,Periferije,5.0,83.8 RSD,35,Novi Sad
+ORD_10519,2025-06-17,Gaming Mis RGB,Periferije,4.0,44.0 RSD,20,
+ORD_10520,2025-11-22,HP Pavilion Gaming,Elektronika,4.0,920.38 RSD,680,Subotica
+ORD_10521,2025-04-22,Dell Monitor 27,Elektronika,4.0,277.85 RSD,180,Nis
+ORD_10522,2026-03-01,Radni Sto Podesivi,Namestaj,3.0,261.0 RSD,120,Beograd
+ORD_10523,2026-02-08,Slusalice ANC,Periferije,4.0,112.03 RSD,50,Subotica
+ORD_10524,2025-11-17,Laptop ASUS ZenBook,Elektronika,1.0,1119.43 RSD,750,Subotica
+ORD_10525,2025-08-22,iPhone 15 Pro,Elektronika,4.0,1132.49,850,Beograd
+ORD_10526,2025-03-23,iPhone 15 Pro,Elektronika,3.0,1119.56 RSD,850,Subotica
+ORD_10527,2025-02-12,Kancelarijska Stolica,Namestaj,3.0,135.7 RSD,70,Beograd
+ORD_10528,2025-11-17,Laptop ASUS ZenBook,Elektronika,4.0,947.4 RSD,750,Beograd
+ORD_10529,2025-12-27,Mehanicka Tastatura,Periferije,1.0,81.84,35,Subotica
+ORD_10530,2025-04-26,iPhone 15 Pro,Elektronika,5.0,1215.1 RSD,850,Subotica
+ORD_10531,2026-03-17,Kancelarijska Stolica,Namestaj,1.0,157.49 RSD,70,Subotica
+ORD_10532,2025-02-15,Samsung S24 Ultra,Elektronika,4.0,1364.13 RSD,900,Novi Sad
+ORD_10533,2025-03-12,Kancelarijska Stolica,Namestaj,3.0,144.16 RSD,70,Beograd
+ORD_10534,2025-09-29,iPhone 15 Pro,Elektronika,1.0,1204.56 RSD,850,Beograd
+ORD_10535,2026-01-05,Gaming Mis RGB,Periferije,3.0,51.95 RSD,20,Nis
+ORD_10536,2026-03-17,Slusalice ANC,Periferije,4.0,112.19 RSD,50,Beograd
+ORD_10537,2026-01-09,HP Pavilion Gaming,Elektronika,5.0,854.5 RSD,680,Novi Sad
+ORD_10538,2025-05-22,iPhone 15 Pro,Elektronika,2.0,1128.13 RSD,850,Kragujevac
+ORD_10539,2025-05-26,Slusalice ANC,Periferije,5.0,96.34 RSD,50,
+ORD_10540,2025-09-23,Radni Sto Podesivi,Namestaj,2.0,260.2 RSD,120,Nis
+ORD_10541,2026-02-06,Radni Sto Podesivi,Namestaj,1.0,242.81 RSD,120,Nis
+ORD_10542,2025-05-04,Mehanicka Tastatura,Periferije,1.0,71.66 RSD,35,Kragujevac
+ORD_10543,2025-06-12,Laptop ASUS ZenBook,Elektronika,3.0,1082.77 RSD,750,Kragujevac
+ORD_10544,2025-10-07,Mehanicka Tastatura,Periferije,3.0,77.89 RSD,35,Subotica
+ORD_10545,2025-02-04,Laptop ASUS ZenBook,Elektronika,5.0,1013.8,750,Subotica
+ORD_10546,2025-05-27,Mehanicka Tastatura,Periferije,5.0,69.82 RSD,35,Nis
+ORD_10547,2025-02-12,Mehanicka Tastatura,Periferije,4.0,78.75 RSD,35,Beograd
+ORD_10548,2025-06-08,Radni Sto Podesivi,Namestaj,1.0,238.52,120,Beograd
+ORD_10549,2025-07-20,Dell Monitor 27,Elektronika,3.0,301.34 RSD,180,
+ORD_10550,2025-12-24,HP Pavilion Gaming,Elektronika,3.0,906.33 RSD,680,Beograd
+ORD_10551,2025-02-14,Laptop ASUS ZenBook,Elektronika,2.0,1122.48 RSD,750,Kragujevac
+ORD_10552,2025-06-08,Slusalice ANC,Periferije,1.0,105.64 RSD,50,Beograd
+ORD_10553,2025-12-29,HP Pavilion Gaming,Elektronika,,914.08 RSD,680,Nis
+ORD_10554,2025-09-22,Kancelarijska Stolica,Namestaj,5.0,153.8 RSD,70,Beograd
+ORD_10555,2026-01-19,Kancelarijska Stolica,Namestaj,2.0,139.6 RSD,70,Subotica
+ORD_10556,2026-02-18,Laptop ASUS ZenBook,Elektronika,3.0,964.48 RSD,750,Novi Sad
+ORD_10557,2025-09-12,Slusalice ANC,Periferije,1.0,94.13 RSD,50,Nis
+ORD_10558,2025-07-08,Slusalice ANC,Periferije,2.0,110.11 RSD,50,Kragujevac
+ORD_10559,2026-01-15,HP Pavilion Gaming,Elektronika,,925.36 RSD,680,Subotica
+ORD_10560,2025-08-30,Samsung S24 Ultra,Elektronika,1.0,1288.06 RSD,900,Beograd
+ORD_10561,2026-02-16,Laptop ASUS ZenBook,Elektronika,5.0,981.85 RSD,750,Nis
+ORD_10562,2025-05-08,Samsung S24 Ultra,Elektronika,3.0,1140.46 RSD,900,Novi Sad
+ORD_10563,2025-07-10,HP Pavilion Gaming,Elektronika,5.0,810.26 RSD,680,Subotica
+ORD_10564,2026-02-16,iPhone 15 Pro,Elektronika,,1104.14 RSD,850,Nis
+ORD_10565,2026-03-20,HP Pavilion Gaming,Elektronika,4.0,919.58 RSD,680,Novi Sad
+ORD_10566,2025-08-22,HP Pavilion Gaming,Elektronika,5.0,882.03,680,Kragujevac
+ORD_10567,2025-05-05,Radni Sto Podesivi,Namestaj,5.0,234.37 RSD,120,Nis
+ORD_10568,2026-01-25,Samsung S24 Ultra,Elektronika,5.0,1340.08 RSD,900,Nis
+ORD_10569,2025-10-05,Laptop ASUS ZenBook,Elektronika,2.0,1011.62 RSD,750,Subotica
+ORD_10570,2026-01-24,Kancelarijska Stolica,Namestaj,1.0,142.92 RSD,70,
+ORD_10571,2025-04-16,Radni Sto Podesivi,Namestaj,1.0,251.68 RSD,120,Nis
+ORD_10572,2025-12-31,Laptop ASUS ZenBook,Elektronika,,1022.24 RSD,750,Beograd
+ORD_10573,2025-12-25,Dell Monitor 27,Elektronika,4.0,292.33 RSD,180,
+ORD_10574,2025-02-18,HP Pavilion Gaming,Elektronika,5.0,971.35 RSD,680,Nis
+ORD_10575,2025-10-18,HP Pavilion Gaming,Elektronika,5.0,987.91,680,Beograd
+ORD_10576,2025-05-14,Samsung S24 Ultra,Elektronika,3.0,1143.24 RSD,900,Nis
+ORD_10577,2025-08-20,Kancelarijska Stolica,Namestaj,3.0,155.3 RSD,70,Beograd
+ORD_10578,2025-02-25,iPhone 15 Pro,Elektronika,5.0,1138.11 RSD,850,Nis
+ORD_10579,2025-03-03,Kancelarijska Stolica,Namestaj,4.0,135.25 RSD,70,Beograd
+ORD_10580,2025-08-26,Gaming Mis RGB,Periferije,3.0,47.09 RSD,20,Beograd
+ORD_10581,2025-01-21,Radni Sto Podesivi,Namestaj,5.0,261.5 RSD,120,Beograd
+ORD_10582,2025-07-02,HP Pavilion Gaming,Elektronika,,901.1 RSD,680,Novi Sad
+ORD_10583,2025-01-16,Radni Sto Podesivi,Namestaj,2.0,228.94 RSD,120,Kragujevac
+ORD_10584,2025-02-18,Dell Monitor 27,Elektronika,2.0,293.0 RSD,180,Beograd
+ORD_10585,2025-02-01,HP Pavilion Gaming,Elektronika,1.0,853.13 RSD,680,Beograd
+ORD_10586,2025-07-10,Samsung S24 Ultra,Elektronika,4.0,1124.72 RSD,900,Subotica
+ORD_10587,2025-05-13,Slusalice ANC,Periferije,5.0,96.34 RSD,50,Subotica
+ORD_10588,2026-02-19,Samsung S24 Ultra,Elektronika,4.0,1138.29 RSD,900,Novi Sad
+ORD_10589,2025-08-25,HP Pavilion Gaming,Elektronika,1.0,836.36,680,Nis
+ORD_10590,2025-01-16,Mehanicka Tastatura,Periferije,4.0,70.22 RSD,35,Novi Sad
+ORD_10591,2025-05-21,Samsung S24 Ultra,Elektronika,2.0,1271.63 RSD,900,Subotica
+ORD_10592,2025-11-12,Slusalice ANC,Periferije,5.0,97.5 RSD,50,Nis
+ORD_10593,2025-02-01,Dell Monitor 27,Elektronika,4.0,275.74,180,Nis
+ORD_10594,2025-05-08,Samsung S24 Ultra,Elektronika,5.0,1338.16 RSD,900,Subotica
+ORD_10595,2025-09-03,Mehanicka Tastatura,Periferije,3.0,75.58 RSD,35,Kragujevac
+ORD_10596,2025-07-18,Dell Monitor 27,Elektronika,,295.05 RSD,180,Kragujevac
+ORD_10597,2026-02-20,Samsung S24 Ultra,Elektronika,1.0,1149.8 RSD,900,Nis
+ORD_10598,2026-01-28,Dell Monitor 27,Elektronika,3.0,266.54 RSD,180,Beograd
+ORD_10599,2025-12-03,HP Pavilion Gaming,Elektronika,2.0,815.27 RSD,680,
+ORD_10600,2025-10-22,Laptop ASUS ZenBook,Elektronika,2.0,972.17 RSD,750,Novi Sad
+ORD_10601,2025-05-02,iPhone 15 Pro,Elektronika,2.0,1086.86 RSD,850,
+ORD_10602,2025-01-15,Kancelarijska Stolica,Namestaj,5.0,132.81 RSD,70,Kragujevac
+ORD_10603,2025-10-16,Slusalice ANC,Periferije,2.0,95.45 RSD,50,Nis
+ORD_10604,2025-03-31,Dell Monitor 27,Elektronika,3.0,262.24 RSD,180,Beograd
+ORD_10605,2025-01-11,Slusalice ANC,Periferije,,103.64 RSD,50,Kragujevac
+ORD_10606,2025-06-24,Samsung S24 Ultra,Elektronika,2.0,1158.65 RSD,900,Novi Sad
+ORD_10607,2025-03-17,Laptop ASUS ZenBook,Elektronika,1.0,1015.14 RSD,750,Subotica
+ORD_10608,2025-02-07,Dell Monitor 27,Elektronika,3.0,285.21 RSD,180,Nis
+ORD_10609,2025-06-22,Slusalice ANC,Periferije,1.0,108.69 RSD,50,Beograd
+ORD_10610,2025-11-29,Mehanicka Tastatura,Periferije,4.0,68.63 RSD,35,Kragujevac
+ORD_10611,2025-04-25,Slusalice ANC,Periferije,3.0,111.09 RSD,50,Nis
+ORD_10612,2025-03-07,Radni Sto Podesivi,Namestaj,,243.9 RSD,120,
+ORD_10613,2026-03-12,Slusalice ANC,Periferije,4.0,95.3 RSD,50,Subotica
+ORD_10614,2025-06-12,iPhone 15 Pro,Elektronika,5.0,1229.66 RSD,850,Beograd
+ORD_10615,2025-09-12,Slusalice ANC,Periferije,1.0,113.76 RSD,50,Beograd
+ORD_10616,2025-03-27,Kancelarijska Stolica,Namestaj,3.0,129.33 RSD,70,
+ORD_10617,2025-01-06,Kancelarijska Stolica,Namestaj,4.0,135.81 RSD,70,Subotica
+ORD_10618,2026-02-07,Kancelarijska Stolica,Namestaj,,151.69 RSD,70,Nis
+ORD_10619,2025-03-27,Gaming Mis RGB,Periferije,4.0,49.98 RSD,20,Nis
+ORD_10620,2025-07-12,Kancelarijska Stolica,Namestaj,5.0,133.04 RSD,70,Kragujevac
+ORD_10621,2025-08-20,Samsung S24 Ultra,Elektronika,2.0,1159.43,900,Novi Sad
+ORD_10622,2025-05-14,Laptop ASUS ZenBook,Elektronika,3.0,1016.5 RSD,750,Beograd
+ORD_10623,2026-01-10,Mehanicka Tastatura,Periferije,2.0,75.75,35,Subotica
+ORD_10624,2025-11-11,Kancelarijska Stolica,Namestaj,5.0,146.05 RSD,70,Nis
+ORD_10625,2025-08-11,iPhone 15 Pro,Elektronika,5.0,1108.54 RSD,850,Beograd
+ORD_10626,2025-12-23,Samsung S24 Ultra,Elektronika,4.0,1225.26 RSD,900,Kragujevac
+ORD_10627,2025-06-02,Radni Sto Podesivi,Namestaj,,249.87 RSD,120,Kragujevac
+ORD_10628,2025-03-20,Dell Monitor 27,Elektronika,,257.2,180,Subotica
+ORD_10629,2025-09-03,Radni Sto Podesivi,Namestaj,,225.12 RSD,120,Beograd
+ORD_10630,2025-08-31,Radni Sto Podesivi,Namestaj,1.0,248.17 RSD,120,Nis
+ORD_10631,2025-12-05,Gaming Mis RGB,Periferije,4.0,51.45 RSD,20,Nis
+ORD_10632,2025-07-15,iPhone 15 Pro,Elektronika,3.0,1142.8 RSD,850,Novi Sad
+ORD_10633,2025-05-15,Gaming Mis RGB,Periferije,4.0,47.82 RSD,20,Subotica
+ORD_10634,2025-02-13,iPhone 15 Pro,Elektronika,1.0,1045.72 RSD,850,Nis
+ORD_10635,2025-10-11,Slusalice ANC,Periferije,2.0,103.34,50,Kragujevac
+ORD_10636,2025-12-18,Mehanicka Tastatura,Periferije,5.0,76.52 RSD,35,Beograd
+ORD_10637,2025-02-10,Gaming Mis RGB,Periferije,3.0,44.92 RSD,20,Subotica
+ORD_10638,2025-09-22,Dell Monitor 27,Elektronika,5.0,271.15 RSD,180,Kragujevac
+ORD_10639,2026-01-23,iPhone 15 Pro,Elektronika,1.0,1110.55 RSD,850,Beograd
+ORD_10640,2025-03-06,Samsung S24 Ultra,Elektronika,2.0,1110.22,900,
+ORD_10641,2026-02-26,Mehanicka Tastatura,Periferije,2.0,73.15 RSD,35,Novi Sad
+ORD_10642,2025-02-14,Kancelarijska Stolica,Namestaj,1.0,133.84 RSD,70,Novi Sad
+ORD_10643,2025-08-23,Radni Sto Podesivi,Namestaj,,228.87 RSD,120,
+ORD_10644,2025-09-25,Slusalice ANC,Periferije,5.0,96.13 RSD,50,Beograd
+ORD_10645,2025-10-29,iPhone 15 Pro,Elektronika,5.0,1233.73 RSD,850,Subotica
+ORD_10646,2026-02-04,HP Pavilion Gaming,Elektronika,5.0,920.28 RSD,680,Kragujevac
+ORD_10647,2025-05-16,Kancelarijska Stolica,Namestaj,4.0,147.87 RSD,70,Kragujevac
+ORD_10648,2025-03-30,Gaming Mis RGB,Periferije,1.0,50.39 RSD,20,Kragujevac
+ORD_10649,2025-07-22,Mehanicka Tastatura,Periferije,1.0,75.98 RSD,35,Beograd
+ORD_10650,2025-05-18,Laptop ASUS ZenBook,Elektronika,,954.12 RSD,750,Novi Sad
+ORD_10651,2026-03-08,Radni Sto Podesivi,Namestaj,3.0,239.36 RSD,120,Subotica
+ORD_10652,2025-06-03,Samsung S24 Ultra,Elektronika,2.0,1257.58 RSD,900,Novi Sad
+ORD_10653,2025-11-06,Radni Sto Podesivi,Namestaj,4.0,249.77 RSD,120,Beograd
+ORD_10654,2026-01-24,Mehanicka Tastatura,Periferije,4.0,74.91 RSD,35,Subotica
+ORD_10655,2025-02-03,Dell Monitor 27,Elektronika,2.0,262.65 RSD,180,Beograd
+ORD_10656,2025-01-15,Dell Monitor 27,Elektronika,5.0,272.03 RSD,180,Beograd
+ORD_10657,2025-01-17,Laptop ASUS ZenBook,Elektronika,2.0,1014.88 RSD,750,
+ORD_10658,2025-07-08,Samsung S24 Ultra,Elektronika,3.0,1272.94 RSD,900,
+ORD_10659,2025-05-04,HP Pavilion Gaming,Elektronika,1.0,915.95 RSD,680,Beograd
+ORD_10660,2025-10-10,Gaming Mis RGB,Periferije,5.0,46.06 RSD,20,Novi Sad
+ORD_10661,2025-01-15,HP Pavilion Gaming,Elektronika,3.0,994.94 RSD,680,Kragujevac
+ORD_10662,2025-11-28,Samsung S24 Ultra,Elektronika,2.0,1262.5 RSD,900,
+ORD_10663,2025-01-11,Mehanicka Tastatura,Periferije,5.0,71.8 RSD,35,
+ORD_10664,2025-03-09,Laptop ASUS ZenBook,Elektronika,4.0,957.39 RSD,750,Subotica
+ORD_10665,2025-11-08,Samsung S24 Ultra,Elektronika,3.0,1144.74 RSD,900,
+ORD_10666,2025-07-12,Radni Sto Podesivi,Namestaj,4.0,224.8 RSD,120,Beograd
+ORD_10667,2025-12-13,Gaming Mis RGB,Periferije,3.0,44.11 RSD,20,Kragujevac
+ORD_10668,2025-09-19,HP Pavilion Gaming,Elektronika,1.0,842.95 RSD,680,Novi Sad
+ORD_10669,2025-11-08,Dell Monitor 27,Elektronika,5.0,272.11 RSD,180,Nis
+ORD_10670,2025-05-22,HP Pavilion Gaming,Elektronika,3.0,840.44 RSD,680,Novi Sad
+ORD_10671,2025-03-18,Radni Sto Podesivi,Namestaj,2.0,257.34 RSD,120,Subotica
+ORD_10672,2025-12-05,Slusalice ANC,Periferije,4.0,95.27 RSD,50,Subotica
+ORD_10673,2025-05-13,Gaming Mis RGB,Periferije,3.0,47.75 RSD,20,
+ORD_10674,2025-12-29,Laptop ASUS ZenBook,Elektronika,5.0,1025.29 RSD,750,Novi Sad
+ORD_10675,2025-11-23,Samsung S24 Ultra,Elektronika,5.0,1360.42 RSD,900,
+ORD_10676,2025-06-03,Kancelarijska Stolica,Namestaj,5.0,130.86 RSD,70,Kragujevac
+ORD_10677,2025-02-19,iPhone 15 Pro,Elektronika,3.0,1115.49 RSD,850,
+ORD_10678,2025-12-15,Dell Monitor 27,Elektronika,2.0,313.17 RSD,180,Beograd
+ORD_10679,2026-01-17,Kancelarijska Stolica,Namestaj,2.0,153.47 RSD,70,Novi Sad
+ORD_10680,2025-10-27,Kancelarijska Stolica,Namestaj,3.0,152.01 RSD,70,Nis
+ORD_10681,2025-10-25,Laptop ASUS ZenBook,Elektronika,5.0,991.74 RSD,750,Beograd
+ORD_10682,2026-03-21,Dell Monitor 27,Elektronika,1.0,265.25 RSD,180,Nis
+ORD_10683,2025-03-12,Laptop ASUS ZenBook,Elektronika,2.0,1082.1 RSD,750,Kragujevac
+ORD_10684,2025-06-11,Gaming Mis RGB,Periferije,2.0,51.79 RSD,20,Subotica
+ORD_10685,2025-11-20,Gaming Mis RGB,Periferije,3.0,48.07 RSD,20,Subotica
+ORD_10686,2025-05-21,Laptop ASUS ZenBook,Elektronika,4.0,1060.75 RSD,750,Kragujevac
+ORD_10687,2026-02-07,iPhone 15 Pro,Elektronika,4.0,1087.19 RSD,850,Kragujevac
+ORD_10688,2025-07-26,Mehanicka Tastatura,Periferije,4.0,80.31 RSD,35,Subotica
+ORD_10689,2025-04-13,Laptop ASUS ZenBook,Elektronika,5.0,976.15 RSD,750,Novi Sad
+ORD_10690,2025-01-10,Dell Monitor 27,Elektronika,2.0,274.42 RSD,180,Beograd
+ORD_10691,2025-06-09,Samsung S24 Ultra,Elektronika,3.0,1215.61 RSD,900,Kragujevac
+ORD_10692,2025-02-03,Radni Sto Podesivi,Namestaj,2.0,237.88 RSD,120,Novi Sad
+ORD_10693,2025-11-02,Gaming Mis RGB,Periferije,5.0,44.92 RSD,20,
+ORD_10694,2025-09-08,iPhone 15 Pro,Elektronika,3.0,1047.56 RSD,850,Nis
+ORD_10695,2025-04-25,Laptop ASUS ZenBook,Elektronika,2.0,1069.34 RSD,750,
+ORD_10696,2025-09-16,Laptop ASUS ZenBook,Elektronika,5.0,998.5 RSD,750,
+ORD_10697,2026-03-25,Laptop ASUS ZenBook,Elektronika,4.0,1062.87 RSD,750,Kragujevac
+ORD_10698,2025-01-25,Laptop ASUS ZenBook,Elektronika,5.0,968.96 RSD,750,Subotica
+ORD_10699,2025-08-02,Laptop ASUS ZenBook,Elektronika,1.0,1040.85 RSD,750,Novi Sad
+ORD_10700,2025-04-16,Gaming Mis RGB,Periferije,2.0,47.83 RSD,20,Novi Sad
+ORD_10701,2025-12-06,Mehanicka Tastatura,Periferije,1.0,68.83 RSD,35,
+ORD_10702,2026-03-02,iPhone 15 Pro,Elektronika,4.0,1100.79 RSD,850,Kragujevac
+ORD_10703,2025-02-28,HP Pavilion Gaming,Elektronika,3.0,833.04 RSD,680,Kragujevac
+ORD_10704,2026-03-02,Samsung S24 Ultra,Elektronika,3.0,1121.48 RSD,900,
+ORD_10705,2025-03-24,Mehanicka Tastatura,Periferije,3.0,83.84,35,Beograd
+ORD_10706,2025-05-01,Gaming Mis RGB,Periferije,3.0,45.72,20,Subotica
+ORD_10707,2025-03-18,Slusalice ANC,Periferije,4.0,111.32 RSD,50,Subotica
+ORD_10708,2025-11-26,HP Pavilion Gaming,Elektronika,3.0,855.88 RSD,680,Novi Sad
+ORD_10709,2025-01-26,Radni Sto Podesivi,Namestaj,4.0,246.58,120,Subotica
+ORD_10710,2026-02-15,Radni Sto Podesivi,Namestaj,3.0,250.51 RSD,120,Subotica
+ORD_10711,2025-01-05,HP Pavilion Gaming,Elektronika,1.0,920.67 RSD,680,Beograd
+ORD_10712,2025-08-13,Kancelarijska Stolica,Namestaj,3.0,141.65 RSD,70,
+ORD_10713,2026-02-22,HP Pavilion Gaming,Elektronika,3.0,885.75 RSD,680,Nis
+ORD_10714,2026-03-04,Gaming Mis RGB,Periferije,3.0,45.99 RSD,20,Nis
+ORD_10715,2025-03-09,iPhone 15 Pro,Elektronika,1.0,1243.09 RSD,850,Beograd
+ORD_10716,2025-10-30,HP Pavilion Gaming,Elektronika,4.0,965.32 RSD,680,Nis
+ORD_10717,2025-07-14,iPhone 15 Pro,Elektronika,5.0,1251.61 RSD,850,
+ORD_10718,2025-09-07,iPhone 15 Pro,Elektronika,4.0,1049.83 RSD,850,Subotica
+ORD_10719,2025-12-02,HP Pavilion Gaming,Elektronika,3.0,946.36 RSD,680,
+ORD_10720,2026-01-06,Dell Monitor 27,Elektronika,5.0,311.3 RSD,180,
+ORD_10721,2025-09-25,Kancelarijska Stolica,Namestaj,5.0,132.94 RSD,70,Nis
+ORD_10722,2025-06-27,Samsung S24 Ultra,Elektronika,4.0,1122.29 RSD,900,Beograd
+ORD_10723,2025-01-28,Dell Monitor 27,Elektronika,5.0,299.47,180,Kragujevac
+ORD_10724,2026-03-22,Gaming Mis RGB,Periferije,4.0,48.24 RSD,20,Novi Sad
+ORD_10725,2025-05-23,Samsung S24 Ultra,Elektronika,3.0,1323.88,900,
+ORD_10726,2026-02-23,Mehanicka Tastatura,Periferije,4.0,70.24 RSD,35,Kragujevac
+ORD_10727,2026-03-15,Gaming Mis RGB,Periferije,1.0,50.45 RSD,20,Nis
+ORD_10728,2025-07-26,Laptop ASUS ZenBook,Elektronika,1.0,979.36 RSD,750,Subotica
+ORD_10729,2025-11-13,HP Pavilion Gaming,Elektronika,5.0,838.59 RSD,680,Kragujevac
+ORD_10730,2025-06-24,Samsung S24 Ultra,Elektronika,4.0,1147.71 RSD,900,Beograd
+ORD_10731,2025-10-14,Gaming Mis RGB,Periferije,3.0,50.65 RSD,20,
+ORD_10732,2025-02-28,Kancelarijska Stolica,Namestaj,4.0,147.46,70,Subotica
+ORD_10733,2026-03-01,Kancelarijska Stolica,Namestaj,3.0,143.19 RSD,70,Kragujevac
+ORD_10734,2025-12-26,Dell Monitor 27,Elektronika,3.0,276.53 RSD,180,Nis
+ORD_10735,2025-02-24,iPhone 15 Pro,Elektronika,4.0,1230.53 RSD,850,Subotica
+ORD_10736,2025-08-23,Mehanicka Tastatura,Periferije,2.0,74.28 RSD,35,Novi Sad
+ORD_10737,2025-01-24,HP Pavilion Gaming,Elektronika,4.0,962.65 RSD,680,Kragujevac
+ORD_10738,2025-08-23,HP Pavilion Gaming,Elektronika,4.0,890.94 RSD,680,Beograd
+ORD_10739,2025-09-29,Gaming Mis RGB,Periferije,1.0,46.27 RSD,20,Nis
+ORD_10740,2025-09-18,Slusalice ANC,Periferije,4.0,103.68 RSD,50,
+ORD_10741,2026-01-10,Slusalice ANC,Periferije,2.0,100.13 RSD,50,
+ORD_10742,2025-06-14,Slusalice ANC,Periferije,5.0,109.95 RSD,50,Kragujevac
+ORD_10743,2025-07-23,Samsung S24 Ultra,Elektronika,3.0,1235.71 RSD,900,Nis
+ORD_10744,2025-07-31,iPhone 15 Pro,Elektronika,2.0,1075.73 RSD,850,Kragujevac
+ORD_10745,2026-03-17,Radni Sto Podesivi,Namestaj,5.0,257.48 RSD,120,Kragujevac
+ORD_10746,2025-04-18,Samsung S24 Ultra,Elektronika,2.0,1204.81 RSD,900,Novi Sad
+ORD_10747,2025-09-15,iPhone 15 Pro,Elektronika,2.0,1150.45 RSD,850,
+ORD_10748,2025-10-15,HP Pavilion Gaming,Elektronika,3.0,979.73 RSD,680,
+ORD_10749,2025-05-27,Mehanicka Tastatura,Periferije,5.0,77.99 RSD,35,Subotica
+ORD_10750,2025-01-13,Dell Monitor 27,Elektronika,1.0,262.01 RSD,180,Subotica
+ORD_10751,2026-01-20,Samsung S24 Ultra,Elektronika,3.0,1349.36 RSD,900,
+ORD_10752,2026-03-06,Radni Sto Podesivi,Namestaj,2.0,243.89,120,Beograd
+ORD_10753,2025-07-03,Dell Monitor 27,Elektronika,1.0,275.09 RSD,180,
+ORD_10754,2026-01-16,Dell Monitor 27,Elektronika,2.0,263.36 RSD,180,Kragujevac
+ORD_10755,2025-07-15,Radni Sto Podesivi,Namestaj,1.0,252.2 RSD,120,
+ORD_10756,2025-01-28,Kancelarijska Stolica,Namestaj,5.0,146.1,70,Kragujevac
+ORD_10757,2025-11-21,Gaming Mis RGB,Periferije,2.0,47.83 RSD,20,Kragujevac
+ORD_10758,2025-04-11,Dell Monitor 27,Elektronika,5.0,308.63 RSD,180,Novi Sad
+ORD_10759,2025-12-16,Gaming Mis RGB,Periferije,2.0,50.39,20,
+ORD_10760,2025-07-13,Dell Monitor 27,Elektronika,1.0,264.1,180,Novi Sad
+ORD_10761,2025-10-27,iPhone 15 Pro,Elektronika,,1094.81 RSD,850,Nis
+ORD_10762,2025-03-20,iPhone 15 Pro,Elektronika,1.0,1079.64 RSD,850,
+ORD_10763,2025-09-09,Slusalice ANC,Periferije,3.0,109.87 RSD,50,Subotica
+ORD_10764,2025-04-23,Kancelarijska Stolica,Namestaj,5.0,128.51 RSD,70,Kragujevac
+ORD_10765,2025-10-06,iPhone 15 Pro,Elektronika,4.0,1156.77 RSD,850,Beograd
+ORD_10766,2025-06-19,Samsung S24 Ultra,Elektronika,3.0,1303.24 RSD,900,Kragujevac
+ORD_10767,2025-10-15,Dell Monitor 27,Elektronika,4.0,307.61 RSD,180,Subotica
+ORD_10768,2025-08-17,HP Pavilion Gaming,Elektronika,3.0,872.5 RSD,680,Kragujevac
+ORD_10769,2025-12-16,Samsung S24 Ultra,Elektronika,1.0,1318.53 RSD,900,Subotica
+ORD_10770,2025-10-04,Mehanicka Tastatura,Periferije,,69.77 RSD,35,Kragujevac
+ORD_10771,2026-02-16,Kancelarijska Stolica,Namestaj,5.0,152.89 RSD,70,Novi Sad
+ORD_10772,2025-09-21,Samsung S24 Ultra,Elektronika,3.0,1138.15,900,Kragujevac
+ORD_10773,2025-11-17,Dell Monitor 27,Elektronika,1.0,278.84,180,Beograd
+ORD_10774,2025-04-16,Mehanicka Tastatura,Periferije,1.0,80.76 RSD,35,
+ORD_10775,2026-01-18,Mehanicka Tastatura,Periferije,,70.4 RSD,35,
+ORD_10776,2025-02-14,Kancelarijska Stolica,Namestaj,1.0,134.38,70,Novi Sad
+ORD_10777,2025-10-22,Dell Monitor 27,Elektronika,1.0,298.34 RSD,180,Nis
+ORD_10778,2025-11-19,Mehanicka Tastatura,Periferije,4.0,79.52 RSD,35,Nis
+ORD_10779,2025-01-04,HP Pavilion Gaming,Elektronika,5.0,929.32 RSD,680,
+ORD_10780,2025-12-25,Slusalice ANC,Periferije,1.0,108.77 RSD,50,Kragujevac
+ORD_10781,2026-02-07,HP Pavilion Gaming,Elektronika,3.0,910.62 RSD,680,Novi Sad
+ORD_10782,2025-07-22,Gaming Mis RGB,Periferije,,45.02 RSD,20,Beograd
+ORD_10783,2025-03-11,Dell Monitor 27,Elektronika,2.0,275.74 RSD,180,Kragujevac
+ORD_10784,2025-06-02,Radni Sto Podesivi,Namestaj,2.0,221.58 RSD,120,
+ORD_10785,2025-10-11,Kancelarijska Stolica,Namestaj,1.0,154.75 RSD,70,Subotica
+ORD_10786,2025-11-02,Laptop ASUS ZenBook,Elektronika,5.0,1063.35 RSD,750,Subotica
+ORD_10787,2026-01-19,Radni Sto Podesivi,Namestaj,2.0,232.54 RSD,120,Beograd
+ORD_10788,2025-03-14,Mehanicka Tastatura,Periferije,5.0,75.39 RSD,35,Novi Sad
+ORD_10789,2025-04-03,Samsung S24 Ultra,Elektronika,1.0,1351.29 RSD,900,Subotica
+ORD_10790,2025-11-27,Dell Monitor 27,Elektronika,4.0,264.2 RSD,180,Subotica
+ORD_10791,2025-04-12,Radni Sto Podesivi,Namestaj,1.0,241.81 RSD,120,Novi Sad
+ORD_10792,2025-12-10,Kancelarijska Stolica,Namestaj,2.0,142.68 RSD,70,Kragujevac
+ORD_10793,2025-06-12,HP Pavilion Gaming,Elektronika,2.0,923.68 RSD,680,
+ORD_10794,2025-03-20,Radni Sto Podesivi,Namestaj,5.0,213.41 RSD,120,Novi Sad
+ORD_10795,2025-01-03,Mehanicka Tastatura,Periferije,2.0,81.95 RSD,35,
+ORD_10796,2026-03-07,Mehanicka Tastatura,Periferije,3.0,82.91 RSD,35,Novi Sad
+ORD_10797,2025-08-17,Gaming Mis RGB,Periferije,4.0,48.15 RSD,20,Kragujevac
+ORD_10798,2025-11-27,HP Pavilion Gaming,Elektronika,2.0,939.86 RSD,680,Beograd
+ORD_10799,2025-05-15,Dell Monitor 27,Elektronika,2.0,310.35 RSD,180,
+ORD_10800,2026-03-11,HP Pavilion Gaming,Elektronika,,941.88 RSD,680,Kragujevac
+ORD_10801,2026-01-29,Slusalice ANC,Periferije,4.0,96.86 RSD,50,Kragujevac
+ORD_10802,2025-10-04,Radni Sto Podesivi,Namestaj,5.0,241.31 RSD,120,Novi Sad
+ORD_10803,2026-01-31,Mehanicka Tastatura,Periferije,2.0,77.71 RSD,35,Beograd
+ORD_10804,2025-09-19,Gaming Mis RGB,Periferije,5.0,46.74,20,Subotica
+ORD_10805,2025-12-17,Samsung S24 Ultra,Elektronika,5.0,1296.48 RSD,900,Nis
+ORD_10806,2025-10-17,iPhone 15 Pro,Elektronika,2.0,1244.25 RSD,850,Beograd
+ORD_10807,2025-01-21,Gaming Mis RGB,Periferije,3.0,51.76 RSD,20,Subotica
+ORD_10808,2025-04-30,Radni Sto Podesivi,Namestaj,3.0,235.04,120,Novi Sad
+ORD_10809,2025-08-21,Mehanicka Tastatura,Periferije,,69.81 RSD,35,
+ORD_10810,2025-12-27,Kancelarijska Stolica,Namestaj,1.0,157.05 RSD,70,Novi Sad
+ORD_10811,2025-10-06,Radni Sto Podesivi,Namestaj,5.0,254.44 RSD,120,Nis
+ORD_10812,2025-12-01,Kancelarijska Stolica,Namestaj,5.0,131.24 RSD,70,Novi Sad
+ORD_10813,2025-09-22,Mehanicka Tastatura,Periferije,2.0,82.73 RSD,35,Novi Sad
+ORD_10814,2025-11-06,Gaming Mis RGB,Periferije,4.0,51.2,20,Nis
+ORD_10815,2025-02-09,iPhone 15 Pro,Elektronika,2.0,1144.52 RSD,850,Beograd
+ORD_10816,2025-07-05,iPhone 15 Pro,Elektronika,2.0,1161.91 RSD,850,
+ORD_10817,2026-02-20,Samsung S24 Ultra,Elektronika,4.0,1208.74 RSD,900,
+ORD_10818,2025-04-18,Gaming Mis RGB,Periferije,4.0,43.05 RSD,20,Nis
+ORD_10819,2025-01-23,Laptop ASUS ZenBook,Elektronika,2.0,1008.74 RSD,750,Beograd
+ORD_10820,2025-10-21,Dell Monitor 27,Elektronika,1.0,303.17 RSD,180,Beograd
+ORD_10821,2025-11-03,Dell Monitor 27,Elektronika,4.0,255.28 RSD,180,
+ORD_10822,2025-04-21,Radni Sto Podesivi,Namestaj,1.0,229.17 RSD,120,Nis
+ORD_10823,2026-03-02,iPhone 15 Pro,Elektronika,2.0,1115.56 RSD,850,Kragujevac
+ORD_10824,2025-12-04,iPhone 15 Pro,Elektronika,5.0,1148.97 RSD,850,
+ORD_10825,2025-11-02,Kancelarijska Stolica,Namestaj,4.0,155.1 RSD,70,Nis
+ORD_10826,2025-01-09,iPhone 15 Pro,Elektronika,1.0,1103.12 RSD,850,Kragujevac
+ORD_10827,2025-11-07,Mehanicka Tastatura,Periferije,2.0,73.55,35,Kragujevac
+ORD_10828,2026-03-26,Slusalice ANC,Periferije,1.0,109.73 RSD,50,Subotica
+ORD_10829,2025-12-04,HP Pavilion Gaming,Elektronika,4.0,893.42 RSD,680,Subotica
+ORD_10830,2025-08-04,Mehanicka Tastatura,Periferije,,71.59 RSD,35,Kragujevac
+ORD_10831,2026-02-15,Mehanicka Tastatura,Periferije,2.0,75.24 RSD,35,Novi Sad
+ORD_10832,2025-02-20,Slusalice ANC,Periferije,5.0,96.6 RSD,50,Beograd
+ORD_10833,2025-11-03,HP Pavilion Gaming,Elektronika,3.0,841.01 RSD,680,Beograd
+ORD_10834,2025-10-23,Laptop ASUS ZenBook,Elektronika,1.0,1044.64 RSD,750,Nis
+ORD_10835,2025-07-29,Samsung S24 Ultra,Elektronika,3.0,1213.92 RSD,900,
+ORD_10836,2025-05-14,Slusalice ANC,Periferije,3.0,113.63 RSD,50,Novi Sad
+ORD_10837,2025-12-15,Slusalice ANC,Periferije,3.0,101.47 RSD,50,Kragujevac
+ORD_10838,2025-04-02,Dell Monitor 27,Elektronika,4.0,289.84 RSD,180,Novi Sad
+ORD_10839,2025-06-26,Radni Sto Podesivi,Namestaj,5.0,244.11 RSD,120,Beograd
+ORD_10840,2025-08-17,HP Pavilion Gaming,Elektronika,2.0,809.99 RSD,680,Subotica
+ORD_10841,2025-07-25,Samsung S24 Ultra,Elektronika,5.0,1277.52 RSD,900,Kragujevac
+ORD_10842,2025-07-19,Laptop ASUS ZenBook,Elektronika,,974.17 RSD,750,Subotica
+ORD_10843,2025-11-04,iPhone 15 Pro,Elektronika,4.0,1250.66 RSD,850,Beograd
+ORD_10844,2025-11-08,Kancelarijska Stolica,Namestaj,1.0,131.96,70,Nis
+ORD_10845,2025-05-27,Slusalice ANC,Periferije,5.0,102.62 RSD,50,Beograd
+ORD_10846,2025-01-06,Gaming Mis RGB,Periferije,4.0,43.35 RSD,20,Kragujevac
+ORD_10847,2025-01-18,Radni Sto Podesivi,Namestaj,2.0,262.34 RSD,120,
+ORD_10848,2025-03-28,Samsung S24 Ultra,Elektronika,5.0,1235.57 RSD,900,
+ORD_10849,2025-02-14,Laptop ASUS ZenBook,Elektronika,2.0,1065.98 RSD,750,Novi Sad
+ORD_10850,2025-10-28,Mehanicka Tastatura,Periferije,,69.07 RSD,35,
+ORD_10851,2025-10-09,HP Pavilion Gaming,Elektronika,1.0,949.99 RSD,680,Kragujevac
+ORD_10852,2026-02-22,Kancelarijska Stolica,Namestaj,3.0,133.8 RSD,70,Beograd
+ORD_10853,2025-10-22,Gaming Mis RGB,Periferije,4.0,51.48,20,Kragujevac
+ORD_10854,2025-02-07,HP Pavilion Gaming,Elektronika,5.0,846.48 RSD,680,Subotica
+ORD_10855,2026-03-25,Dell Monitor 27,Elektronika,3.0,266.44 RSD,180,Novi Sad
+ORD_10856,2025-10-16,Gaming Mis RGB,Periferije,4.0,42.87 RSD,20,Novi Sad
+ORD_10857,2025-10-28,Gaming Mis RGB,Periferije,4.0,47.22 RSD,20,Novi Sad
+ORD_10858,2025-11-21,HP Pavilion Gaming,Elektronika,4.0,914.82 RSD,680,
+ORD_10859,2025-07-31,Samsung S24 Ultra,Elektronika,3.0,1122.08 RSD,900,Subotica
+ORD_10860,2025-05-28,Radni Sto Podesivi,Namestaj,2.0,251.28,120,Novi Sad
+ORD_10861,2025-04-02,HP Pavilion Gaming,Elektronika,5.0,893.62 RSD,680,Kragujevac
+ORD_10862,2026-01-18,Radni Sto Podesivi,Namestaj,2.0,238.72 RSD,120,Nis
+ORD_10863,2026-01-12,Samsung S24 Ultra,Elektronika,2.0,1219.6 RSD,900,Beograd
+ORD_10864,2026-03-05,Samsung S24 Ultra,Elektronika,2.0,1209.2 RSD,900,Subotica
+ORD_10865,2025-12-13,HP Pavilion Gaming,Elektronika,1.0,913.83 RSD,680,Subotica
+ORD_10866,2026-03-11,Dell Monitor 27,Elektronika,1.0,264.31 RSD,180,Nis
+ORD_10867,2025-09-09,Slusalice ANC,Periferije,3.0,97.5 RSD,50,Kragujevac
+ORD_10868,2025-04-24,Radni Sto Podesivi,Namestaj,4.0,255.59 RSD,120,Kragujevac
+ORD_10869,2025-10-04,Mehanicka Tastatura,Periferije,4.0,83.14,35,
+ORD_10870,2025-03-03,iPhone 15 Pro,Elektronika,4.0,1109.59 RSD,850,
+ORD_10871,2025-12-12,Laptop ASUS ZenBook,Elektronika,1.0,994.56 RSD,750,Novi Sad
+ORD_10872,2026-03-18,Kancelarijska Stolica,Namestaj,5.0,146.82 RSD,70,Beograd
+ORD_10873,2025-11-10,Radni Sto Podesivi,Namestaj,4.0,232.94 RSD,120,Nis
+ORD_10874,2025-12-25,Samsung S24 Ultra,Elektronika,4.0,1111.6 RSD,900,Nis
+ORD_10875,2025-04-03,Radni Sto Podesivi,Namestaj,4.0,220.31 RSD,120,
+ORD_10876,2026-01-05,Samsung S24 Ultra,Elektronika,1.0,1291.15 RSD,900,Nis
+ORD_10877,2025-03-16,Mehanicka Tastatura,Periferije,2.0,78.54 RSD,35,Nis
+ORD_10878,2025-08-04,Laptop ASUS ZenBook,Elektronika,2.0,940.96 RSD,750,
+ORD_10879,2026-01-04,Dell Monitor 27,Elektronika,5.0,268.32 RSD,180,Novi Sad
+ORD_10880,2025-01-25,Dell Monitor 27,Elektronika,5.0,268.86 RSD,180,Subotica
+ORD_10881,2025-09-01,Samsung S24 Ultra,Elektronika,3.0,1279.69 RSD,900,
+ORD_10882,2025-07-04,Kancelarijska Stolica,Namestaj,3.0,128.09 RSD,70,Novi Sad
+ORD_10883,2025-07-30,Kancelarijska Stolica,Namestaj,1.0,130.62 RSD,70,Kragujevac
+ORD_10884,2025-10-22,Samsung S24 Ultra,Elektronika,5.0,1312.98 RSD,900,Novi Sad
+ORD_10885,2025-12-11,Kancelarijska Stolica,Namestaj,3.0,132.86 RSD,70,Nis
+ORD_10886,2025-11-11,HP Pavilion Gaming,Elektronika,4.0,931.52 RSD,680,Beograd
+ORD_10887,2025-08-04,iPhone 15 Pro,Elektronika,3.0,1077.16 RSD,850,Subotica
+ORD_10888,2025-06-25,HP Pavilion Gaming,Elektronika,2.0,826.39 RSD,680,Novi Sad
+ORD_10889,2025-11-27,Radni Sto Podesivi,Namestaj,5.0,224.66 RSD,120,Novi Sad
+ORD_10890,2025-08-19,Slusalice ANC,Periferije,5.0,109.39 RSD,50,Subotica
+ORD_10891,2025-12-05,iPhone 15 Pro,Elektronika,2.0,1225.37 RSD,850,
+ORD_10892,2025-03-27,HP Pavilion Gaming,Elektronika,2.0,965.24 RSD,680,Nis
+ORD_10893,2025-01-14,Dell Monitor 27,Elektronika,1.0,278.83 RSD,180,Subotica
+ORD_10894,2025-11-13,HP Pavilion Gaming,Elektronika,3.0,934.44 RSD,680,Nis
+ORD_10895,2025-05-07,Radni Sto Podesivi,Namestaj,2.0,222.75 RSD,120,Beograd
+ORD_10896,2026-03-06,iPhone 15 Pro,Elektronika,,1090.36 RSD,850,Novi Sad
+ORD_10897,2025-08-28,Kancelarijska Stolica,Namestaj,4.0,154.39 RSD,70,Novi Sad
+ORD_10898,2025-03-11,Dell Monitor 27,Elektronika,4.0,255.78 RSD,180,Beograd
+ORD_10899,2025-08-22,Slusalice ANC,Periferije,5.0,95.38 RSD,50,Kragujevac
+ORD_10900,2025-11-24,Mehanicka Tastatura,Periferije,5.0,71.33 RSD,35,Novi Sad
+ORD_10901,2025-04-27,Gaming Mis RGB,Periferije,5.0,42.77 RSD,20,Novi Sad
+ORD_10902,2025-03-21,Mehanicka Tastatura,Periferije,,70.9 RSD,35,Beograd
+ORD_10903,2025-08-29,Kancelarijska Stolica,Namestaj,3.0,144.99 RSD,70,Nis
+ORD_10904,2025-01-05,Gaming Mis RGB,Periferije,3.0,46.71 RSD,20,Kragujevac
+ORD_10905,2025-10-08,Samsung S24 Ultra,Elektronika,1.0,1337.09 RSD,900,Kragujevac
+ORD_10906,2025-05-08,Mehanicka Tastatura,Periferije,4.0,81.08 RSD,35,Nis
+ORD_10907,2025-05-15,Mehanicka Tastatura,Periferije,2.0,73.47,35,Kragujevac
+ORD_10908,2025-05-26,Slusalice ANC,Periferije,3.0,99.21 RSD,50,Novi Sad
+ORD_10909,2026-03-13,Mehanicka Tastatura,Periferije,2.0,74.08,35,Subotica
+ORD_10910,2025-08-20,Gaming Mis RGB,Periferije,5.0,48.4 RSD,20,Beograd
+ORD_10911,2025-03-19,Kancelarijska Stolica,Namestaj,1.0,135.54,70,Beograd
+ORD_10912,2025-05-18,HP Pavilion Gaming,Elektronika,3.0,926.09 RSD,680,Subotica
+ORD_10913,2025-03-19,Samsung S24 Ultra,Elektronika,1.0,1211.45,900,Nis
+ORD_10914,2025-07-10,Radni Sto Podesivi,Namestaj,4.0,240.1 RSD,120,Novi Sad
+ORD_10915,2025-01-29,HP Pavilion Gaming,Elektronika,2.0,890.36 RSD,680,Kragujevac
+ORD_10916,2025-04-09,Gaming Mis RGB,Periferije,2.0,45.44 RSD,20,Nis
+ORD_10917,2026-01-29,Laptop ASUS ZenBook,Elektronika,1.0,1143.66 RSD,750,Nis
+ORD_10918,2025-04-12,Samsung S24 Ultra,Elektronika,1.0,1303.54 RSD,900,Kragujevac
+ORD_10919,2025-07-19,Samsung S24 Ultra,Elektronika,4.0,1141.43 RSD,900,Novi Sad
+ORD_10920,2026-01-17,iPhone 15 Pro,Elektronika,1.0,1228.43 RSD,850,Novi Sad
+ORD_10921,2025-04-12,Gaming Mis RGB,Periferije,3.0,47.37 RSD,20,
+ORD_10922,2025-05-01,Samsung S24 Ultra,Elektronika,1.0,1337.58 RSD,900,Beograd
+ORD_10923,2025-03-03,Radni Sto Podesivi,Namestaj,5.0,252.49 RSD,120,Subotica
+ORD_10924,2025-12-19,Slusalice ANC,Periferije,4.0,102.85 RSD,50,Subotica
+ORD_10925,2025-09-13,Samsung S24 Ultra,Elektronika,2.0,1110.84,900,
+ORD_10926,2025-07-02,Laptop ASUS ZenBook,Elektronika,1.0,994.11 RSD,750,Subotica
+ORD_10927,2025-04-30,iPhone 15 Pro,Elektronika,4.0,1149.99 RSD,850,
+ORD_10928,2026-01-11,Kancelarijska Stolica,Namestaj,4.0,146.5 RSD,70,Novi Sad
+ORD_10929,2025-01-21,iPhone 15 Pro,Elektronika,3.0,1081.89 RSD,850,Novi Sad
+ORD_10930,2025-04-08,Dell Monitor 27,Elektronika,4.0,263.36 RSD,180,Novi Sad
+ORD_10931,2026-03-21,Gaming Mis RGB,Periferije,3.0,50.85 RSD,20,Kragujevac
+ORD_10932,2025-09-29,iPhone 15 Pro,Elektronika,1.0,1256.26 RSD,850,Novi Sad
+ORD_10933,2025-08-21,Dell Monitor 27,Elektronika,3.0,286.54,180,Nis
+ORD_10934,2025-11-14,iPhone 15 Pro,Elektronika,1.0,1061.2 RSD,850,Beograd
+ORD_10935,2025-12-04,Kancelarijska Stolica,Namestaj,1.0,135.67 RSD,70,Beograd
+ORD_10936,2026-01-28,Dell Monitor 27,Elektronika,4.0,256.1 RSD,180,Novi Sad
+ORD_10937,2025-02-26,Mehanicka Tastatura,Periferije,3.0,82.63,35,Subotica
+ORD_10938,2026-03-24,iPhone 15 Pro,Elektronika,2.0,1048.26,850,Beograd
+ORD_10939,2025-10-20,HP Pavilion Gaming,Elektronika,1.0,917.04 RSD,680,Nis
+ORD_10940,2025-12-26,Dell Monitor 27,Elektronika,,271.44 RSD,180,Beograd
+ORD_10941,2025-01-07,Slusalice ANC,Periferije,1.0,105.69 RSD,50,Nis
+ORD_10942,2026-02-15,HP Pavilion Gaming,Elektronika,4.0,931.27 RSD,680,
+ORD_10943,2026-02-11,Mehanicka Tastatura,Periferije,3.0,81.28 RSD,35,Novi Sad
+ORD_10944,2026-01-11,Dell Monitor 27,Elektronika,1.0,267.39,180,Beograd
+ORD_10945,2025-02-21,Dell Monitor 27,Elektronika,1.0,255.66 RSD,180,Beograd
+ORD_10946,2025-12-03,Samsung S24 Ultra,Elektronika,5.0,1140.59 RSD,900,Beograd
+ORD_10947,2025-08-01,Dell Monitor 27,Elektronika,5.0,309.0 RSD,180,Kragujevac
+ORD_10948,2025-12-26,Kancelarijska Stolica,Namestaj,4.0,153.72 RSD,70,Beograd
+ORD_10949,2025-07-25,iPhone 15 Pro,Elektronika,5.0,1163.38 RSD,850,Kragujevac
+ORD_10950,2025-06-30,Slusalice ANC,Periferije,4.0,106.71 RSD,50,Novi Sad
+ORD_10951,2026-01-27,Kancelarijska Stolica,Namestaj,4.0,147.45 RSD,70,Novi Sad
+ORD_10952,2025-10-16,Slusalice ANC,Periferije,2.0,97.36 RSD,50,Kragujevac
+ORD_10953,2025-08-20,Radni Sto Podesivi,Namestaj,3.0,258.22 RSD,120,
+ORD_10954,2025-11-02,Laptop ASUS ZenBook,Elektronika,3.0,1027.13,750,Novi Sad
+ORD_10955,2025-04-24,Laptop ASUS ZenBook,Elektronika,3.0,1019.29 RSD,750,
+ORD_10956,2025-09-19,Radni Sto Podesivi,Namestaj,5.0,238.45 RSD,120,Beograd
+ORD_10957,2025-08-24,HP Pavilion Gaming,Elektronika,1.0,816.42 RSD,680,Novi Sad
+ORD_10958,2025-04-30,Slusalice ANC,Periferije,2.0,97.16 RSD,50,Kragujevac
+ORD_10959,2025-04-22,Mehanicka Tastatura,Periferije,5.0,79.81 RSD,35,Nis
+ORD_10960,2026-02-27,iPhone 15 Pro,Elektronika,4.0,1039.87 RSD,850,Subotica
+ORD_10961,2025-01-20,Slusalice ANC,Periferije,3.0,106.77 RSD,50,Subotica
+ORD_10962,2025-06-28,Laptop ASUS ZenBook,Elektronika,3.0,988.98 RSD,750,Subotica
+ORD_10963,2025-01-06,Samsung S24 Ultra,Elektronika,5.0,1206.22 RSD,900,Subotica
+ORD_10964,2025-01-22,Radni Sto Podesivi,Namestaj,5.0,226.93 RSD,120,Novi Sad
+ORD_10965,2025-03-20,Dell Monitor 27,Elektronika,2.0,276.34,180,Nis
+ORD_10966,2025-10-22,Gaming Mis RGB,Periferije,5.0,49.69 RSD,20,Novi Sad
+ORD_10967,2025-03-09,Mehanicka Tastatura,Periferije,2.0,72.75 RSD,35,
+ORD_10968,2025-07-24,Laptop ASUS ZenBook,Elektronika,5.0,1059.61 RSD,750,Nis
+ORD_10969,2025-09-04,iPhone 15 Pro,Elektronika,2.0,1134.25 RSD,850,
+ORD_10970,2025-10-15,Slusalice ANC,Periferije,2.0,108.1 RSD,50,Beograd
+ORD_10971,2025-05-17,Samsung S24 Ultra,Elektronika,1.0,1348.58 RSD,900,Kragujevac
+ORD_10972,2025-12-10,HP Pavilion Gaming,Elektronika,1.0,946.69 RSD,680,Beograd
+ORD_10973,2025-11-01,Kancelarijska Stolica,Namestaj,3.0,133.95 RSD,70,Beograd
+ORD_10974,2026-02-25,Kancelarijska Stolica,Namestaj,5.0,128.44 RSD,70,Beograd
+ORD_10975,2026-02-23,Gaming Mis RGB,Periferije,1.0,45.12 RSD,20,Beograd
+ORD_10976,2026-01-14,HP Pavilion Gaming,Elektronika,1.0,920.56,680,Beograd
+ORD_10977,2025-06-25,Radni Sto Podesivi,Namestaj,1.0,215.07 RSD,120,Nis
+ORD_10978,2025-06-19,Gaming Mis RGB,Periferije,1.0,47.46 RSD,20,Beograd
+ORD_10979,2026-01-20,Dell Monitor 27,Elektronika,5.0,290.81 RSD,180,
+ORD_10980,2025-07-12,iPhone 15 Pro,Elektronika,1.0,1100.22 RSD,850,Subotica
+ORD_10981,2025-01-31,Radni Sto Podesivi,Namestaj,2.0,251.05 RSD,120,Kragujevac
+ORD_10982,2025-08-27,Radni Sto Podesivi,Namestaj,,217.83 RSD,120,Nis
+ORD_10983,2026-03-19,Radni Sto Podesivi,Namestaj,3.0,216.26 RSD,120,
+ORD_10984,2025-07-14,Mehanicka Tastatura,Periferije,2.0,79.65 RSD,35,Novi Sad
+ORD_10985,2025-09-30,Gaming Mis RGB,Periferije,5.0,47.45,20,Nis
+ORD_10986,2025-01-21,Dell Monitor 27,Elektronika,1.0,296.3 RSD,180,Novi Sad
+ORD_10987,2026-01-17,Gaming Mis RGB,Periferije,4.0,46.85 RSD,20,Novi Sad
+ORD_10988,2025-05-01,Kancelarijska Stolica,Namestaj,3.0,134.89 RSD,70,Novi Sad
+ORD_10989,2026-03-26,Laptop ASUS ZenBook,Elektronika,3.0,1115.2 RSD,750,Subotica
+ORD_10990,2025-04-26,Dell Monitor 27,Elektronika,3.0,302.96 RSD,180,
+ORD_10991,2026-01-09,iPhone 15 Pro,Elektronika,1.0,1186.73 RSD,850,Kragujevac
+ORD_10992,2025-05-04,Samsung S24 Ultra,Elektronika,4.0,1175.76 RSD,900,Novi Sad
+ORD_10993,2025-08-18,Slusalice ANC,Periferije,3.0,106.49 RSD,50,Beograd
+ORD_10994,2025-12-17,Slusalice ANC,Periferije,5.0,101.44 RSD,50,Novi Sad
+ORD_10995,2025-08-09,Dell Monitor 27,Elektronika,2.0,260.49 RSD,180,Beograd
+ORD_10996,2025-06-12,Slusalice ANC,Periferije,2.0,113.68,50,
+ORD_10997,2025-06-12,HP Pavilion Gaming,Elektronika,2.0,833.5 RSD,680,Subotica
+ORD_10998,2025-07-30,Kancelarijska Stolica,Namestaj,4.0,156.01 RSD,70,
+ORD_10999,2026-02-03,Radni Sto Podesivi,Namestaj,2.0,234.8 RSD,120,Subotica
+ORD_11000,2025-05-17,Slusalice ANC,Periferije,5.0,97.57 RSD,50,Kragujevac
+ORD_11001,2025-12-18,Samsung S24 Ultra,Elektronika,2.0,1245.89,900,Nis
+ORD_11002,2026-03-10,iPhone 15 Pro,Elektronika,5.0,1229.51 RSD,850,Novi Sad
+ORD_11003,2025-09-09,iPhone 15 Pro,Elektronika,4.0,1195.73 RSD,850,Beograd
+ORD_11004,2026-01-27,Laptop ASUS ZenBook,Elektronika,4.0,1112.44 RSD,750,Nis
+ORD_11005,2026-01-23,Samsung S24 Ultra,Elektronika,2.0,1276.28 RSD,900,Nis
+ORD_11006,2025-12-19,Slusalice ANC,Periferije,4.0,108.73 RSD,50,Beograd
+ORD_11007,2026-02-02,Mehanicka Tastatura,Periferije,4.0,81.59,35,Nis
+ORD_11008,2025-11-10,Kancelarijska Stolica,Namestaj,4.0,134.99 RSD,70,Kragujevac
+ORD_11009,2025-09-24,Dell Monitor 27,Elektronika,1.0,284.37 RSD,180,Subotica
+ORD_11010,2025-10-03,Samsung S24 Ultra,Elektronika,5.0,1162.51 RSD,900,Kragujevac
+ORD_11011,2026-01-27,Mehanicka Tastatura,Periferije,,83.8 RSD,35,Novi Sad
+ORD_11012,2025-06-05,Gaming Mis RGB,Periferije,4.0,51.94 RSD,20,Beograd
+ORD_11013,2025-11-10,Mehanicka Tastatura,Periferije,3.0,68.63 RSD,35,Beograd
+ORD_11014,2025-02-16,Gaming Mis RGB,Periferije,4.0,49.56 RSD,20,Kragujevac
+ORD_11015,2025-07-21,Dell Monitor 27,Elektronika,2.0,310.51 RSD,180,Beograd
+ORD_11016,2025-12-31,Gaming Mis RGB,Periferije,5.0,44.31 RSD,20,Subotica
+ORD_11017,2025-12-21,Radni Sto Podesivi,Namestaj,3.0,240.9 RSD,120,Beograd
+ORD_11018,2025-02-28,HP Pavilion Gaming,Elektronika,1.0,981.44 RSD,680,Subotica
+ORD_11019,2026-01-08,Dell Monitor 27,Elektronika,4.0,257.04 RSD,180,Beograd
+ORD_11020,2025-07-14,Mehanicka Tastatura,Periferije,5.0,79.16,35,Novi Sad
+ORD_11021,2025-03-25,Slusalice ANC,Periferije,2.0,100.04 RSD,50,
+ORD_11022,2025-06-07,Laptop ASUS ZenBook,Elektronika,4.0,1138.37 RSD,750,Nis
+ORD_11023,2025-03-02,Radni Sto Podesivi,Namestaj,2.0,261.05 RSD,120,Subotica
+ORD_11024,2025-01-07,Slusalice ANC,Periferije,3.0,114.27 RSD,50,Kragujevac
+ORD_11025,2025-09-10,Laptop ASUS ZenBook,Elektronika,5.0,1039.33 RSD,750,Nis
+ORD_11026,2025-08-15,Gaming Mis RGB,Periferije,4.0,51.12,20,Beograd
+ORD_11027,2025-11-14,Dell Monitor 27,Elektronika,3.0,305.67 RSD,180,Beograd
+ORD_11028,2025-03-17,Laptop ASUS ZenBook,Elektronika,2.0,1005.2,750,Beograd
+ORD_11029,2026-03-06,Laptop ASUS ZenBook,Elektronika,5.0,1117.36 RSD,750,Subotica
+ORD_11030,2025-08-02,Laptop ASUS ZenBook,Elektronika,1.0,943.14 RSD,750,Novi Sad
+ORD_11031,2025-10-21,Slusalice ANC,Periferije,5.0,106.62 RSD,50,Nis
+ORD_11032,2025-01-19,Slusalice ANC,Periferije,3.0,98.56,50,Novi Sad
+ORD_11033,2026-01-24,Mehanicka Tastatura,Periferije,1.0,69.93 RSD,35,Novi Sad
+ORD_11034,2025-03-04,Gaming Mis RGB,Periferije,2.0,43.27 RSD,20,Kragujevac
+ORD_11035,2025-04-18,Mehanicka Tastatura,Periferije,5.0,79.14 RSD,35,Subotica
+ORD_11036,2025-02-14,Slusalice ANC,Periferije,5.0,100.98 RSD,50,
+ORD_11037,2025-11-08,Radni Sto Podesivi,Namestaj,4.0,248.74 RSD,120,Kragujevac
+ORD_11038,2025-03-08,Slusalice ANC,Periferije,3.0,94.94 RSD,50,
+ORD_11039,2026-02-18,Gaming Mis RGB,Periferije,4.0,45.65 RSD,20,
+ORD_11040,2025-01-01,Radni Sto Podesivi,Namestaj,2.0,239.47 RSD,120,Subotica
+ORD_11041,2025-08-01,Samsung S24 Ultra,Elektronika,5.0,1310.59 RSD,900,Kragujevac
+ORD_11042,2025-11-24,Samsung S24 Ultra,Elektronika,1.0,1187.88 RSD,900,Subotica
+ORD_11043,2025-09-17,Radni Sto Podesivi,Namestaj,3.0,243.79 RSD,120,Subotica
+ORD_11044,2025-07-22,Kancelarijska Stolica,Namestaj,3.0,154.08 RSD,70,Subotica
+ORD_11045,2025-06-19,iPhone 15 Pro,Elektronika,2.0,1167.81 RSD,850,Nis
+ORD_11046,2025-11-27,Gaming Mis RGB,Periferije,1.0,44.83 RSD,20,Nis
+ORD_11047,2025-08-25,Dell Monitor 27,Elektronika,3.0,256.46 RSD,180,
+ORD_11048,2025-06-03,Laptop ASUS ZenBook,Elektronika,5.0,1126.42 RSD,750,Kragujevac
+ORD_11049,2025-04-17,Dell Monitor 27,Elektronika,1.0,256.28 RSD,180,Novi Sad
+ORD_11050,2025-05-24,HP Pavilion Gaming,Elektronika,2.0,973.69 RSD,680,Nis
+ORD_11051,2025-10-20,Dell Monitor 27,Elektronika,2.0,286.74 RSD,180,Subotica
+ORD_11052,2025-12-30,Radni Sto Podesivi,Namestaj,3.0,259.45,120,Nis
+ORD_11053,2025-08-20,Samsung S24 Ultra,Elektronika,3.0,1312.68 RSD,900,Kragujevac
+ORD_11054,2025-02-27,Radni Sto Podesivi,Namestaj,,262.4 RSD,120,Beograd
+ORD_11055,2025-09-17,HP Pavilion Gaming,Elektronika,4.0,874.14,680,Kragujevac
+ORD_11056,2025-06-24,iPhone 15 Pro,Elektronika,2.0,1204.13 RSD,850,Kragujevac
+ORD_11057,2025-03-15,Radni Sto Podesivi,Namestaj,3.0,232.6 RSD,120,Kragujevac
+ORD_11058,2026-01-06,iPhone 15 Pro,Elektronika,2.0,1135.17,850,Kragujevac
+ORD_11059,2025-06-09,HP Pavilion Gaming,Elektronika,1.0,926.73 RSD,680,Kragujevac
+ORD_11060,2025-08-28,HP Pavilion Gaming,Elektronika,3.0,973.5 RSD,680,
+ORD_11061,2025-10-23,Radni Sto Podesivi,Namestaj,1.0,261.7 RSD,120,Beograd
+ORD_11062,2025-04-09,Kancelarijska Stolica,Namestaj,2.0,150.55 RSD,70,Nis
+ORD_11063,2025-03-18,HP Pavilion Gaming,Elektronika,3.0,886.88 RSD,680,Kragujevac
+ORD_11064,2025-02-22,Dell Monitor 27,Elektronika,5.0,280.28 RSD,180,Novi Sad
+ORD_11065,2025-12-27,Radni Sto Podesivi,Namestaj,2.0,249.38 RSD,120,Beograd
+ORD_11066,2025-11-10,HP Pavilion Gaming,Elektronika,3.0,852.87 RSD,680,Subotica
+ORD_11067,2025-08-30,iPhone 15 Pro,Elektronika,1.0,1046.51 RSD,850,Nis
+ORD_11068,2025-08-07,Laptop ASUS ZenBook,Elektronika,1.0,1013.02 RSD,750,Kragujevac
+ORD_11069,2025-07-02,Gaming Mis RGB,Periferije,5.0,45.37 RSD,20,
+ORD_11070,2026-01-22,Dell Monitor 27,Elektronika,1.0,272.78 RSD,180,Subotica
+ORD_11071,2025-08-22,Gaming Mis RGB,Periferije,1.0,44.84 RSD,20,Nis
+ORD_11072,2025-04-25,Gaming Mis RGB,Periferije,2.0,42.92 RSD,20,Novi Sad
+ORD_11073,2025-04-04,Kancelarijska Stolica,Namestaj,4.0,128.04 RSD,70,Novi Sad
+ORD_11074,2025-01-16,Gaming Mis RGB,Periferije,4.0,52.38,20,Nis
+ORD_11075,2025-05-25,Gaming Mis RGB,Periferije,2.0,46.78 RSD,20,Beograd
+ORD_11076,2025-07-27,Dell Monitor 27,Elektronika,1.0,278.06 RSD,180,Novi Sad
+ORD_11077,2026-02-10,Dell Monitor 27,Elektronika,1.0,295.78 RSD,180,Kragujevac
+ORD_11078,2025-11-14,Mehanicka Tastatura,Periferije,2.0,71.49 RSD,35,Nis
+ORD_11079,2025-06-24,Mehanicka Tastatura,Periferije,1.0,83.2 RSD,35,Nis
+ORD_11080,2026-02-08,Mehanicka Tastatura,Periferije,5.0,80.58 RSD,35,Beograd
+ORD_11081,2026-03-05,HP Pavilion Gaming,Elektronika,5.0,824.49 RSD,680,Nis
+ORD_11082,2025-02-19,Kancelarijska Stolica,Namestaj,5.0,140.03 RSD,70,Nis
+ORD_11083,2025-02-25,HP Pavilion Gaming,Elektronika,5.0,974.53 RSD,680,Nis
+ORD_11084,2025-11-27,Kancelarijska Stolica,Namestaj,4.0,155.84 RSD,70,Beograd
+ORD_11085,2026-01-23,Slusalice ANC,Periferije,1.0,103.78 RSD,50,Kragujevac
+ORD_11086,2025-11-12,Radni Sto Podesivi,Namestaj,4.0,243.17 RSD,120,
+ORD_11087,2025-10-19,Kancelarijska Stolica,Namestaj,3.0,132.51 RSD,70,Nis
+ORD_11088,2025-10-26,Kancelarijska Stolica,Namestaj,1.0,157.24,70,Nis
+ORD_11089,2025-02-01,iPhone 15 Pro,Elektronika,3.0,1075.6 RSD,850,Subotica
+ORD_11090,2026-02-25,Laptop ASUS ZenBook,Elektronika,5.0,1142.4 RSD,750,Novi Sad
+ORD_11091,2025-08-10,Laptop ASUS ZenBook,Elektronika,2.0,1077.92 RSD,750,Novi Sad
+ORD_11092,2025-07-15,Mehanicka Tastatura,Periferije,4.0,77.72 RSD,35,Beograd
+ORD_11093,2025-04-07,Gaming Mis RGB,Periferije,2.0,47.63 RSD,20,Novi Sad
+ORD_11094,2025-05-28,Mehanicka Tastatura,Periferije,2.0,71.69 RSD,35,Beograd
+ORD_11095,2025-11-28,Laptop ASUS ZenBook,Elektronika,1.0,973.84,750,Nis
+ORD_11096,2025-02-13,Mehanicka Tastatura,Periferije,2.0,71.53 RSD,35,Nis
+ORD_11097,2025-11-16,Slusalice ANC,Periferije,4.0,97.6 RSD,50,Kragujevac
+ORD_11098,2025-07-01,Gaming Mis RGB,Periferije,4.0,50.3 RSD,20,Subotica
+ORD_11099,2026-03-10,Slusalice ANC,Periferije,4.0,101.2 RSD,50,Novi Sad
+ORD_11100,2025-10-23,Mehanicka Tastatura,Periferije,5.0,68.93 RSD,35,Kragujevac
+ORD_11101,2025-02-27,Gaming Mis RGB,Periferije,3.0,52.19 RSD,20,Subotica
+ORD_11102,2026-03-16,iPhone 15 Pro,Elektronika,5.0,1232.11 RSD,850,Nis
+ORD_11103,2025-09-25,Dell Monitor 27,Elektronika,1.0,310.67 RSD,180,Nis
+ORD_11104,2026-02-13,HP Pavilion Gaming,Elektronika,5.0,996.53 RSD,680,Novi Sad
+ORD_11105,2025-08-29,Dell Monitor 27,Elektronika,1.0,265.43 RSD,180,Kragujevac
+ORD_11106,2025-06-30,Kancelarijska Stolica,Namestaj,4.0,139.39 RSD,70,Novi Sad
+ORD_11107,2025-12-22,iPhone 15 Pro,Elektronika,1.0,1201.98 RSD,850,
+ORD_11108,2025-02-01,Slusalice ANC,Periferije,3.0,108.81 RSD,50,Kragujevac
+ORD_11109,2026-02-19,Laptop ASUS ZenBook,Elektronika,,968.86 RSD,750,Nis
+ORD_11110,2025-09-16,HP Pavilion Gaming,Elektronika,2.0,962.51,680,Novi Sad
+ORD_11111,2025-05-24,iPhone 15 Pro,Elektronika,5.0,1073.87 RSD,850,
+ORD_11112,2025-03-31,HP Pavilion Gaming,Elektronika,5.0,850.03 RSD,680,
+ORD_11113,2026-02-18,Gaming Mis RGB,Periferije,3.0,47.87 RSD,20,Beograd
+ORD_11114,2026-02-14,Gaming Mis RGB,Periferije,,48.43 RSD,20,Subotica
+ORD_11115,2026-02-25,iPhone 15 Pro,Elektronika,5.0,1159.22 RSD,850,Nis
+ORD_11116,2025-12-05,Mehanicka Tastatura,Periferije,2.0,69.46 RSD,35,Beograd
+ORD_11117,2025-01-28,Slusalice ANC,Periferije,3.0,112.8 RSD,50,Subotica
+ORD_11118,2025-08-26,Laptop ASUS ZenBook,Elektronika,2.0,993.43 RSD,750,
+ORD_11119,2025-07-14,Dell Monitor 27,Elektronika,2.0,262.77 RSD,180,Novi Sad
+ORD_11120,2026-03-22,iPhone 15 Pro,Elektronika,5.0,1233.3 RSD,850,Nis
+ORD_11121,2025-09-29,Mehanicka Tastatura,Periferije,,83.29 RSD,35,Kragujevac
+ORD_11122,2025-11-09,Kancelarijska Stolica,Namestaj,4.0,153.36 RSD,70,Novi Sad
+ORD_11123,2026-02-15,Radni Sto Podesivi,Namestaj,3.0,252.98,120,Nis
+ORD_11124,2026-01-11,Gaming Mis RGB,Periferije,2.0,49.05 RSD,20,Kragujevac
+ORD_11125,2025-06-10,Kancelarijska Stolica,Namestaj,2.0,144.03 RSD,70,Subotica
+ORD_11126,2025-02-20,Laptop ASUS ZenBook,Elektronika,4.0,954.14 RSD,750,Novi Sad
+ORD_11127,2025-05-09,Samsung S24 Ultra,Elektronika,,1211.2 RSD,900,Subotica
+ORD_11128,2025-12-03,Laptop ASUS ZenBook,Elektronika,5.0,1016.99 RSD,750,Kragujevac
+ORD_11129,2025-02-14,HP Pavilion Gaming,Elektronika,1.0,856.85 RSD,680,
+ORD_11130,2025-02-26,Slusalice ANC,Periferije,2.0,109.42 RSD,50,Nis
+ORD_11131,2025-05-22,HP Pavilion Gaming,Elektronika,4.0,901.72 RSD,680,
+ORD_11132,2025-03-24,Kancelarijska Stolica,Namestaj,3.0,129.93 RSD,70,Subotica
+ORD_11133,2025-06-20,Mehanicka Tastatura,Periferije,4.0,71.52 RSD,35,Novi Sad
+ORD_11134,2025-02-05,iPhone 15 Pro,Elektronika,4.0,1183.98 RSD,850,Kragujevac
+ORD_11135,2025-11-27,Mehanicka Tastatura,Periferije,2.0,69.22 RSD,35,Nis
+ORD_11136,2025-11-26,Samsung S24 Ultra,Elektronika,5.0,1326.31 RSD,900,Novi Sad
+ORD_11137,2025-02-07,HP Pavilion Gaming,Elektronika,1.0,901.58,680,Nis
+ORD_11138,2025-03-18,Laptop ASUS ZenBook,Elektronika,,1040.73 RSD,750,Subotica
+ORD_11139,2025-03-19,Mehanicka Tastatura,Periferije,3.0,77.48 RSD,35,Kragujevac
+ORD_11140,2025-12-29,Laptop ASUS ZenBook,Elektronika,5.0,1116.43 RSD,750,Nis
+ORD_11141,2025-10-04,Mehanicka Tastatura,Periferije,1.0,73.56 RSD,35,
+ORD_11142,2025-10-18,Gaming Mis RGB,Periferije,1.0,49.28 RSD,20,Novi Sad
+ORD_11143,2025-01-29,Radni Sto Podesivi,Namestaj,4.0,240.79 RSD,120,Subotica
+ORD_11144,2026-03-13,Kancelarijska Stolica,Namestaj,5.0,135.51 RSD,70,Nis
+ORD_11145,2025-04-01,Radni Sto Podesivi,Namestaj,2.0,256.43 RSD,120,
+ORD_11146,2025-12-23,Samsung S24 Ultra,Elektronika,3.0,1312.33 RSD,900,
+ORD_11147,2025-02-13,Kancelarijska Stolica,Namestaj,4.0,147.25 RSD,70,Beograd
+ORD_11148,2025-04-09,iPhone 15 Pro,Elektronika,1.0,1224.14,850,Beograd
+ORD_11149,2025-02-02,Gaming Mis RGB,Periferije,4.0,51.17 RSD,20,Nis
+ORD_11150,2025-01-09,Dell Monitor 27,Elektronika,4.0,297.5,180,
+ORD_11151,2025-03-02,Laptop ASUS ZenBook,Elektronika,4.0,1119.14 RSD,750,Kragujevac
+ORD_11152,2025-03-18,Gaming Mis RGB,Periferije,5.0,49.47 RSD,20,Subotica
+ORD_11153,2025-09-08,Laptop ASUS ZenBook,Elektronika,2.0,1084.63 RSD,750,Kragujevac
+ORD_11154,2025-12-26,Laptop ASUS ZenBook,Elektronika,,1071.09 RSD,750,
+ORD_11155,2026-02-25,Laptop ASUS ZenBook,Elektronika,3.0,1100.6 RSD,750,Beograd
+ORD_11156,2026-02-23,Slusalice ANC,Periferije,1.0,96.99 RSD,50,Kragujevac
+ORD_11157,2025-02-02,Slusalice ANC,Periferije,2.0,112.88 RSD,50,
+ORD_11158,2025-03-03,Mehanicka Tastatura,Periferije,3.0,81.95 RSD,35,Beograd
+ORD_11159,2026-01-27,Kancelarijska Stolica,Namestaj,2.0,128.38,70,Subotica
+ORD_11160,2025-03-14,HP Pavilion Gaming,Elektronika,3.0,964.41 RSD,680,Novi Sad
+ORD_11161,2025-08-13,Dell Monitor 27,Elektronika,2.0,262.73 RSD,180,Beograd
+ORD_11162,2025-07-12,HP Pavilion Gaming,Elektronika,,871.17 RSD,680,Nis
+ORD_11163,2025-01-04,HP Pavilion Gaming,Elektronika,1.0,948.77 RSD,680,
+ORD_11164,2025-08-02,Slusalice ANC,Periferije,3.0,97.04 RSD,50,Nis
+ORD_11165,2025-03-15,iPhone 15 Pro,Elektronika,2.0,1216.31 RSD,850,Nis
+ORD_11166,2025-11-09,Samsung S24 Ultra,Elektronika,2.0,1321.35 RSD,900,
+ORD_11167,2025-02-15,Gaming Mis RGB,Periferije,5.0,47.57 RSD,20,Novi Sad
+ORD_11168,2025-10-13,Mehanicka Tastatura,Periferije,1.0,68.1 RSD,35,Kragujevac
+ORD_11169,2025-07-05,HP Pavilion Gaming,Elektronika,5.0,862.04 RSD,680,Kragujevac
+ORD_11170,2026-01-30,Samsung S24 Ultra,Elektronika,4.0,1265.4 RSD,900,Subotica
+ORD_11171,2026-02-12,Samsung S24 Ultra,Elektronika,1.0,1360.11 RSD,900,Nis
+ORD_11172,2025-03-23,Gaming Mis RGB,Periferije,,48.82 RSD,20,
+ORD_11173,2025-04-18,Kancelarijska Stolica,Namestaj,3.0,135.29 RSD,70,Nis
+ORD_11174,2026-01-15,Laptop ASUS ZenBook,Elektronika,1.0,1074.48,750,Beograd
+ORD_11175,2025-09-21,Laptop ASUS ZenBook,Elektronika,4.0,1053.8 RSD,750,
+ORD_11176,2025-10-24,Gaming Mis RGB,Periferije,5.0,50.3 RSD,20,
+ORD_11177,2026-02-03,Kancelarijska Stolica,Namestaj,2.0,130.71 RSD,70,Beograd
+ORD_11178,2025-07-12,Mehanicka Tastatura,Periferije,2.0,80.18 RSD,35,Kragujevac
+ORD_11179,2025-08-12,Gaming Mis RGB,Periferije,1.0,47.91 RSD,20,Nis
+ORD_11180,2025-07-11,iPhone 15 Pro,Elektronika,4.0,1251.12 RSD,850,
+ORD_11181,2025-04-14,Kancelarijska Stolica,Namestaj,,137.76 RSD,70,Kragujevac
+ORD_11182,2025-03-11,Laptop ASUS ZenBook,Elektronika,3.0,1074.18 RSD,750,Nis
+ORD_11183,2025-04-23,iPhone 15 Pro,Elektronika,3.0,1243.69 RSD,850,
+ORD_11184,2025-10-23,Slusalice ANC,Periferije,2.0,95.76 RSD,50,Subotica
+ORD_11185,2025-09-08,Mehanicka Tastatura,Periferije,5.0,83.0 RSD,35,Nis
+ORD_11186,2025-01-08,Gaming Mis RGB,Periferije,3.0,49.38 RSD,20,Beograd
+ORD_11187,2025-08-11,Samsung S24 Ultra,Elektronika,3.0,1122.64 RSD,900,Kragujevac
+ORD_11188,2025-01-03,iPhone 15 Pro,Elektronika,,1092.23 RSD,850,Nis
+ORD_11189,2025-08-06,Dell Monitor 27,Elektronika,1.0,297.49 RSD,180,
+ORD_11190,2025-09-11,HP Pavilion Gaming,Elektronika,4.0,820.3 RSD,680,Subotica
+ORD_11191,2025-03-09,Mehanicka Tastatura,Periferije,2.0,77.31 RSD,35,Subotica
+ORD_11192,2025-12-09,Laptop ASUS ZenBook,Elektronika,4.0,1011.09 RSD,750,Kragujevac
+ORD_11193,2025-08-21,Slusalice ANC,Periferije,1.0,107.16 RSD,50,
+ORD_11194,2026-02-09,Mehanicka Tastatura,Periferije,2.0,68.73 RSD,35,
+ORD_11195,2025-07-17,Laptop ASUS ZenBook,Elektronika,1.0,1126.74 RSD,750,Subotica
+ORD_11196,2026-01-21,Radni Sto Podesivi,Namestaj,4.0,261.17 RSD,120,Kragujevac
+ORD_11197,2026-02-08,Slusalice ANC,Periferije,2.0,114.82 RSD,50,Novi Sad
+ORD_11198,2025-12-12,Laptop ASUS ZenBook,Elektronika,5.0,1099.92 RSD,750,Nis
+ORD_11199,2025-11-13,Kancelarijska Stolica,Namestaj,4.0,131.4,70,
+ORD_11090,2026-02-25,Laptop ASUS ZenBook,Elektronika,5.0,1142.4 RSD,750,Novi Sad
+ORD_11040,2025-01-01,Radni Sto Podesivi,Namestaj,2.0,239.47 RSD,120,Subotica
+ORD_10610,2025-11-29,Mehanicka Tastatura,Periferije,4.0,68.63 RSD,35,Kragujevac
+ORD_10545,2025-02-04,Laptop ASUS ZenBook,Elektronika,5.0,1013.8,750,Subotica
+ORD_11017,2025-12-21,Radni Sto Podesivi,Namestaj,3.0,240.9 RSD,120,Beograd
+ORD_11061,2025-10-23,Radni Sto Podesivi,Namestaj,1.0,261.7 RSD,120,Beograd
+ORD_10196,2025-08-21,Dell Monitor 27,Elektronika,1.0,298.56 RSD,180,Novi Sad
+ORD_11047,2025-08-25,Dell Monitor 27,Elektronika,3.0,256.46 RSD,180,
+ORD_10090,2025-10-14,Gaming Mis RGB,Periferije,5.0,43.7 RSD,20,Nis
+ORD_10712,2025-08-13,Kancelarijska Stolica,Namestaj,3.0,141.65 RSD,70,
+ORD_10594,2025-05-08,Samsung S24 Ultra,Elektronika,5.0,1338.16 RSD,900,Subotica
+ORD_10994,2025-12-17,Slusalice ANC,Periferije,5.0,101.44 RSD,50,Novi Sad
+ORD_11197,2026-02-08,Slusalice ANC,Periferije,2.0,114.82 RSD,50,Novi Sad
+ORD_10402,2025-12-16,Mehanicka Tastatura,Periferije,1.0,76.08 RSD,35,Beograd
+ORD_10408,2025-02-04,Samsung S24 Ultra,Elektronika,,1340.4 RSD,900,Kragujevac
+ORD_11011,2026-01-27,Mehanicka Tastatura,Periferije,,83.8 RSD,35,Novi Sad
+ORD_10200,2025-03-01,Radni Sto Podesivi,Namestaj,4.0,244.6 RSD,120,Novi Sad
+ORD_10095,2025-04-29,iPhone 15 Pro,Elektronika,2.0,1138.51 RSD,850,Beograd
+ORD_10376,2025-08-02,Laptop ASUS ZenBook,Elektronika,2.0,1120.87 RSD,750,Subotica
+ORD_10656,2025-01-15,Dell Monitor 27,Elektronika,5.0,272.03 RSD,180,Beograd
+ORD_10498,2025-03-12,Mehanicka Tastatura,Periferije,5.0,83.59 RSD,35,Nis
+ORD_10026,2025-05-03,Kancelarijska Stolica,Namestaj,3.0,133.49,70,Subotica
+ORD_10919,2025-07-19,Samsung S24 Ultra,Elektronika,4.0,1141.43 RSD,900,Novi Sad
+ORD_10662,2025-11-28,Samsung S24 Ultra,Elektronika,2.0,1262.5 RSD,900,
+ORD_11076,2025-07-27,Dell Monitor 27,Elektronika,1.0,278.06 RSD,180,Novi Sad
+ORD_10893,2025-01-14,Dell Monitor 27,Elektronika,1.0,278.83 RSD,180,Subotica
+ORD_10410,2025-03-13,Samsung S24 Ultra,Elektronika,1.0,1188.02 RSD,900,
+ORD_10566,2025-08-22,HP Pavilion Gaming,Elektronika,5.0,882.03,680,Kragujevac
+ORD_11173,2025-04-18,Kancelarijska Stolica,Namestaj,3.0,135.29 RSD,70,Nis
+ORD_10468,2025-04-01,Gaming Mis RGB,Periferije,3.0,44.74 RSD,20,Novi Sad
+ORD_10542,2025-05-04,Mehanicka Tastatura,Periferije,1.0,71.66 RSD,35,Kragujevac
+ORD_10513,2025-05-29,Kancelarijska Stolica,Namestaj,3.0,153.48 RSD,70,Kragujevac
+ORD_10855,2026-03-25,Dell Monitor 27,Elektronika,3.0,266.44 RSD,180,Novi Sad
+ORD_10443,2025-12-26,Laptop ASUS ZenBook,Elektronika,1.0,1016.54 RSD,750,Nis
+ORD_10005,2025-07-14,HP Pavilion Gaming,Elektronika,1.0,837.14,680,Kragujevac
+ORD_10167,2025-06-20,Gaming Mis RGB,Periferije,3.0,44.37 RSD,20,Nis
+ORD_11178,2025-07-12,Mehanicka Tastatura,Periferije,2.0,80.18 RSD,35,Kragujevac
+ORD_11126,2025-02-20,Laptop ASUS ZenBook,Elektronika,4.0,954.14 RSD,750,Novi Sad
+ORD_10414,2025-10-12,iPhone 15 Pro,Elektronika,4.0,1171.64 RSD,850,
+ORD_10761,2025-10-27,iPhone 15 Pro,Elektronika,,1094.81 RSD,850,Nis

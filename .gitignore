@@ -1,0 +1,25 @@
+# --- IGNORE THESE FOLDERS ---
+12 - Core Java Programming/
+13 - Advanced Java Programming/
+Excel/
+Uro/
+
+# --- IGNORE THESE FILES ---
+/test.ipynb
+/test.py
+/test2.py
+
+# --- BLOCK ALL "MATERIAL" FOLDERS ---
+**/Materijal/
+**/Materijal/**
+
+# --- BLOCK ALL PDF'S ---
+*.pdf
+
+# --- SYSTEM AND TEMPORARY FILES ---
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,11 @@
+Izbor strategije za uvoz modula
+
+Koristimo import modul za većinu slučajeva: On održava imenski prostor urednim i olakšava identifikaciju porekla funkcija.
+
+Uvoženje svih definicija (from module import *) koristimo pažljivo: Ono se preporučuje samo kada nema rizika od konflikata u imenima, 
+jer može otežati praćenje izvora funkcija.
+
+Selektivno uvoženje (funkcija from module import) koristimo za specifične potrebe: Idealno za često korišćene funkcije; 
+omogućava kraći i pregledniji kod.
+
+Uvodjenje sa alijasom (import math as m) - uvozi se ceo modul ali ne mora se pisati celo ime (math.pi) nego moze samo m.pi

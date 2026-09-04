@@ -1,0 +1,9 @@
+- U prilogu šaljem i konceptualni model prošlog zadatka za svaki slučaj
+
+- Prvi korak: Napravljena baza podataka "movies"
+
+- Drugi korak: Napravljena glavna tabela "movie", dodati atributi i tipovi podataka
+
+- Treći korak: Napravljene ostale tabele (genre, director, language, county), dodati atributi i tipovi podataka
+
+- Četvrti korak: Napravljeni strani ključevi svih ostalih tabela u glavnu "movie" tabelu

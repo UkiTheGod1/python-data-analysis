@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <book id="101">
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <published>1960</published>
+    <genre>Fiction</genre>
+  </book>
+  <book id="102">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <published>1949</published>
+    <genre>Dystopian</genre>
+  </book>
+  <book id="103">
+    <title>Moby Dick</title>
+    <author>Herman Melville</author>
+    <published>1851</published>
+    <genre>Adventure</genre>
+  </book>
+  <book id="104">
+    <title>War and Peace</title>
+    <author>Leo Tolstoy</author>
+    <published>1869</published>
+    <genre>Historical</genre>
+  </book>
+  <book id="105">
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <published>1951</published>
+    <genre>Coming-of-Age</genre>
+  </book>
+  <book id="106">
+    <title>Harry Potter</title>
+    <author>J.K. Rowling</author>
+    <published>1998</published>
+    <genre>Fiction</genre>
+  </book>
+  <book id="107">
+    <title>Lord of the Rings</title>
+    <author> J.R.R. Tolkien</author>
+    <published>1954</published>
+    <genre> Fantasy Adventure</genre>
+  </book>
+  <book id="108">
+    <title>Crime and Punishement</title>
+    <author> Fyodor Dostoevsky</author>
+    <published>1866</published>
+    <genre> Literary Fiction</genre>
+  </book>
+</library>

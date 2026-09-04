@@ -1,0 +1,93 @@
+1. Pronaći sve filmove čiji je budžet veći od prosečnog budžeta svih filmova.
+
+Rešenje:
+Avatar: The Way of Water (460000000)
+Spider-Man: No Way Home (200000000)
+Top Gun: Maverick (170000000)
+The Batman (185000000)
+
+
+2. Za svaku državu, prikazati broj filmova.
+
+Rešenje:
+United States of America (9)
+Japan (1)
+
+
+3. Prikazati žanrove koji imaju više od pet filmova u bazi.
+
+Rešenje:
+/ - nemam ni jedan žanr u bazi koji ima više od 5 filmova
+(Proverio sam sa ">= 2" i izbacilo i je "Animation, Adventure" koji ima 2 filma)
+
+
+4. Prikazati top 10 filmova sa najvećom zaradom.
+
+Rešenje:
+Avatar: The Way of Water (2320000000)
+Spider-Man: No Way Home (1910000000)
+Top Gun: Maverick (1490000000)
+Frozen II (1450000000)
+Barbie (1440000000)
+The Super Mario Bros. Movie (1360000000)
+Minions: The Rise of Gru (939000000)
+The Batman (770000000)
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train (507000000)
+Puss in Boots: The Last Wish (484000000)
+
+
+5. Prikazati pet filmova koji najkraće traju.
+
+Rešenje:
+Minions: The Rise of Gru (87)
+The Super Mario Bros. Movie (92)
+Puss in Boots: The Last Wish (102)
+Frozen II (103)
+Barbie (114)
+
+
+6. Izračunati ukupnu zaradu svih filmova u bazi.
+
+Rešenje:
+12670000000
+
+
+7. Prikazati prosečno trajanje svih filmova.
+
+Rešenje:
+126.1000
+
+
+8. Pronaći najskuplji i najjeftiniji film po budžetu.
+
+Rešenje:
+Avatar: The Way of Water (460000000)
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train (15000000)
+
+
+9. Prikazati filmove gde naziv sadrži više od 15 karaktera i prikazati ih velikim slovima.
+
+Rešenje:
+AVATAR: THE WAY OF WATER
+SPIDER-MAN: NO WAY HOME
+TOP GUN: MAVERICK
+THE SUPER MARIO BROS. MOVIE
+MINIONS: THE RISE OF GRU
+DEMON SLAYER: KIMETSU NO YAIBA - THE MOVIE: MUGEN TRAIN
+PUSS IN BOOTS: THE LAST WISH
+(Nisu prikazani Barbie, The Batman, Frozen II)
+
+
+10. Prikazati prvih pet karaktera iz naslova svih filmova.
+
+Rešenje:
+Avata
+Spide
+Barbi
+Top G
+The S
+Froze
+Minio
+Demon
+The B
+Puss

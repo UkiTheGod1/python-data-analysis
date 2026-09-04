@@ -1,0 +1,1001 @@
+﻿full_name,university,age,study_hours,missed_classes,sleep_hours,shoe_size,grade
+Olivia Wilson,University of Melbourne,22,3.996714153,4,8.227409766,42,38.04166865
+Elijah Jones,University of Melbourne,25,3.361735699,7,6.771464577,41,0
+Lucas Johnson,University of Cambridge,24,4.147688538,7,6.311100907,43,17.7635503
+Noah Davis,Stanford University,24,5.023029856,2,6.662649418,43,63.90427044
+Elijah Wilson,Massachusetts Institute of Technology,24,3.265846625,5,7.695216112,44,8.049156391
+Sophia Johnson,Stanford University,21,3.265863043,6,8.694432254,43,3.562010448
+Ava Davis,ETH Zurich,18,5.079212816,5,6.246227513,48,37.62698926
+Mason Martinez,University of Cambridge,21,4.267434729,2,7.118720544,40,49.00966416
+Elijah Smith,University of Oxford,19,3.030525614,7,7.40602893,39,0
+Emma Martinez,University of Melbourne,18,4.042560044,9,5.808906392,41,5.335030367
+Lucas Davis,Harvard University,21,3.036582307,6,7.024500601,39,15.92377374
+Ava Brown,University of Cambridge,23,3.034270246,5,5.241191371,39,3.636160271
+Liam Johnson,University of Oxford,21,3.741962272,6,4.877139636,40,0
+Lucas Davis,Massachusetts Institute of Technology,25,1.586719755,5,7.440095689,40,0
+Lucas Martinez,Harvard University,19,1.775082167,5,6.53935031,40,0
+Noah Williams,Massachusetts Institute of Technology,26,2.937712471,5,7.242736489,43,15.82037755
+Elijah Williams,Stanford University,24,2.48716888,4,6.978526028,41,8.309723473
+Elijah Williams,University of Melbourne,18,3.814247333,8,5.828319942,42,5.065992258
+Emma Garcia,Massachusetts Institute of Technology,19,2.591975924,4,6.945694838,44,20.06772626
+Noah Martinez,ETH Zurich,19,2.087696299,5,5.520278434,40,0
+Olivia Brown,University of Cambridge,21,4.965648769,3,8.66916683,41,40.09873566
+Lucas Smith,ETH Zurich,19,3.2742237,7,5.372835586,43,0
+Ava Martinez,Harvard University,25,3.567528205,2,6.765057675,38,40.23403747
+Olivia Johnson,University of Toronto,18,2.075251814,5,5.749274094,37,0
+Ava Miller,University of Melbourne,21,2.955617275,10,7.684505408,43,0
+Sophia Miller,Massachusetts Institute of Technology,18,3.61092259,7,6.602282354,43,18.11749981
+Noah Martinez,Massachusetts Institute of Technology,26,2.349006423,7,6.377599936,46,0
+Noah Brown,Massachusetts Institute of Technology,22,3.875698018,10,8.023841854,42,0
+Emma Brown,Massachusetts Institute of Technology,24,2.89936131,1,7.03531671,44,36.10436232
+Isabella Johnson,University of Oxford,24,3.20830625,5,7.619973335,42,16.49254796
+Olivia Wilson,Massachusetts Institute of Technology,19,2.898293388,3,5.822408876,43,17.76741528
+Liam Miller,University of Cambridge,22,5.352278185,8,5.314219667,45,26.6756605
+Ava Garcia,Harvard University,18,3.486502775,7,7.128649554,38,15.560291
+Emma Jones,Stanford University,21,2.442289071,3,6.617384373,43,12.78580353
+Noah Brown,Stanford University,26,4.322544912,1,7.751721607,46,53.22983452
+Emma Miller,University of Oxford,25,2.27915635,5,6.904109857,43,8.443948274
+Ava Davis,Stanford University,24,3.708863595,3,7.246090407,45,33.89207011
+Mason Davis,Harvard University,24,1.540329876,6,5.051940964,41,0
+Noah Garcia,University of Oxford,22,2.171813951,3,9.266124328,42,0
+Noah Davis,ETH Zurich,22,3.696861236,4,6.802909618,42,26.63414184
+Mason Brown,Massachusetts Institute of Technology,26,4.23846658,5,7.837104364,38,28.23963348
+Noah Davis,University of Cambridge,20,3.671368281,8,5.996689996,40,4.578255872
+Lucas Williams,University of Oxford,22,3.384351718,7,7.369611883,40,0
+Isabella Miller,University of Cambridge,24,3.198896304,5,5.436586284,44,2.547103255
+Lucas Davis,University of Cambridge,26,2.02147801,4,7.542481406,44,0
+Sophia Johnson,University of Oxford,26,2.780155792,6,6.572831099,43,9.744444191
+Elijah Davis,University of Oxford,23,3.039361229,8,7.035028605,44,0
+Liam Smith,University of Melbourne,24,4.557122226,4,7.837568836,42,44.64760344
+Mason Jones,ETH Zurich,18,3.84361829,3,5.520951627,44,27.23213224
+Noah Brown,ETH Zurich,25,1.736959845,2,6.178609923,42,12.60135929
+Mason Davis,ETH Zurich,23,3.824083969,3,7.548789137,42,44.31410677
+Mason Smith,University of Oxford,21,3.11491772,9,9.517865769,41,0
+Liam Jones,Stanford University,25,2.823078,5,6.834301198,43,12.57791149
+Ava Wilson,ETH Zurich,24,4.111676289,4,7.709363342,41,26.25662637
+Olivia Jones,Stanford University,22,4.530999522,7,6.871634236,44,32.44514004
+Mason Williams,University of Oxford,26,4.431280119,8,9.330694714,40,0
+Emma Johnson,Stanford University,24,2.660782477,4,4.903334,40,0
+Sophia Martinez,University of Cambridge,18,3.190787624,4,7.113545254,43,24.02186873
+Mason Johnson,Stanford University,25,3.831263431,8,5.04934716,42,0
+Ava Williams,University of Toronto,23,4.475545127,5,3.992114115,41,0
+Elijah Davis,University of Toronto,25,3.020825762,5,7.356954464,44,18.32164225
+Olivia Miller,University of Cambridge,26,3.314341023,6,7.167397355,41,10.33740754
+Emma Johnson,Harvard University,20,2.393665026,7,6.658195675,42,0
+Olivia Jones,Massachusetts Institute of Technology,22,2.303793376,2,6.872567092,45,29.03527455
+Ava Davis,University of Oxford,20,4.312525822,1,10,45,16.38987451
+Ava Wilson,University of Toronto,25,4.856240029,7,6.690189834,45,28.32522783
+Isabella Brown,Stanford University,22,3.427989878,5,7.612149234,41,17.3309323
+Olivia Williams,University of Melbourne,19,4.503532898,4,6.220762216,44,47.38082151
+Ava Martinez,Harvard University,22,3.861636025,4,7.35427909,40,30.18387822
+Mason Davis,University of Melbourne,19,2.854880245,3,6.71411959,40,24.59356615
+Ava Smith,University of Cambridge,20,3.861395606,8,6.507377821,37,5.11349333
+Sophia Jones,Harvard University,24,5.038036566,7,9.182678239,45,11.53138967
+Lucas Davis,Stanford University,26,3.464173961,1,8.412621956,40,40.0076783
+Mason Williams,University of Toronto,26,5.064643656,2,7.164095977,42,65.71503764
+Isabella Jones,Massachusetts Institute of Technology,23,0.880254896,4,4.234945677,40,0
+Elijah Jones,University of Melbourne,24,4.321902504,6,6.566788932,43,30.56033881
+Mason Brown,Massachusetts Institute of Technology,18,3.587047068,4,10,41,0
+Mason Jones,University of Melbourne,25,3.20099265,6,6.723206,39,11.7370684
+Sophia Jones,ETH Zurich,21,3.591760777,8,8.323861086,43,0
+Liam Brown,ETH Zurich,26,1.512431085,7,8.730330882,39,0
+Ava Smith,Stanford University,23,3.280328112,5,7.262756699,40,22.78129981
+Liam Davis,University of Toronto,18,3.857112572,2,5.989814042,38,42.63019635
+Olivia Davis,University of Cambridge,20,4.977894045,1,4.077625202,39,25.59732496
+Ava Miller,Harvard University,19,2.981729782,7,7.82099585,42,0
+Noah Martinez,Massachusetts Institute of Technology,18,2.691506397,4,6.022292797,38,14.01048923
+Liam Jones,University of Cambridge,22,2.998242956,1,7.211380542,39,31.20759579
+Isabella Miller,Stanford University,18,4.415402118,6,5.500215592,42,14.04942535
+Sophia Garcia,University of Cambridge,20,3.82875111,5,6.681714951,41,20.69407764
+Liam Wilson,Massachusetts Institute of Technology,21,2.970239796,8,7.040462866,46,1.616066117
+Lucas Brown,University of Melbourne,19,4.013267433,5,7.322312297,46,23.135439
+Mason Martinez,ETH Zurich,20,3.597077549,4,5.662213375,40,14.28506057
+Ava Jones,University of Melbourne,20,4.468644991,10,8.436293139,43,0
+Ava Jones,ETH Zurich,25,2.797946906,7,6.283726258,43,0
+Ava Johnson,ETH Zurich,21,3.172337853,4,4.990636647,41,5.039371461
+Emma Brown,University of Cambridge,20,3.107891847,8,6.869171896,39,5.575510962
+Noah Miller,Stanford University,19,2.036485052,5,7.041250371,42,1.567176419
+Lucas Miller,Massachusetts Institute of Technology,22,3.796120277,5,7.19270732,42,27.74456438
+Emma Johnson,University of Oxford,22,3.761055272,5,8.634558884,41,13.50254809
+Olivia Davis,University of Toronto,23,3.505113457,2,6.716261396,43,33.22392032
+Noah Garcia,ETH Zurich,25,3.265412867,3,6.856456451,40,25.46261721
+Elijah Johnson,University of Toronto,18,2.084629258,4,5.676178743,40,0
+Noah Miller,Stanford University,25,3.079354677,9,7.984664203,42,0
+Lucas Davis,Harvard University,25,3.157285483,0,7.221170877,43,44.9727139
+Ava Martinez,Stanford University,23,2.697722731,5,6.495966727,40,6.015408066
+Noah Davis,University of Oxford,20,3.338714288,5,4.714390368,44,0
+Sophia Garcia,Harvard University,20,3.904050857,5,8.733294634,38,12.63476548
+Ava Wilson,ETH Zurich,23,5.386185901,5,5.526784043,41,47.0718491
+Sophia Williams,Harvard University,23,3.674577813,4,6.290466389,41,25.34097872
+Elijah Brown,Massachusetts Institute of Technology,25,3.757550391,9,7.430013413,41,0
+Emma Garcia,University of Melbourne,25,3.425554084,6,5.564130486,41,0
+Olivia Johnson,Massachusetts Institute of Technology,24,1.581228785,2,5.207788266,46,0
+Lucas Martinez,ETH Zurich,20,3.473486125,6,4.451262901,40,0
+Sophia Davis,Harvard University,24,3.56023021,6,7.865196343,47,14.60953329
+Emma Martinez,University of Oxford,18,5.963242112,6,6.345776506,43,47.74647544
+Olivia Williams,Stanford University,21,3.307639035,5,10,42,0
+Sophia Smith,University of Cambridge,24,3.801547342,2,5.806773921,43,32.39038164
+Liam Martinez,University of Toronto,23,3.46528823,5,5.894258772,47,15.81352184
+Mason Williams,Stanford University,24,2.331321962,3,6.321528436,40,9.475145508
+Ava Johnson,Harvard University,19,4.642822815,3,7.291761586,40,48.63486919
+Elijah Smith,University of Toronto,25,4.251933033,3,6.435755993,40,50.21593406
+Isabella Garcia,Stanford University,21,4.291031947,6,7.734798657,42,32.41368352
+Elijah Johnson,Massachusetts Institute of Technology,19,2.590612545,6,5.825693932,39,0
+Elijah Johnson,Massachusetts Institute of Technology,24,4.902794311,4,5.342089938,42,39.30060967
+Noah Garcia,Harvard University,19,2.098148937,5,4.842142313,45,0
+Sophia Smith,Harvard University,23,4.086857094,5,4.331710998,42,0
+Sophia Williams,Massachusetts Institute of Technology,20,5.690455626,7,6.378317177,41,43.30380467
+Emma Brown,University of Melbourne,26,2.509463675,5,6.638823625,41,2.25140262
+Elijah Jones,Stanford University,20,2.93370227,3,6.242275567,44,29.59266109
+Isabella Martinez,Harvard University,22,3.599651365,4,8.492086957,40,11.17899738
+Noah Johnson,University of Oxford,26,2.996524346,7,8.473636252,46,0
+Sophia Garcia,Stanford University,21,1.949336569,5,6.598236415,46,0
+Elijah Wilson,University of Melbourne,19,3.568562975,7,4.847294664,43,0
+Isabella Davis,University of Toronto,22,2.437696286,8,6.31995387,42,0
+Sophia Garcia,University of Cambridge,22,3.973592431,7,6.280214327,44,12.75320746
+Elijah Smith,University of Melbourne,24,2.580575766,5,6.211438045,44,4.28708759
+Sophia Williams,University of Cambridge,26,5.049934405,8,6.162737315,40,21.68930003
+Lucas Garcia,University of Oxford,19,2.716746708,4,6.215844525,41,15.84111836
+Elijah Smith,Harvard University,23,3.177938484,6,6.536150061,39,3.510279451
+Sophia Davis,Stanford University,23,4.313517217,8,6.237350681,43,19.13509752
+Sophia Johnson,University of Oxford,26,2.269135684,6,7.24998701,43,0
+Isabella Miller,Massachusetts Institute of Technology,26,3.727459935,3,7.432442459,39,32.06921106
+Liam Johnson,University of Oxford,22,4.807142754,8,5.907225895,41,19.52875005
+Elijah Martinez,Stanford University,20,1.892516765,4,8.525278391,39,0
+Lucas Johnson,ETH Zurich,20,3.684633859,7,5.823925238,40,2.562622901
+Mason Jones,University of Toronto,23,3.759882794,2,5.058639263,43,24.89869089
+Lucas Williams,University of Cambridge,22,4.281822872,10,7.456933686,41,0
+Noah Miller,University of Cambridge,23,2.263049289,6,6.019110239,41,0
+Isabella Johnson,ETH Zurich,19,2.179543387,4,7.385549765,39,0.094302018
+Ava Jones,University of Toronto,23,4.021941566,5,4.115597679,42,0
+Isabella Garcia,Harvard University,26,3.796984673,6,8.67094713,42,1.105279705
+Mason Miller,University of Cambridge,23,3.75049285,4,7.80675209,41,33.20202858
+Liam Garcia,Massachusetts Institute of Technology,21,3.846448209,5,5.199428141,42,10.33132711
+Elijah Williams,University of Oxford,25,2.819975278,6,5.225467451,42,0
+Liam Miller,University of Melbourne,20,3.732253697,3,9.006719085,40,20.57929357
+Isabella Williams,University of Oxford,23,3.793072473,7,6.115144116,39,15.14666279
+Liam Brown,Massachusetts Institute of Technology,25,2.785648582,7,5.998978182,46,0
+Olivia Wilson,Massachusetts Institute of Technology,23,5.365774511,8,4.280737487,41,0
+Olivia Wilson,University of Cambridge,24,3.973832921,4,6.579066153,42,41.29227882
+Mason Smith,University of Melbourne,18,2.308696503,7,6.726736462,44,0
+Sophia Garcia,University of Toronto,24,4.156553609,3,7.858591716,48,40.37369925
+Isabella Garcia,University of Toronto,24,2.52531833,4,5.321105886,40,0
+Elijah Williams,University of Oxford,19,4.287084604,4,5.175655849,43,19.87806582
+Elijah Martinez,University of Melbourne,18,4.658595579,0,7.541155162,41,71.07271646
+Elijah Garcia,University of Oxford,26,2.679317682,1,8.208076085,41,26.33536764
+Isabella Wilson,University of Oxford,23,4.463376129,1,5.114617179,41,36.22486401
+Lucas Davis,ETH Zurich,23,3.912780927,7,8.297816904,40,3.504896503
+Elijah Davis,University of Cambridge,18,4.32206016,5,7.04505021,42,32.08358214
+Emma Brown,University of Cambridge,25,5.396792983,5,8.310166407,39,41.91289258
+Isabella Johnson,Stanford University,25,3.254611884,8,6.915735566,44,0
+Sophia Brown,University of Toronto,20,2.746263836,3,3.973266499,42,0
+Noah Jones,University of Melbourne,19,2.61048557,5,6.817639141,43,8.943559992
+Mason Miller,Massachusetts Institute of Technology,20,2.684189715,3,8.272172582,41,12.62895636
+Isabella Williams,Stanford University,24,3.422898291,5,5.927504777,41,19.11100437
+Elijah Smith,Harvard University,19,3.841151975,1,6.534442037,43,41.60045107
+Elijah Davis,University of Melbourne,26,3.776690799,7,6.788639796,40,11.2854865
+Mason Garcia,Stanford University,20,4.327183249,2,3.520583344,41,0
+Elijah Wilson,University of Melbourne,26,3.513001892,4,9.005617091,40,11.28909152
+Sophia Davis,ETH Zurich,23,4.953534077,6,5.918349184,40,28.60572978
+Ava Miller,University of Oxford,21,3.235343167,7,7.606882519,38,0
+Olivia Brown,University of Melbourne,23,6,9,6.895958637,45,24.84271839
+Mason Garcia,Harvard University,24,4.125667348,4,8.509142868,41,25.61096005
+Sophia Smith,University of Cambridge,25,2.642842444,1,7.487267347,44,33.31078193
+Mason Martinez,University of Melbourne,25,2.429107502,4,6.718090874,44,19.04745693
+Liam Davis,Massachusetts Institute of Technology,24,3.982472415,6,5.927781889,39,16.47014208
+Isabella Brown,Massachusetts Institute of Technology,24,3.276537215,3,7.957420842,40,17.40713402
+Olivia Miller,Massachusetts Institute of Technology,21,4.214000494,4,4.751870435,47,17.57551411
+Sophia Wilson,ETH Zurich,19,3.973237625,2,7.775068504,46,39.09946264
+Elijah Jones,Massachusetts Institute of Technology,26,3.427171087,6,5.681146298,42,0.321705158
+Mason Martinez,ETH Zurich,18,2.653206282,8,8.502740394,43,0
+Liam Martinez,University of Cambridge,18,1.985152775,7,7.193559451,41,0
+Lucas Brown,University of Cambridge,26,3.053485048,2,7.772948521,43,29.10550177
+Liam Brown,Harvard University,24,4.356398794,6,7.098386577,41,15.91169411
+Olivia Wilson,Massachusetts Institute of Technology,22,3.714093744,9,4.897147486,38,0
+Noah Garcia,University of Toronto,20,2.254261221,3,5.967125004,39,8.055548263
+Sophia Davis,University of Cambridge,18,3.673180926,8,7.806867205,42,4.373776825
+Olivia Davis,Massachusetts Institute of Technology,18,3.88531738,7,7.199986981,40,5.526907564
+Isabella Garcia,Harvard University,19,2.616142564,6,8.417187886,42,0
+Mason Miller,University of Oxford,24,3.653725106,10,7.483929476,40,0
+Olivia Jones,Harvard University,25,3.558208718,5,5.839957731,40,15.95346843
+Olivia Garcia,University of Oxford,21,2.357029702,5,6.044723035,44,0
+Lucas Miller,Stanford University,19,3.85778736,5,7.123500869,42,30.47575669
+Olivia Johnson,ETH Zurich,24,4.060784526,5,4.223147121,42,0
+Olivia Brown,Massachusetts Institute of Technology,22,4.583051243,4,9.008130263,44,28.88602364
+Ava Garcia,University of Toronto,20,4.553802052,10,7.530096084,43,7.529794564
+Elijah Wilson,Harvard University,26,2.122330632,3,8.472441516,45,8.301507443
+Lucas Johnson,ETH Zurich,21,2.56217496,2,5.103275271,41,11.21073717
+Noah Wilson,University of Melbourne,23,4.015035267,6,8.493478192,41,13.01519173
+Noah Wilson,University of Toronto,18,4.013785951,4,9.677798693,39,0.421280489
+Lucas Brown,ETH Zurich,25,4.015047686,4,5.414945974,41,18.71498195
+Mason Brown,ETH Zurich,19,6,8,7.925682154,44,35.6089954
+Ava Miller,Massachusetts Institute of Technology,20,4.070890511,5,7.001331934,45,41.72363918
+Sophia Williams,University of Toronto,24,4.63556564,4,5.146679382,44,33.18504
+Ava Smith,Stanford University,24,4.454001763,7,7.591460766,38,20.79347682
+Lucas Smith,ETH Zurich,26,4.151391251,4,8.000323846,44,24.25885561
+Elijah Brown,Stanford University,24,3.184730755,2,6.278648137,38,26.51184289
+Mason Garcia,ETH Zurich,23,4.25896922,2,8.399099824,44,50.04610578
+Sophia Williams,University of Melbourne,19,2.727174785,3,4.999883912,41,0
+Sophia Garcia,ETH Zurich,20,3.263181393,3,5.206292624,43,11.6537527
+Ava Johnson,Stanford University,19,3.014636452,8,7.163916875,39,0
+Emma Davis,Harvard University,25,3.581874139,6,7.030462334,44,30.42958458
+Emma Davis,University of Toronto,20,5.814658567,0,6.140111814,39,81.77397515
+Elijah Brown,University of Melbourne,26,1.632734807,8,7.971513323,41,0
+Emma Davis,University of Cambridge,20,4.18626019,5,7.637073177,40,29.17999168
+Elijah Wilson,ETH Zurich,25,1.887284129,4,8.029766885,38,4.192178698
+Ava Davis,ETH Zurich,26,3.028068134,5,6.852236278,42,11.1914137
+Liam Brown,Massachusetts Institute of Technology,25,4.588950597,7,7.723096322,46,27.28903576
+Lucas Smith,Harvard University,19,3.564280019,6,6.465219636,47,13.06580978
+Lucas Smith,Stanford University,23,2.422255222,3,9.464582428,42,0
+Isabella Martinez,University of Melbourne,25,2.784696291,4,6.024945076,44,14.63260357
+Olivia Miller,University of Melbourne,20,4.179597749,2,9.526356915,42,21.83227736
+Elijah Brown,Massachusetts Institute of Technology,26,2.769633368,4,7.041865537,43,12.61135025
+Elijah Martinez,University of Melbourne,25,3.71645859,1,5.349386933,41,44.02331149
+Mason Miller,University of Toronto,18,3.54557184,9,8.641695221,42,0
+Noah Wilson,University of Melbourne,18,2.848399652,3,7.151081666,43,20.57500017
+Sophia Martinez,University of Toronto,25,5.643944089,1,8.021348918,41,69.61479129
+Sophia Miller,Harvard University,20,4.133919022,5,8.468627102,42,17.00344212
+Sophia Brown,ETH Zurich,24,1.474857413,4,7.405546665,42,0
+Liam Brown,Harvard University,25,3.686454315,6,6.289310986,44,14.42999674
+Sophia Williams,Massachusetts Institute of Technology,20,2.838213535,5,8.170856053,40,9.879925219
+Liam Jones,Massachusetts Institute of Technology,18,4.352433335,8,7.000906609,42,14.47590802
+Isabella Garcia,ETH Zurich,20,2.707479262,5,7.823029382,46,9.513043708
+Olivia Miller,University of Oxford,19,3.385263559,7,4.415523311,44,0
+Mason Brown,Harvard University,23,4.004987279,4,7.53637806,45,28.73594975
+Olivia Smith,University of Toronto,21,4.365755194,1,6.23369701,42,56.74358827
+Liam Johnson,University of Melbourne,18,2.299703593,5,8.983971565,43,0
+Elijah Smith,Harvard University,26,3.165498764,4,7.747704817,44,17.27882261
+Lucas Johnson,Massachusetts Institute of Technology,18,3.025054689,3,7.287829295,45,21.95523845
+Liam Miller,University of Melbourne,19,2.846670767,2,7.583571992,38,34.93565357
+Liam Davis,University of Cambridge,21,5.26545424,12,5.801870977,39,0
+Mason Williams,Massachusetts Institute of Technology,26,3.904981711,5,8.947908029,45,12.6561625
+Sophia Johnson,University of Oxford,18,2.239116046,10,9.389644502,41,0
+Noah Jones,University of Melbourne,20,4.417861947,6,7.471496213,41,27.11900877
+Olivia Davis,Massachusetts Institute of Technology,20,5.622156197,1,8.908484282,39,56.33122261
+Olivia Jones,Massachusetts Institute of Technology,21,4.532465261,6,6.317022162,41,35.77549564
+Liam Brown,Massachusetts Institute of Technology,25,1.980630034,2,6.043463721,39,17.28939698
+Ava Davis,University of Cambridge,21,3.015765927,4,7.049109698,46,16.82922843
+Noah Jones,University of Toronto,23,4.766911149,5,7.521929246,42,43.19333286
+Ava Smith,Massachusetts Institute of Technology,22,2.792330534,8,6.527215983,42,0
+Lucas Johnson,University of Toronto,18,3.943819428,4,7.645321828,43,31.09568889
+Isabella Jones,ETH Zurich,25,4.274634053,2,7.367667378,44,48.90092472
+Liam Johnson,University of Toronto,19,2.573069528,1,5.80203187,44,30.29276833
+Ava Johnson,University of Cambridge,25,3.440474644,8,7.622551621,44,1.291734727
+Elijah Williams,University of Oxford,26,0.5,8,8.036233891,41,0
+Isabella Brown,Stanford University,22,2.475612359,4,7.205763181,41,8.838022588
+Isabella Johnson,University of Melbourne,19,3.247431849,1,8.383177724,44,34.11562876
+Lucas Smith,Harvard University,25,2.252216818,9,5.539115448,41,0
+Olivia Martinez,ETH Zurich,21,5.132411304,4,7.561540507,42,54.28022383
+Lucas Martinez,University of Cambridge,23,2.069858622,2,5.595663152,43,8.39271643
+Isabella Davis,Harvard University,19,3.059955513,4,5.66310237,44,14.4390276
+Lucas Martinez,Stanford University,21,3.630740577,3,6.242883,38,30.63746386
+Sophia Miller,Massachusetts Institute of Technology,19,4.941273289,8,5.86952778,43,14.78105299
+Ava Johnson,University of Cambridge,23,2.064137849,9,6.342405018,42,0
+Lucas Johnson,University of Melbourne,22,4.663163752,4,6.743019627,43,34.16598865
+Mason Wilson,Massachusetts Institute of Technology,20,3.510233061,4,8.004585384,44,21.53037004
+Noah Brown,Massachusetts Institute of Technology,20,2.518491349,5,6.614609154,45,5.24725677
+Ava Johnson,ETH Zurich,26,3.962103474,11,5.097249152,45,0
+Sophia Martinez,University of Cambridge,26,3.699059696,8,8.368081416,45,4.28949885
+Sophia Williams,Stanford University,22,2.899783123,6,5.99549184,45,1.945928335
+Mason Williams,University of Oxford,22,3.569802085,2,6.929535487,43,33.26299228
+Elijah Brown,University of Melbourne,18,3.114686403,8,7.535843808,42,2.111153683
+Sophia Davis,University of Oxford,25,3.613517345,7,7.239532502,44,7.780262237
+Lucas Davis,University of Oxford,24,4.162130675,6,8.313015457,43,17.99445002
+Ava Williams,University of Melbourne,24,5.086016816,5,7.574803772,41,46.08522243
+Olivia Johnson,University of Melbourne,24,2.262184501,3,5.966428504,43,6.844962254
+Lucas Jones,ETH Zurich,26,5.633033375,5,9.614274609,42,6.59190508
+Olivia Davis,ETH Zurich,23,1.5479122,3,7.233200156,40,3.983132503
+Isabella Johnson,University of Melbourne,23,3.348214905,3,6.823191728,45,31.9609767
+Elijah Brown,Harvard University,24,4.088317206,7,8.156710508,42,12.38659938
+Liam Wilson,University of Melbourne,23,3.780991868,4,7.299341135,46,31.70996337
+Elijah Garcia,Harvard University,25,2.87730048,4,7.479073832,39,18.75050702
+Isabella Wilson,University of Melbourne,25,3.29187775,6,9.990620798,41,0
+Sophia Miller,ETH Zurich,26,3.006999065,6,6.669854286,42,8.650961991
+Sophia Martinez,University of Oxford,22,2.910635243,3,6.618686927,44,20.47709647
+Emma Davis,University of Cambridge,25,4.349602097,4,7.139894214,43,39.87763751
+Ava Garcia,University of Cambridge,25,3.857015486,6,8.285819123,43,13.67514417
+Emma Brown,Harvard University,18,2.807090405,6,5.192159164,40,0
+Elijah Williams,ETH Zurich,23,4.399599875,6,4.64133293,40,0.798936782
+Isabella Miller,University of Cambridge,18,3.807299521,6,6.295461675,43,13.50253242
+Emma Williams,ETH Zurich,18,4.312862119,3,5.039292449,39,26.57562274
+Ava Brown,University of Cambridge,20,4.129628842,5,6.490202383,41,30.16638086
+Emma Martinez,University of Toronto,19,2.671004989,2,7.602999635,43,23.75539367
+Lucas Smith,Stanford University,20,2.93981896,5,5.931101364,40,0.667906142
+Liam Garcia,University of Cambridge,18,4.247293605,3,5.287808108,45,26.03402093
+Mason Miller,Harvard University,23,4.110370265,3,7.083204594,44,47.67353366
+Mason Smith,Harvard University,21,3.479098406,5,8.035052182,39,16.83213536
+Noah Miller,University of Oxford,19,3.617327383,11,4.966031874,40,0
+Isabella Williams,University of Cambridge,18,4.777664896,7,7.984278878,37,32.80247655
+Noah Johnson,Harvard University,24,2.908428611,7,7.980767444,40,0
+Emma Williams,University of Toronto,21,4.047097381,4,8.144902123,44,35.36370291
+Elijah Garcia,ETH Zurich,26,3.297807348,1,8.462176258,41,32.02794849
+Elijah Wilson,University of Oxford,20,3.282318797,4,9.64241671,43,0
+Lucas Garcia,University of Toronto,22,4.598776852,5,6.572689542,39,47.66898149
+Noah Wilson,University of Melbourne,20,4.325416349,4,7.131485896,44,44.68724391
+Olivia Brown,University of Oxford,18,4.313509636,4,6.50027388,41,39.64439752
+Emma Brown,University of Cambridge,26,4.805478807,7,7.002372214,42,21.30398954
+Ava Johnson,ETH Zurich,18,3.521003842,6,8.839448027,42,0
+Elijah Garcia,Massachusetts Institute of Technology,24,4.181952971,8,5.385982619,39,7.040153498
+Liam Garcia,Stanford University,26,3.189733243,4,5.966740393,40,16.24731478
+Olivia Miller,University of Oxford,18,3.824166352,3,8.652617124,44,29.88265628
+Lucas Williams,ETH Zurich,24,3.369856946,0,8.224043808,43,40.5997425
+Elijah Miller,Stanford University,24,3.596995965,4,6.564242024,44,35.24380575
+Liam Miller,University of Melbourne,25,4.095157025,1,8.025282401,43,45.72175607
+Noah Garcia,Harvard University,26,2.681779317,4,7.409459011,42,8.29859149
+Lucas Garcia,University of Oxford,20,5.592387276,3,8.800329531,39,49.37386546
+Lucas Wilson,Massachusetts Institute of Technology,24,2.493982619,5,7.089411513,41,11.20177662
+Emma Johnson,University of Toronto,26,2.285811387,6,8.230758537,42,0
+Emma Wilson,University of Toronto,22,4.658110874,6,10,46,0
+Isabella Martinez,University of Melbourne,21,4.291662694,4,7.717718986,43,42.72475819
+Isabella Jones,Massachusetts Institute of Technology,22,4.124119817,4,7.059193799,45,36.79279067
+Noah Jones,Massachusetts Institute of Technology,20,4.128345509,5,7.866936382,43,24.05795977
+Elijah Smith,Stanford University,20,3.487753227,1,6.56166297,41,41.47937158
+Noah Johnson,ETH Zurich,19,2.602745629,9,9.865561247,42,0
+Olivia Johnson,University of Melbourne,20,3.575804558,7,7.216085245,42,14.79299418
+Noah Miller,Stanford University,26,2.822838288,5,6.672480016,40,4.148146477
+Emma Johnson,ETH Zurich,23,4.475119733,4,5.997173194,41,33.12486463
+Ava Smith,ETH Zurich,22,3.352942618,5,8.31666423,42,16.20465165
+Olivia Jones,ETH Zurich,25,2.674502803,4,8.040624895,45,6.362412754
+Elijah Johnson,ETH Zurich,23,3.178614158,1,6.403174754,38,36.81385104
+Isabella Wilson,ETH Zurich,21,3.912931454,3,7.691741614,44,29.60808019
+Isabella Martinez,University of Oxford,21,2.936275447,7,5.189732838,40,0
+Noah Jones,Harvard University,19,2.677779604,6,7.22196469,39,0
+Mason Jones,Stanford University,19,3.743687211,10,7.543307622,44,1.958296436
+Ava Smith,Massachusetts Institute of Technology,22,3.744966571,4,9.048795771,43,20.34473385
+Olivia Smith,Massachusetts Institute of Technology,19,2.993056825,5,6.075017437,45,13.3588021
+Emma Davis,ETH Zurich,26,3.028961694,6,5.465976845,44,1.225402543
+Noah Jones,Harvard University,23,3.732049937,6,5.925486447,46,14.10992048
+Ava Johnson,University of Melbourne,26,2.051915659,8,5.3961178,43,0
+Isabella Smith,ETH Zurich,18,2.092536226,4,8.603988829,42,0
+Ava Garcia,University of Melbourne,23,2.781555779,3,8.858367154,43,17.0740479
+Liam Davis,University of Melbourne,20,3.286552848,3,7.384259894,44,33.23761695
+Noah Brown,University of Oxford,22,3.810907566,9,8.465553935,40,0
+Olivia Miller,University of Oxford,23,4.975356217,7,7.160750057,41,30.54905917
+Liam Smith,University of Melbourne,20,4.357659623,2,6.885866023,41,51.52212082
+Elijah Jones,ETH Zurich,23,3.34006147,2,6.600354857,38,41.78398049
+Noah Williams,University of Cambridge,20,3.480983792,4,6.62753081,42,34.27955973
+Elijah Wilson,University of Melbourne,23,2.497470635,6,5.142638132,38,0
+Sophia Garcia,Stanford University,22,3.481486864,9,7.317105716,42,0
+Ava Garcia,University of Toronto,26,3.211341361,11,6.951599308,44,0
+Mason Miller,Harvard University,25,3.82271856,4,7.894432869,41,28.10463041
+Liam Johnson,University of Cambridge,18,2.672769056,7,7.112228196,45,5.573513193
+Sophia Wilson,Harvard University,25,4.019346514,7,6.804755558,39,18.39469578
+Isabella Williams,Stanford University,26,5.032738913,3,5.954568364,44,43.57374813
+Ava Miller,Stanford University,19,3.391239852,7,7.086583884,43,8.581609058
+Emma Brown,Stanford University,18,3.901711722,5,7.885884677,39,26.82176018
+Isabella Martinez,ETH Zurich,24,4.190143992,2,5.627993211,47,37.44387672
+Mason Johnson,University of Melbourne,21,3.098779528,9,7.104968504,42,0
+Olivia Wilson,University of Cambridge,21,3.724092482,6,7.279651542,40,14.60542061
+Noah Williams,Massachusetts Institute of Technology,26,3.512592401,3,6.13832226,39,29.98397106
+Emma Martinez,Stanford University,21,3.597676099,6,6.294572434,42,20.43039718
+Olivia Johnson,ETH Zurich,26,2.726990216,3,7.276733019,42,23.22306733
+Lucas Martinez,University of Melbourne,22,3.524510174,2,5.639894778,42,43.8246623
+Emma Miller,Stanford University,22,3.997998291,8,7.419908458,41,15.00392238
+Isabella Johnson,Massachusetts Institute of Technology,25,4.951143608,4,5.925574752,43,47.43685102
+Elijah Williams,Harvard University,24,4.459270826,5,8.275424432,41,26.55113849
+Sophia Davis,ETH Zurich,26,5.653182458,4,9.805393294,38,19.91807535
+Mason Williams,Harvard University,20,2.732652437,3,5.967091838,42,13.56933366
+Mason Martinez,University of Cambridge,24,4.372320637,4,7.641049435,37,44.96891545
+Olivia Brown,University of Cambridge,22,3.683342006,3,6.127909714,43,30.76126578
+Liam Johnson,Massachusetts Institute of Technology,20,5.689802933,11,8.249145009,40,7.191642956
+Isabella Johnson,Massachusetts Institute of Technology,20,2.691701715,6,5.481689909,42,0
+Liam Williams,ETH Zurich,19,2.660278158,5,7.57670411,45,3.541218895
+Liam Brown,Massachusetts Institute of Technology,22,2.900607355,5,5.95241324,40,4.921577965
+Elijah Davis,Harvard University,22,1.376104276,5,6.751618493,44,0
+Sophia Williams,University of Oxford,19,2.974244978,3,5.76276967,41,27.82986814
+Isabella Jones,ETH Zurich,23,2.740867338,6,7.986820565,46,0
+Liam Garcia,University of Oxford,25,3.650393786,4,5.995623575,41,16.6081339
+Sophia Wilson,Stanford University,22,3.841755976,5,7.662357111,40,19.21913435
+Ava Martinez,University of Toronto,25,5.376170839,3,6.587082366,43,60.6156231
+Elijah Martinez,Massachusetts Institute of Technology,18,4.450423838,7,6.862633154,41,20.99761295
+Liam Martinez,University of Cambridge,22,2.923096344,3,7.177307089,40,34.74526938
+Ava Martinez,University of Toronto,25,2.601585329,6,6.085810394,41,0.657757401
+Lucas Miller,ETH Zurich,19,3.991919172,7,7.252440536,42,23.75259239
+Sophia Miller,ETH Zurich,21,2.179766793,1,8.836401477,45,8.963447543
+Noah Johnson,University of Oxford,25,5.331458766,6,6.066286257,38,36.92379608
+Isabella Smith,Massachusetts Institute of Technology,25,4.679440121,4,8.406172172,42,37.8013794
+Sophia Miller,Massachusetts Institute of Technology,20,3.030824348,2,8.79771716,43,20.55679129
+Lucas Williams,University of Melbourne,22,1.786865471,2,6.020614013,42,16.36030066
+Olivia Garcia,University of Cambridge,19,4.853872374,5,5.253934474,45,32.14665139
+Liam Miller,University of Melbourne,26,3.385460155,5,7.36235308,42,18.31513483
+Elijah Jones,Stanford University,25,4.737816312,3,6.343110973,42,48.11690561
+Emma Martinez,University of Melbourne,21,1.905572341,5,9.242323863,43,0
+Elijah Garcia,University of Toronto,20,2.900624977,11,7.041769049,42,0
+Sophia Jones,University of Toronto,26,3.5052437,2,6.03736071,41,39.67513824
+Lucas Wilson,Harvard University,19,3.546980594,6,5.623408587,43,14.28271389
+Emma Miller,University of Toronto,18,3.049934529,5,8.307885951,41,9.688781691
+Noah Williams,Stanford University,22,4.122849932,3,6.314579231,41,40.78371985
+Noah Miller,University of Oxford,19,2.432379571,4,7.052594559,41,8.512606953
+Isabella Wilson,Massachusetts Institute of Technology,22,3.357620515,10,8.146963294,45,0
+Emma Brown,Stanford University,19,3.620295632,1,6.418889978,36,46.95806309
+Isabella Martinez,ETH Zurich,23,4.014438834,8,6.944885406,43,19.42933675
+Olivia Jones,Massachusetts Institute of Technology,20,4.211614878,3,6.980117908,42,44.02174258
+Elijah Brown,Stanford University,23,2.375357908,5,7.819989414,39,2.008528249
+Emma Miller,Harvard University,24,1.965885829,4,7.708893203,43,0
+Liam Johnson,Harvard University,21,4.777676822,11,6.735863522,43,4.672320789
+Lucas Davis,University of Melbourne,21,3.832314012,3,7.076378874,43,42.35499392
+Isabella Jones,University of Melbourne,19,2.751513463,4,6.553865186,37,15.54733248
+Emma Williams,University of Melbourne,24,5.051151976,3,5.226865112,45,40.51283368
+Isabella Jones,University of Cambridge,18,3.615674634,3,7.309121029,41,37.8904651
+Mason Martinez,University of Toronto,20,4.679297184,8,9.270630113,43,0
+Emma Davis,University of Cambridge,20,3.567518481,1,5.939537031,43,33.92870668
+Noah Brown,Harvard University,19,5.560747925,5,6.072364348,40,49.43474481
+Olivia Williams,Harvard University,18,5.255340842,7,5.955126674,43,33.31431333
+Emma Williams,ETH Zurich,21,3.251035852,3,7.869510134,41,28.26317956
+Emma Williams,Stanford University,20,4.471570951,7,7.538182545,38,29.95914045
+Sophia Williams,Harvard University,18,4.14537595,5,6.809754769,44,36.96622333
+Lucas Brown,Harvard University,18,4.868631558,7,5.898377126,40,19.62466131
+Mason Garcia,University of Melbourne,23,2.535076539,5,7.11085215,40,12.03117545
+Olivia Williams,University of Toronto,23,4.18605146,7,5.122453447,41,10.71140879
+Mason Miller,University of Melbourne,19,4.558424487,5,7.17211188,43,39.05456153
+Emma Martinez,University of Oxford,20,1.741260514,4,8.045829263,42,0
+Emma Smith,University of Melbourne,25,2.316741487,5,5.498561036,43,0
+Olivia Miller,ETH Zurich,20,1.460767822,11,5.160978068,39,0
+Ava Johnson,University of Toronto,19,3.230593166,7,8.89532547,41,0
+Olivia Johnson,University of Oxford,19,4.217542256,6,6.265888433,42,36.42732079
+Olivia Davis,Massachusetts Institute of Technology,24,5.002357052,3,8.363137415,46,48.54782659
+Lucas Garcia,Massachusetts Institute of Technology,19,3.57409478,0,6.815202802,42,50.37817935
+Liam Williams,Stanford University,22,5.128615546,10,6.80565422,44,23.67480366
+Mason Martinez,Massachusetts Institute of Technology,26,2.119898542,5,7.526095239,42,0
+Olivia Wilson,Massachusetts Institute of Technology,21,1.796617561,5,5.939201372,41,0
+Ava Jones,University of Cambridge,18,3.444452301,3,7.158996572,42,30.32620355
+Olivia Williams,Harvard University,24,3.884065449,4,6.542212702,42,33.89854121
+Ava Davis,Harvard University,24,3.467305252,2,5.415407868,43,28.72495151
+Ava Martinez,University of Oxford,19,1.4325579,2,7.40497849,45,3.067167604
+Ava Martinez,University of Cambridge,22,3.41087996,7,6.684030632,43,14.20249861
+Noah Martinez,Massachusetts Institute of Technology,21,2.195530499,3,6.811570206,44,10.69185167
+Elijah Brown,University of Melbourne,22,4.169672549,1,5.547806868,40,43.9893287
+Sophia Davis,Massachusetts Institute of Technology,20,3.866598246,3,8.909680441,41,14.31317816
+Liam Martinez,Stanford University,23,2.560120214,7,8.052057024,41,0
+Mason Martinez,Harvard University,26,2.986133083,5,8.156987061,43,4.808344477
+Noah Davis,University of Toronto,19,2.440786478,5,6.633466357,41,10.65866473
+Sophia Jones,ETH Zurich,23,3.437320903,4,4.924980533,43,3.48808543
+Emma Brown,University of Toronto,22,4.455142321,5,9.343500859,40,6.930815789
+Ava Jones,Massachusetts Institute of Technology,25,2.514273954,5,6.92668299,42,5.459555458
+Liam Garcia,Harvard University,26,4.004046516,3,6.101440245,43,47.15965141
+Isabella Smith,University of Melbourne,22,2.969742382,3,7.500161889,38,27.4237774
+Elijah Miller,University of Oxford,23,2.707127168,6,8.400544946,46,0
+Lucas Williams,ETH Zurich,24,3.39296964,6,6.972339333,41,14.34083842
+Lucas Martinez,Harvard University,23,2.464757678,4,8.534290202,38,6.70599944
+Elijah Jones,Harvard University,22,2.946350695,9,8.299599926,42,0
+Ava Jones,University of Toronto,25,2.302122107,6,5.708342575,42,0
+Lucas Jones,Harvard University,23,5.464725133,5,6.191451873,42,51.88148838
+Olivia Davis,Massachusetts Institute of Technology,18,3.535263552,5,8.149044596,44,10.70748777
+Mason Wilson,Harvard University,26,2.800274492,4,3.744864923,43,0
+Ava Johnson,University of Cambridge,18,3.713979911,10,6.820653168,43,0
+Ava Jones,University of Oxford,18,3.38767195,6,5.283002558,43,0
+Elijah Brown,Stanford University,20,3.2790304,2,6.428135438,42,45.79989642
+Noah Davis,Massachusetts Institute of Technology,26,4.1141667,4,6.641415893,46,34.90767307
+Lucas Garcia,Massachusetts Institute of Technology,25,4.25750771,3,6.570106747,39,47.47713219
+Noah Martinez,University of Oxford,23,2.969498852,2,6.337286497,42,25.54049699
+Isabella Brown,Massachusetts Institute of Technology,23,2.924181759,5,5.68342762,42,1.812646028
+Ava Smith,Stanford University,20,3.224948303,6,9.75029352,44,0
+Lucas Miller,University of Cambridge,26,1.198078835,5,9.240954405,40,0
+Liam Smith,University of Melbourne,21,1.984808938,10,5.605521016,39,0
+Elijah Wilson,Harvard University,22,4.866874267,5,8.898540102,42,22.70781938
+Elijah Martinez,University of Melbourne,19,5.144967714,5,6.520641411,43,52.54140627
+Olivia Brown,Stanford University,23,3.25096396,4,7.155024968,45,21.53793863
+Lucas Wilson,Stanford University,21,4.076556963,4,6.924071248,39,38.86762191
+Elijah Wilson,University of Cambridge,20,3.811250155,3,6.20830163,44,29.50130959
+Isabella Wilson,Stanford University,18,6,6,8.180622812,47,47.34870748
+Mason Jones,Harvard University,18,4.619574911,4,7.151063837,41,37.64674872
+Ava Martinez,University of Oxford,19,3.372082409,2,6.428138292,39,39.31141087
+Noah Jones,Massachusetts Institute of Technology,18,2.544459559,9,5.434492667,41,0
+Liam Smith,ETH Zurich,24,1.89355368,5,5.927685984,42,3.49320285
+Emma Martinez,Harvard University,23,3.703463636,9,5.030343861,43,0
+Elijah Miller,Massachusetts Institute of Technology,26,2.743649255,5,7.014668258,41,9.125272228
+Emma Williams,University of Cambridge,20,2.07774629,5,5.564001289,45,0
+Liam Wilson,University of Cambridge,20,2.853427116,1,6.681327385,40,34.58701058
+Noah Jones,ETH Zurich,21,2.418451996,5,8.644122224,39,0
+Liam Jones,Massachusetts Institute of Technology,20,5.187141635,8,8.439159488,44,28.15645136
+Lucas Davis,University of Melbourne,21,4.381639757,6,6.961267727,37,28.72059219
+Ava Smith,University of Toronto,24,3.492027359,2,6.895498329,42,37.20554767
+Liam Brown,Stanford University,20,4.979944139,5,9.255849459,48,24.81796546
+Emma Williams,ETH Zurich,18,3.577368308,5,7.624907344,42,23.25568132
+Liam Wilson,University of Oxford,19,2.638715799,4,6.606632248,40,23.50790161
+Noah Wilson,Massachusetts Institute of Technology,20,5.023124077,6,5.288778259,42,22.09909
+Emma Miller,University of Oxford,26,4.038910044,5,7.472647862,42,37.69818789
+Isabella Johnson,Harvard University,19,2.462753846,6,7.995188527,42,0
+Noah Garcia,Stanford University,25,3.309661322,5,6.242018171,43,11.30664055
+Elijah Brown,Stanford University,22,2.624381747,4,7.349443306,40,10.83718916
+Isabella Smith,University of Melbourne,22,2.117200269,7,6.563712046,45,0
+Mason Miller,Harvard University,18,4.426177548,5,6.779161121,42,36.95439159
+Liam Garcia,ETH Zurich,18,5.40941664,7,4.014613531,43,0
+Ava Williams,Massachusetts Institute of Technology,25,2.101432426,6,6.733862316,41,0.149213798
+Noah Smith,Stanford University,22,4.062969237,4,8.163243163,45,33.90945276
+Olivia Davis,University of Melbourne,26,2.849357431,8,6.242316933,41,0
+Elijah Miller,Massachusetts Institute of Technology,21,3.012874616,4,7.063031642,43,25.26278142
+Sophia Brown,Harvard University,18,2.907606076,3,6.092859152,40,20.57485318
+Sophia Garcia,Harvard University,23,2.63600923,5,7.432530012,40,2.719187962
+Sophia Williams,University of Oxford,20,3.548521628,10,6.740172163,43,0
+Mason Jones,University of Oxford,24,2.669049884,6,5.872910151,41,3.730814102
+Lucas Wilson,University of Melbourne,26,3.770456826,4,8.599061761,40,24.43476186
+Ava Brown,Massachusetts Institute of Technology,22,3.449761891,3,8.114718416,41,32.70341815
+Noah Brown,ETH Zurich,24,3.261051953,3,6.274111883,43,29.79587643
+Ava Garcia,University of Cambridge,23,2.592436338,5,7.597345971,41,8.331735274
+Liam Wilson,ETH Zurich,21,2.923228669,2,7.644894403,42,28.89234237
+Mason Jones,ETH Zurich,19,4.255391226,6,7.770761482,42,27.83019532
+Sophia Johnson,University of Toronto,26,4.000917188,2,4.966892925,38,23.93534683
+Noah Johnson,University of Melbourne,23,2.522444755,5,8.207927849,39,3.255108417
+Liam Johnson,University of Melbourne,19,3.599332305,2,6.316361244,43,39.81887367
+Isabella Smith,ETH Zurich,23,4.251387123,6,6.57060648,41,26.89908817
+Elijah Wilson,ETH Zurich,24,1.830594719,3,10,44,0
+Emma Garcia,Stanford University,24,4.043360192,5,7.362248057,44,27.01849077
+Sophia Garcia,University of Melbourne,24,2.837376241,2,6.536413029,43,31.72894957
+Elijah Martinez,Massachusetts Institute of Technology,25,4.070598669,6,4.353646753,46,0
+Elijah Miller,University of Toronto,23,2.736740843,6,8.667716961,42,0
+Sophia Wilson,University of Melbourne,21,1.695117899,7,5.385748395,43,0
+Sophia Wilson,University of Toronto,26,1.872457562,6,5.795873316,41,0
+Lucas Johnson,University of Melbourne,18,3.548084947,6,6.602377241,47,17.2867831
+Lucas Jones,University of Toronto,19,3.759722502,4,8.69969415,46,29.45022406
+Mason Davis,Stanford University,24,2.595683375,4,7.927887984,42,14.07651598
+Sophia Jones,Harvard University,24,4.138592459,7,6.810594988,43,8.732452442
+Sophia Miller,University of Melbourne,21,1.838479938,5,7.369950476,45,0
+Mason Wilson,University of Oxford,26,3.433920201,5,6.279537169,42,23.84804216
+Elijah Martinez,University of Toronto,20,2.2889838,8,7.167584427,41,0
+Lucas Brown,University of Toronto,24,2.848163892,4,7.088004094,44,16.25003562
+Olivia Williams,Massachusetts Institute of Technology,24,3.547398671,2,8.162523875,42,32.8989612
+Mason Miller,University of Cambridge,23,2.639586635,3,8.160613747,42,20.72997026
+Lucas Jones,ETH Zurich,24,3.115444456,4,7.592772859,40,24.21940712
+Olivia Davis,University of Melbourne,22,4.506292809,6,6.565182931,39,28.0275403
+Isabella Davis,ETH Zurich,19,2.92310813,9,7.890186753,42,0
+Emma Davis,University of Oxford,21,4.335692112,3,6.889637841,44,42.00249007
+Ava Davis,University of Cambridge,19,2.370293145,5,5.701702758,42,0
+Isabella Garcia,University of Melbourne,21,4.029804178,3,6.51605465,45,44.13642096
+Elijah Davis,University of Oxford,19,4.941568621,2,7.101432381,41,63.48128758
+Elijah Smith,University of Toronto,26,1.0283555,4,8.09225894,40,0
+Isabella Smith,Massachusetts Institute of Technology,25,2.703104745,9,6.779766193,42,0
+Emma Smith,Stanford University,24,4.077072127,4,5.548961547,42,26.14753795
+Ava Brown,University of Cambridge,18,3.296954614,5,7.06809002,44,13.02671651
+Mason Brown,Harvard University,23,3.871145873,8,7.136147248,40,8.381314211
+Emma Brown,University of Melbourne,25,2.896014813,8,7.223005155,45,1.368116032
+Isabella Jones,Massachusetts Institute of Technology,24,3.586589787,5,8.103845819,46,14.3112231
+Sophia Miller,University of Cambridge,23,3.344322765,3,8.222707888,42,32.61629189
+Mason Jones,Massachusetts Institute of Technology,21,4.667782062,9,6.286946953,44,18.58019165
+Liam Jones,Harvard University,25,3.754420843,2,6.26062785,40,42.85008863
+Isabella Wilson,ETH Zurich,26,3.837602662,8,5.751761547,44,0
+Emma Davis,Massachusetts Institute of Technology,23,3.088123034,7,7.838578804,44,7.068992018
+Noah Johnson,University of Oxford,24,3.012393776,6,8.73858413,44,0.574561531
+Emma Davis,University of Oxford,19,3.067441812,9,6.621901687,42,0
+Elijah Davis,Stanford University,25,3.894452142,3,6.710283322,36,40.7503175
+Emma Miller,ETH Zurich,25,3.079015519,6,8.760139068,41,0
+Emma Martinez,Stanford University,25,3.789774857,7,7.606669424,41,0
+Ava Wilson,Harvard University,19,5.575400799,7,7.523482846,40,42.66259059
+Noah Martinez,ETH Zurich,21,4.371124703,5,5.570900193,42,22.17918478
+Sophia Martinez,University of Toronto,26,3.173976468,5,7.814473683,41,16.26278496
+Lucas Jones,University of Cambridge,19,4.701213922,1,5.885036391,40,52.90388065
+Lucas Williams,ETH Zurich,23,3.091924627,7,5.639175777,40,0.60167777
+Lucas Johnson,Massachusetts Institute of Technology,21,1.461875465,4,6.583874108,41,0
+Lucas Wilson,Massachusetts Institute of Technology,25,2.491913689,7,6.297048732,44,0
+Noah Johnson,Harvard University,19,1.629208079,5,6.734080367,41,0
+Sophia Brown,University of Melbourne,25,3.148486516,5,5.270822039,41,1.931314803
+Ava Davis,University of Oxford,26,3.518418379,3,8.150579568,41,25.2813654
+Isabella Martinez,University of Oxford,25,5.176437312,5,8.353223553,43,43.47322246
+Liam Wilson,Massachusetts Institute of Technology,22,3.826927374,5,4.663189031,43,3.034135697
+Mason Davis,University of Oxford,24,3.280899471,4,8.174149367,36,15.32398609
+Emma Garcia,University of Toronto,23,4.329405581,3,6.027365644,44,43.52287724
+Sophia Johnson,University of Melbourne,24,1.288864691,3,8.028370644,45,8.938458482
+Sophia Wilson,University of Toronto,23,3.735614558,5,6.917864209,40,27.77131858
+Olivia Davis,University of Melbourne,24,4.270865194,10,7.034530677,40,12.10455387
+Lucas Smith,University of Melbourne,18,2.021413754,2,6.777882821,41,14.5563764
+Isabella Martinez,University of Cambridge,23,4.643754043,5,8.454555045,40,20.56317943
+Noah Wilson,University of Oxford,26,3.838496407,3,5.512494385,42,29.20803038
+Olivia Williams,University of Melbourne,19,3.084712086,4,7.729408406,38,22.94891395
+Liam Martinez,University of Toronto,23,4.132781866,6,8.321596198,40,12.13725584
+Lucas Johnson,Harvard University,18,5.770692858,3,7.859608097,45,66.36259843
+Mason Jones,ETH Zurich,18,3.681866255,4,9.789638697,40,0
+Lucas Garcia,Stanford University,24,3.748220586,4,6.365263885,44,33.60178641
+Isabella Garcia,Massachusetts Institute of Technology,20,3.0406391,5,8.148765787,43,10.46056677
+Emma Johnson,Massachusetts Institute of Technology,22,2.650155631,8,6.872691238,38,0
+Elijah Miller,Massachusetts Institute of Technology,20,4.330335817,5,8.480087292,43,25.31643695
+Lucas Brown,ETH Zurich,25,2.643916174,6,6.990773205,42,0
+Isabella Johnson,Harvard University,24,3.571566237,3,6.534549062,41,36.45609443
+Isabella Johnson,University of Melbourne,25,3.022342553,4,8.567286645,42,11.682153
+Mason Smith,ETH Zurich,20,3.978979826,5,6.410125673,43,31.03721102
+Elijah Jones,Massachusetts Institute of Technology,22,3.833662105,6,5.304729089,43,7.940030744
+Lucas Garcia,Harvard University,20,4.537539944,7,6.37978374,44,31.17424956
+Mason Smith,University of Cambridge,19,2.989983601,5,7.742839536,43,9.947182489
+Mason Martinez,University of Toronto,20,3.230125065,2,8.670446502,39,28.53728317
+Ava Brown,Massachusetts Institute of Technology,19,2.521236284,6,7.13335525,41,3.783304649
+Olivia Miller,Harvard University,23,3.05570674,4,8.581836481,48,10.93172333
+Elijah Wilson,ETH Zurich,18,3.877300493,2,5.370190094,43,27.44915875
+Sophia Martinez,University of Toronto,22,4.256988617,4,6.468083842,47,35.86049395
+Isabella Wilson,Massachusetts Institute of Technology,18,2.577834676,2,6.653709859,45,27.85971894
+Sophia Williams,University of Cambridge,21,4.36960592,3,6.862528687,42,47.29640887
+Mason Miller,University of Cambridge,20,4.855637859,4,7.100913266,43,43.41919885
+Olivia Johnson,Massachusetts Institute of Technology,20,3.913434903,7,7.829093149,42,13.69593378
+Olivia Brown,Harvard University,26,5.376795813,5,6.466231794,39,53.78580289
+Lucas Williams,University of Melbourne,25,2.726210801,5,7.166834424,42,9.070187344
+Liam Garcia,University of Oxford,25,2.255345297,7,6.945852532,44,0
+Elijah Miller,ETH Zurich,26,1.721279751,9,5.888932115,41,0
+Noah Johnson,University of Oxford,22,4.996044311,7,6.863599973,43,29.52003513
+Emma Martinez,University of Oxford,23,4.154365656,6,6.827608564,44,23.69289429
+Ava Davis,ETH Zurich,21,3.444415329,6,6.801903322,40,9.56983105
+Lucas Johnson,University of Toronto,18,3.779968626,9,7.038111348,41,1.697891422
+Liam Smith,University of Toronto,20,2.374510953,2,7.090808249,40,26.90695856
+Emma Smith,Stanford University,23,5.94575198,3,6.481245785,40,73.76615609
+Liam Davis,Harvard University,21,3.629221182,9,8.527257681,39,0
+Olivia Martinez,University of Toronto,18,3.609394795,3,5.596623245,40,30.24865753
+Mason Brown,University of Melbourne,19,4.225766624,8,6.13483587,45,17.36049864
+Sophia Brown,University of Oxford,23,3.981009232,5,10,40,0
+Sophia Wilson,Massachusetts Institute of Technology,21,3.723884024,4,5.754410374,42,26.19756236
+Liam Davis,Massachusetts Institute of Technology,20,2.709525545,9,5.37549439,41,0
+Lucas Garcia,Stanford University,25,3.971468357,2,7.881372094,44,48.714463
+Noah Miller,University of Melbourne,23,5.382024496,5,4.507456175,45,9.531459964
+Ava Martinez,Stanford University,21,4.845420046,10,6.717671308,44,14.54256863
+Ava Jones,University of Cambridge,23,5.093186627,5,9.57498991,43,15.93455708
+Lucas Brown,University of Toronto,23,2.988784324,4,5.146076893,42,0
+Liam Wilson,ETH Zurich,20,2.51039518,7,4.621642617,40,0
+Emma Johnson,University of Melbourne,23,3.37421308,3,5.200982558,46,10.05831801
+Elijah Smith,University of Melbourne,24,3.555724912,6,8.078031482,40,13.17938351
+Liam Brown,University of Oxford,20,4.594191518,3,8.349732064,43,47.23172828
+Isabella Johnson,University of Oxford,23,1.80753537,3,6.384893444,44,12.21494858
+Mason Davis,Harvard University,20,5.029550319,4,7.819854885,41,48.51176008
+Elijah Williams,University of Cambridge,26,3.341992101,1,8.668306393,44,30.32445404
+Isabella Johnson,Massachusetts Institute of Technology,21,3.07311893,2,9.144815697,44,13.65471503
+Liam Wilson,ETH Zurich,25,2.487895625,4,6.704397663,45,22.44073927
+Isabella Miller,ETH Zurich,22,1.845143328,5,4.238233939,41,0
+Noah Miller,University of Toronto,25,4.323170584,8,6.014945293,39,15.91552233
+Lucas Smith,ETH Zurich,25,3.573317967,7,6.487834966,41,11.489741
+Liam Miller,University of Toronto,20,2.2100391,7,6.689273444,42,0
+Ava Williams,Massachusetts Institute of Technology,22,2.204921228,2,6.774568719,42,29.78376415
+Elijah Miller,University of Toronto,22,3.164215301,6,8.342673518,41,0
+Elijah Garcia,University of Cambridge,19,5.169021525,8,8.529314112,38,15.60069684
+Ava Williams,University of Cambridge,19,3.240408649,6,6.793991615,43,13.20591676
+Sophia Brown,Harvard University,21,1.996857047,4,8.318181851,46,0
+Sophia Garcia,University of Oxford,20,3.254256936,4,7.42919364,43,17.47323114
+Lucas Martinez,ETH Zurich,19,3.22727643,4,7.077407167,43,31.4481223
+Olivia Williams,Stanford University,26,0.803113357,1,8.087852989,43,0
+Olivia Miller,Harvard University,24,3.445705133,6,7.086702458,43,8.454217399
+Elijah Johnson,University of Cambridge,20,3.26906547,8,9.469373413,44,0
+Mason Jones,University of Melbourne,21,4.196206365,7,5.2739066,43,3.984015865
+Elijah Davis,University of Toronto,24,5.348956095,7,6.381794921,41,37.16106718
+Ava Williams,Stanford University,24,4.62656503,6,6.848177324,40,34.37330276
+Isabella Smith,University of Melbourne,21,3.231111309,6,7.527343229,42,8.108631237
+Noah Garcia,University of Melbourne,25,2.393474091,4,8.521552585,43,6.9810197
+Noah Martinez,Harvard University,21,6,3,6.970721719,41,76.88715402
+Ava Martinez,University of Oxford,24,3.559218434,6,5.293324421,43,0
+Olivia Williams,Stanford University,26,3.513929292,3,8.011016676,43,30.65565044
+Isabella Miller,Massachusetts Institute of Technology,25,3.475874913,10,7.905950519,44,0
+Olivia Brown,Harvard University,19,3.698084761,5,4.669769609,45,0
+Mason Brown,University of Cambridge,20,3.355639588,6,6.99543504,42,11.11169883
+Sophia Smith,Stanford University,18,2.926337993,6,5.091829803,39,0
+Sophia Williams,University of Oxford,19,2.953141059,4,6.202418683,41,14.9322407
+Noah Davis,Harvard University,19,3.46724673,6,5.916629288,42,10.60237432
+Elijah Garcia,University of Melbourne,20,2.956575229,5,7.971117638,38,11.66455704
+Sophia Jones,University of Oxford,21,2.787154217,3,7.140196209,45,19.19688433
+Isabella Garcia,Massachusetts Institute of Technology,21,3.606430228,2,5.457290799,42,32.23434215
+Isabella Garcia,Stanford University,24,3.245022783,3,8.056079156,43,38.94869488
+Olivia Davis,Harvard University,25,5.003992989,2,5.279433011,45,58.21807359
+Elijah Martinez,University of Cambridge,18,0.849030192,8,7.396136549,41,0
+Emma Brown,ETH Zurich,21,4.591506852,7,6.023187197,43,19.51802728
+Ava Brown,University of Toronto,25,4.746085192,4,6.561187501,42,42.1545005
+Sophia Garcia,University of Oxford,22,1.426609768,3,7.605124898,42,0
+Sophia Williams,Harvard University,22,3.157312406,3,7.625739279,40,26.84409408
+Elijah Wilson,Stanford University,25,3.128559134,6,8.604362888,45,0
+Isabella Miller,Massachusetts Institute of Technology,22,2.092488305,5,6.90129556,41,1.469271356
+Emma Johnson,Stanford University,25,2.722183312,1,7.367741036,43,37.16542542
+Liam Williams,Stanford University,18,2.389424155,8,6.474715213,38,0
+Liam Davis,University of Toronto,22,5.252270443,9,7.218387859,44,26.96584363
+Lucas Williams,University of Toronto,24,4.435678393,4,7.527383258,44,43.60363691
+Emma Wilson,University of Cambridge,22,4.771555095,7,6.882028183,42,25.00628382
+Liam Garcia,University of Oxford,20,4.221672064,3,4.835499419,42,22.98130265
+Elijah Garcia,University of Cambridge,24,2.370948229,7,7.397765076,43,0
+Olivia Brown,University of Toronto,20,2.975479734,5,7.437473773,47,15.00773454
+Mason Smith,Massachusetts Institute of Technology,22,3.989374561,6,6.183791828,38,23.90967401
+Elijah Williams,University of Oxford,23,2.277872191,8,5.458735557,44,0
+Elijah Miller,Stanford University,26,4.21299843,2,8.771054981,40,34.78108732
+Ava Johnson,University of Cambridge,18,3.259674602,4,7.589734613,42,25.94047606
+Isabella Martinez,ETH Zurich,26,3.125179192,9,6.725102763,42,0
+Sophia Miller,University of Toronto,21,4.210959968,4,5.63556054,41,35.88758846
+Noah Miller,University of Oxford,19,3.944263311,4,6.013822206,42,25.20579826
+Ava Smith,Massachusetts Institute of Technology,20,3.139033834,3,8.563108476,40,21.5728447
+Liam Garcia,University of Toronto,26,4.659329803,4,7.165194329,44,49.44436564
+Mason Johnson,ETH Zurich,19,2.418936672,4,6.33929552,38,16.29627305
+Isabella Smith,University of Cambridge,25,4.115935607,6,7.611627077,43,22.57197952
+Isabella Smith,University of Cambridge,24,4.093101258,7,6.022722175,41,12.79957552
+Sophia Brown,University of Cambridge,18,3.190453561,3,8.801011636,40,10.24356589
+Olivia Johnson,ETH Zurich,24,3.826133022,6,8.623360642,42,14.96218831
+Mason Smith,ETH Zurich,21,2.248886424,8,6.440111115,39,0
+Liam Williams,University of Oxford,19,4.424027019,7,6.245595704,42,22.89425226
+Emma Johnson,University of Cambridge,18,3.315097864,3,3.858240162,39,0
+Emma Brown,University of Cambridge,25,2.977276979,4,5.222103074,43,7.32735789
+Emma Smith,Stanford University,21,4.549009226,6,5.39263627,40,16.62045861
+Lucas Garcia,University of Toronto,23,2.795656309,8,7.162228409,41,0
+Ava Miller,University of Cambridge,23,2.091538704,3,6.608519555,43,6.164767657
+Sophia Brown,ETH Zurich,25,1.943370826,4,5.385597415,40,0
+Liam Williams,Harvard University,18,4.106009951,3,6.662603149,42,40.8198388
+Lucas Brown,University of Toronto,22,2.219570648,8,7.606404577,39,0
+Liam Davis,ETH Zurich,19,5.254794182,1,7.63340722,43,71.04303654
+Noah Smith,ETH Zurich,19,1.418070592,3,4.720395663,46,0
+Ava Smith,ETH Zurich,20,5.196456368,7,6.846083823,48,39.34899103
+Olivia Brown,University of Cambridge,22,3.711017467,5,5.339991068,42,12.51960087
+Olivia Jones,University of Toronto,26,3.403286888,9,8.082074437,44,0
+Elijah Williams,University of Cambridge,21,2.955080913,5,7.9409757,38,11.00142865
+Elijah Wilson,Massachusetts Institute of Technology,22,3.899136114,4,5.922367328,45,23.75271961
+Lucas Williams,University of Melbourne,23,3.462365298,5,6.080745757,44,18.54438499
+Olivia Martinez,University of Melbourne,23,4.603301882,7,6.446479539,41,23.46536703
+Sophia Miller,University of Melbourne,24,3.614227649,3,4.296647926,44,5.1722786
+Noah Miller,University of Toronto,19,3.650301761,6,7.403161808,41,12.89030265
+Sophia Garcia,University of Melbourne,23,3.136387788,7,6.672586544,41,3.371759286
+Sophia Brown,University of Cambridge,22,3.443054376,4,8.164210099,43,28.32203635
+Isabella Martinez,Harvard University,19,3.807801769,4,5.681908938,40,34.79017133
+Noah Davis,Harvard University,21,1.789831607,4,6.257052462,44,0
+Liam Jones,Harvard University,18,2.151814578,3,5.19216969,40,0
+Mason Williams,University of Toronto,21,4.243264094,4,5.794851324,40,31.98474587
+Olivia Davis,University of Toronto,18,3.670865438,2,5.581621605,40,36.30379033
+Emma Smith,University of Toronto,21,3.316016664,7,8.195168415,44,3.223702581
+Ava Martinez,Stanford University,22,3.518433933,6,6.162085781,41,17.62496203
+Mason Williams,Massachusetts Institute of Technology,18,3.847581705,7,7.149010822,39,15.20874908
+Elijah Smith,University of Cambridge,21,2.96024032,5,6.543083915,41,11.17262205
+Olivia Smith,Stanford University,22,2.721695275,4,5.476641681,42,3.714784373
+Olivia Brown,University of Oxford,19,3.695845255,5,6.798039492,40,23.53668756
+Lucas Brown,Massachusetts Institute of Technology,21,2.521627222,4,7.718923998,40,9.767639098
+Isabella Brown,University of Melbourne,26,3.908252756,7,5.550688729,46,6.65540266
+Isabella Smith,Harvard University,20,1.797416396,5,7.970935349,40,0
+Noah Martinez,University of Oxford,26,4.529155637,6,5.980334894,41,20.86011801
+Mason Johnson,University of Melbourne,25,3.972597482,5,6.420419289,41,35.2623459
+Elijah Garcia,ETH Zurich,25,3.756029734,2,7.636819748,41,43.27373097
+Ava Jones,University of Melbourne,24,4.482690984,4,6.203876611,43,33.50887864
+Noah Wilson,University of Melbourne,26,5.165474444,4,7.045089831,44,47.62165165
+Noah Smith,Massachusetts Institute of Technology,23,4.514370065,6,6.622371005,41,38.40608786
+Noah Garcia,Stanford University,18,1.659125769,11,7.155241608,40,0
+Elijah Jones,University of Melbourne,21,2.220423033,6,4.143113073,45,0
+Isabella Martinez,University of Oxford,26,2.875181422,8,4.804381822,42,0
+Olivia Williams,University of Cambridge,21,3.52609105,5,7.739160407,45,21.27918294
+Lucas Williams,Harvard University,26,4.01765902,3,8.244617687,38,25.56974192
+Liam Jones,Massachusetts Institute of Technology,18,2.774256187,5,5.907415956,42,6.689071735
+Emma Garcia,ETH Zurich,24,3.686766764,1,6.707165977,46,51.22821733
+Ava Davis,University of Cambridge,23,2.744617068,8,7.353663103,41,0
+Noah Jones,Harvard University,18,2.888482197,6,7.831861122,42,1.127950624
+Ava Brown,Stanford University,24,2.093338903,4,4.566787274,43,0
+Isabella Garcia,Harvard University,18,2.576766754,7,5.936751704,41,0
+Sophia Wilson,Harvard University,20,2.148315394,1,6.600904744,41,16.43004204
+Elijah Wilson,Harvard University,23,2.524126747,7,7.843768237,41,3.749428425
+Ava Jones,University of Toronto,23,4.553641797,3,9.99811658,41,5.641946483
+Isabella Johnson,University of Melbourne,24,2.550601111,9,6.726393128,44,0
+Lucas Brown,University of Oxford,26,6,4,5.311627045,43,57.72462247
+Isabella Miller,University of Oxford,20,3.993317901,2,7.482721693,43,47.51182187
+Lucas Garcia,University of Cambridge,23,3.684836124,4,8.585194947,44,27.91200927
+Ava Davis,University of Melbourne,26,2.64164222,6,7.129616945,41,0.849830524
+Olivia Davis,Stanford University,19,4.200309879,2,5.912021746,40,46.26865152
+Noah Williams,University of Oxford,21,2.924362174,1,8.14959273,41,25.11451854
+Isabella Davis,University of Melbourne,18,3.622009815,7,7.796254742,42,5.573479887
+Ava Brown,University of Melbourne,23,6,7,5.768702987,40,43.73185877
+Isabella Davis,University of Oxford,19,3.4039401,6,7.457710741,41,12.19516401
+Sophia Garcia,University of Cambridge,18,4.649273326,8,8.196718681,41,10.1711997
+Lucas Miller,University of Toronto,24,2.796823575,7,8.418268051,46,0
+Isabella Johnson,University of Toronto,21,3.46501151,5,6.92026123,36,18.86390526
+Emma Brown,University of Oxford,26,5.270800636,6,6.570304665,42,43.02609932
+Elijah Johnson,University of Toronto,23,2.873032942,6,8.472728586,45,0
+Liam Jones,Harvard University,23,5.312448558,7,5.547807396,42,32.32160682
+Emma Wilson,University of Cambridge,19,4.207751935,6,7.526295149,44,27.28310147
+Olivia Miller,Stanford University,21,2.937533224,3,5.355968047,42,11.43568188
+Liam Brown,ETH Zurich,18,4.132407739,3,8.278451527,41,39.28413986
+Lucas Brown,Stanford University,22,4.47255445,1,6.690345381,38,65.69004889
+Emma Davis,University of Cambridge,18,4.121809962,5,8.522299883,42,19.19911526
+Sophia Garcia,Stanford University,21,1.92977528,3,7.589695308,40,10.92372866
+Olivia Miller,University of Toronto,19,2.772862824,9,5.532135724,40,0
+Mason Martinez,University of Melbourne,24,3.252481364,8,8.709553278,41,0
+Sophia Johnson,Massachusetts Institute of Technology,23,3.425566571,4,8.86149432,45,11.04778091
+Mason Jones,Stanford University,26,4.120672098,2,8.058743791,47,41.55997952
+Emma Garcia,University of Toronto,22,3.677701001,3,6.086094562,42,37.09283285
+Mason Smith,Massachusetts Institute of Technology,21,2.164655641,2,6.632783255,41,22.36548599
+Mason Wilson,Stanford University,21,3.880197851,4,7.174512661,40,28.08356461
+Elijah Wilson,University of Melbourne,22,4.110585745,4,6.155547521,43,30.6728416
+Olivia Miller,University of Melbourne,24,4.059790448,5,9.030815887,46,10.89703916
+Isabella Martinez,University of Melbourne,23,4.580780726,8,7.173191766,42,16.61879538
+Liam Williams,Stanford University,24,4.333922155,6,3.755982343,37,0
+Noah Jones,ETH Zurich,19,3.959180079,3,7.407226975,43,47.00603924
+Olivia Johnson,ETH Zurich,23,3.429834289,5,6.582211124,44,24.89939922
+Elijah Johnson,Harvard University,21,1.839039066,6,6.910088133,39,0
+Olivia Williams,ETH Zurich,25,3.929618219,3,6.557656761,42,34.35639948
+Ava Jones,Stanford University,21,3.707687687,8,7.9684557,43,0
+Mason Wilson,University of Cambridge,25,3.771578837,8,8.343625334,42,0
+Mason Brown,University of Cambridge,25,2.223251424,5,7.339663795,40,11.45867613
+Sophia Johnson,Stanford University,20,2.41894346,4,6.592826575,44,6.22708589
+Elijah Johnson,Harvard University,18,4.553152853,2,6.950395354,41,52.69263357
+Elijah Johnson,ETH Zurich,26,3.460444846,6,7.02351954,39,13.97624836
+Sophia Williams,Harvard University,25,4.181500697,5,6.037083952,38,31.52411946
+Lucas Williams,Harvard University,23,3.528318376,6,7.694714378,45,9.982223234
+Sophia Martinez,University of Cambridge,22,3.529756139,7,7.552050789,43,9.507958196
+Emma Jones,Massachusetts Institute of Technology,26,4.438283806,3,8.848529488,42,32.55436572
+Emma Brown,University of Melbourne,19,2.983955272,9,8.506419736,41,0
+Sophia Johnson,Massachusetts Institute of Technology,21,3.596120777,2,6.177190099,41,38.17901269
+Elijah Brown,University of Cambridge,21,3.037724711,0,7.984358049,40,34.02560558
+Olivia Miller,University of Toronto,22,3.065503773,6,5.85885594,41,14.80416529
+Elijah Miller,ETH Zurich,25,3.190827877,4,7.835118521,38,31.42580693
+Olivia Miller,ETH Zurich,24,3.722133772,6,6.380062961,41,16.93930791
+Mason Smith,University of Toronto,18,3.021251378,4,5.772096132,41,14.968233
+Noah Miller,University of Oxford,18,4.755756126,5,7.336054411,43,48.80781908
+Liam Miller,Stanford University,18,2.605392698,2,3.790519446,42,0
+Olivia Jones,Massachusetts Institute of Technology,25,3.313128356,5,4.898829311,44,0
+Elijah Williams,Stanford University,18,3.060268942,4,6.787009739,45,25.71157959
+Ava Smith,University of Toronto,23,4.946977884,3,7.09893012,44,68.92836721
+Sophia Williams,ETH Zurich,18,3.696554777,5,6.556817476,43,27.96432687
+Elijah Davis,University of Cambridge,23,4.531844539,3,5.104676442,42,37.58453936
+Noah Garcia,Harvard University,21,2.014439627,3,6.018529789,40,4.193545374
+Ava Jones,University of Cambridge,22,3.767050266,4,7.469451193,43,34.07769713
+Sophia Smith,Stanford University,19,4.389630796,8,7.698138125,45,20.29053323
+Liam Johnson,University of Toronto,19,3.582283989,5,6.980532259,43,20.55876193
+Liam Jones,ETH Zurich,26,4.565480375,4,8.388200537,46,41.47527596
+Mason Smith,ETH Zurich,21,2.98271155,4,7.476876428,39,17.81089749
+Emma Johnson,University of Cambridge,18,4.90934744,4,6.103053215,40,51.3626568
+Ava Brown,University of Melbourne,19,5.798898124,4,6.663397536,44,62.6332681
+Isabella Garcia,University of Toronto,23,3.13716144,7,5.316560611,43,0
+Lucas Wilson,University of Toronto,26,3.054497479,8,6.870233212,45,0
+Emma Garcia,Harvard University,24,4.953384477,7,8.334520743,42,20.41486366
+Isabella Garcia,University of Cambridge,18,5.079572146,3,7.822348102,40,55.59232718
+Isabella Smith,Stanford University,19,2.977139973,6,8.682411191,42,0
+Lucas Garcia,University of Oxford,19,3.079813183,6,6.636537707,39,5.395879657
+Noah Brown,Harvard University,18,3.218215391,4,8.615319753,40,11.29786675
+Olivia Jones,University of Toronto,21,2.155549489,6,6.768034928,44,0
+Sophia Davis,University of Cambridge,21,2.581348054,9,8.765902099,44,0
+Noah Wilson,Stanford University,25,2.495859233,6,6.973771903,43,0
+Ava Jones,Stanford University,19,2.732202435,4,7.848677649,39,17.6990574
+Ava Garcia,University of Melbourne,21,3.465315113,6,8.770134837,41,0
+Noah Wilson,University of Oxford,24,3.734214733,7,6.767886846,40,7.383898596
+Olivia Brown,Harvard University,18,5.050500493,4,7.262066785,44,46.29263262
+Isabella Davis,University of Melbourne,20,2.501645959,3,8.54663611,41,2.274909819
+Ava Martinez,University of Cambridge,23,4.484322398,4,6.840396203,40,36.82523592
+Ava Brown,Massachusetts Institute of Technology,20,3.286011156,5,5.414929261,42,10.86762071
+Isabella Smith,ETH Zurich,20,3.45053629,3,9.571608466,41,9.631417724
+Noah Garcia,University of Toronto,19,4.174819492,5,6.436282643,45,41.9385581
+Emma Davis,University of Toronto,19,2.377277978,3,7.190507261,41,18.69341072
+Emma Garcia,ETH Zurich,23,3.882409746,5,8.387208003,39,20.97357669
+Ava Martinez,Massachusetts Institute of Technology,25,3.666452208,5,6.269807316,38,20.88035288
+Mason Brown,Stanford University,22,3.992451264,5,5.790558504,42,21.39371161
+Olivia Williams,Stanford University,20,3.789168644,6,7.304484756,41,31.92589543
+Isabella Wilson,University of Cambridge,24,5.95530014,6,4.848308323,39,36.64253204
+Liam Wilson,University of Cambridge,21,2.862260016,6,6.654512708,44,5.709618122
+Ava Smith,Harvard University,20,2.969003045,5,7.294046397,43,15.21574828
+Ava Garcia,Harvard University,25,2.876859474,7,6.676057724,42,0
+Liam Johnson,University of Cambridge,24,2.944522881,3,5.147858868,45,6.034161519
+Isabella Johnson,University of Oxford,26,2.862612873,5,8.913013547,43,0
+Lucas Garcia,University of Toronto,18,4.689016531,7,7.124245785,40,23.189444
+Elijah Johnson,ETH Zurich,21,4.920504248,2,8.717382541,40,43.90854265
+Olivia Wilson,University of Melbourne,25,2.929253706,8,6.6879565,44,0
+Emma Garcia,ETH Zurich,20,2.667644427,4,5.943985622,43,10.22783764
+Sophia Williams,Stanford University,26,3.971415556,2,7.323017104,42,53.90590619
+Sophia Martinez,Stanford University,24,2.947776956,5,6.741055448,40,10.55696589
+Ava Davis,University of Toronto,22,4.132931818,5,5.58668625,43,24.84815242
+Noah Davis,ETH Zurich,21,3.702923021,4,8.763741111,40,8.544723097
+Olivia Garcia,ETH Zurich,19,1.984255885,6,6.253275733,42,0
+Olivia Davis,University of Melbourne,25,5.047505201,8,4.791680338,45,2.689348629
+Ava Williams,University of Oxford,18,5.295877673,4,8.593799265,41,42.84447373
+Liam Johnson,University of Oxford,23,2.88721131,3,6.394842381,39,26.94705221
+Isabella Martinez,University of Cambridge,24,3.11229844,6,6.270611329,40,0
+Sophia Jones,University of Cambridge,25,3.785865391,4,4.881534896,44,12.41164487
+Mason Jones,University of Melbourne,18,3.83445679,2,9.089129784,43,18.28862224
+Emma Garcia,Massachusetts Institute of Technology,19,4.158544273,3,5.452623295,42,25.1762879
+Olivia Jones,University of Toronto,18,5.510204539,1,7.070139377,41,67.09347758
+Olivia Wilson,University of Toronto,26,3.323052773,9,8.095144387,43,0
+Elijah Garcia,University of Oxford,25,2.701702755,5,7.50606032,40,13.49479486
+Noah Miller,Stanford University,23,2.120680772,3,6.928414826,43,14.59633234
+Elijah Johnson,University of Toronto,21,2.76906996,4,4.95800097,41,1.942645742
+Mason Davis,University of Toronto,26,3.466873027,3,6.028330197,40,41.20466135
+Mason Davis,Harvard University,18,5.294557864,4,7.225360406,41,49.35186808
+Elijah Miller,ETH Zurich,26,2.982388701,6,6.055391116,41,5.369378253
+Noah Wilson,Massachusetts Institute of Technology,20,3.723787952,4,7.244031352,42,35.30235567
+Mason Jones,Massachusetts Institute of Technology,21,3.483577104,2,7.818092091,42,34.76936316
+Ava Johnson,University of Cambridge,22,4.688393273,6,8.155003463,36,26.14784168
+Sophia Williams,Massachusetts Institute of Technology,22,6,3,5.528584771,40,58.66431503
+Isabella Smith,University of Melbourne,18,2.969131227,6,9.635975266,41,0
+Elijah Jones,ETH Zurich,18,3.010560557,2,7.920975213,45,32.10857401
+Mason Brown,University of Oxford,25,4.544160877,8,6.997943016,40,22.75508068
+Elijah Jones,Stanford University,26,4.18189149,3,8.3074439,42,36.02983124
+Mason Williams,ETH Zurich,22,5.346707326,6,9.838489326,45,0
+Noah Brown,Massachusetts Institute of Technology,21,4.083928185,4,5.273535879,39,16.12224583
+Lucas Wilson,University of Cambridge,26,3.140707909,5,6.729684829,43,13.39101892
+Emma Smith,University of Toronto,25,4.090654831,6,4.145882008,40,0
+Sophia Garcia,Harvard University,21,4.608703581,1,7.231181839,41,55.60528039
+Elijah Miller,University of Cambridge,24,4.320482181,5,7.43847309,40,24.9271286
+Lucas Smith,University of Oxford,18,4.007274031,7,6.953005461,41,10.25359623
+Olivia Williams,University of Melbourne,21,4.56667469,6,6.214559715,47,28.49835398
+Isabella Smith,Harvard University,25,4.66929559,6,4.540582581,44,0.824279712
+Ava Wilson,Harvard University,19,4.882158991,7,7.44824042,44,27.26610673
+Noah Brown,University of Cambridge,22,4.148709888,4,8.746521381,43,24.69672648
+Olivia Johnson,University of Cambridge,23,3.33288192,3,6.290777853,39,26.6238426
+Ava Martinez,ETH Zurich,21,3.646713686,8,7.528071915,43,0
+Elijah Williams,University of Melbourne,26,4.706508967,4,5.118226824,44,27.77557359
+Emma Garcia,University of Toronto,18,2.683064329,5,7.548655676,40,7.901027911
+Isabella Jones,University of Cambridge,24,3.868673309,5,6.527941243,44,31.42079744
+Ava Miller,University of Oxford,25,3.106661188,3,6.085098459,43,19.90356199
+Olivia Martinez,Stanford University,22,3.528744823,9,6.087563631,46,0
+Olivia Brown,Harvard University,18,4.778451863,8,6.527666102,41,28.81890316
+Liam Davis,University of Oxford,20,3.691099068,6,7.458919979,40,23.6874796
+Ava Smith,Harvard University,25,3.546436548,3,5.425404159,41,18.44774926
+Ava Martinez,University of Cambridge,19,2.140143859,5,6.523461602,45,3.088460231
+Mason Davis,University of Oxford,19,4.246253566,5,6.950233866,38,36.44117127
+Lucas Smith,University of Toronto,23,4.145484181,5,5.681152931,38,24.55442445
+Mason Smith,Stanford University,24,5.663254723,3,9.155998242,42,42.07198288
+Mason Wilson,Stanford University,21,3.192221765,7,5.975805424,41,4.693768357
+Lucas Davis,Massachusetts Institute of Technology,20,3.719150328,3,6.196675704,42,28.65058451
+Elijah Martinez,Harvard University,19,3.749383684,0,5.82603046,44,55.1152079
+Emma Smith,University of Cambridge,24,5.07745328,6,9.158176105,41,17.67468948
+Isabella Martinez,Stanford University,24,3.404704468,6,7.663486274,38,15.46381435
+Isabella Miller,Stanford University,20,3.779021526,4,5.876089593,46,35.2833377
+Mason Garcia,ETH Zurich,18,4.10789651,5,8.327477871,40,27.36564819
+Olivia Williams,University of Oxford,26,3.686609123,9,7.240838433,40,0
+Lucas Davis,University of Oxford,18,3.053566385,5,7.308704105,44,12.32007462
+Ava Miller,University of Oxford,22,3.694089993,4,6.586627349,41,28.54650089
+Noah Miller,University of Toronto,22,4.57363175,3,6.100700816,42,56.15886028
+Olivia Martinez,Stanford University,24,2.473484701,6,7.405319319,43,4.116636338
+Mason Brown,University of Melbourne,23,3.632969674,2,6.345895324,44,50.51317703
+Mason Johnson,Massachusetts Institute of Technology,24,2.799879185,6,9.180106755,41,0
+Sophia Garcia,University of Toronto,22,4.695046629,6,5.476850674,45,25.62186976
+Ava Smith,University of Oxford,20,1.976813095,6,8.843388127,38,0
+Liam Davis,University of Oxford,22,2.941078153,5,6.866417381,44,9.163100326
+Liam Smith,Massachusetts Institute of Technology,22,3.877211875,3,7.358902881,40,40.9506637
+Olivia Davis,University of Melbourne,21,5.065524029,4,7.99978932,45,52.59042465
+Noah Garcia,Massachusetts Institute of Technology,21,3.434249739,4,6.243700846,42,22.21351383
+Sophia Smith,University of Toronto,18,2.944800473,5,8.037098062,41,14.0419152
+Liam Davis,University of Cambridge,21,5.381157069,4,3.750947374,43,0
+Sophia Wilson,University of Oxford,22,2.0519861,4,6.13601256,44,0
+Mason Brown,ETH Zurich,26,1.301194043,5,5.891124631,43,0
+Elijah Martinez,University of Oxford,18,3.94001445,5,5.495792785,40,16.05413095
+Lucas Smith,ETH Zurich,19,2.997945776,5,6.742054194,41,21.60873087
+Mason Miller,University of Melbourne,22,2.478767183,7,7.462899962,42,0.170533609
+Emma Martinez,University of Melbourne,26,4.208356447,3,7.843191998,42,37.65462751
+Ava Wilson,University of Oxford,19,3.743800714,2,7.289052109,43,42.70501312
+Isabella Miller,University of Oxford,23,2.935921369,4,6.201167842,38,20.51521304
+Sophia Martinez,University of Melbourne,24,2.219695601,4,7.442819725,43,8.613974311
+Olivia Martinez,University of Toronto,24,4.372457328,6,7.149142834,41,34.42387542
+Isabella Martinez,University of Toronto,24,4.150201178,3,8.123267402,40,36.24105355
+Sophia Martinez,University of Melbourne,19,3.400824136,5,7.932324044,41,19.97675954
+Liam Wilson,University of Melbourne,23,5.346636996,5,7.036571697,42,48.85575894
+Sophia Smith,University of Oxford,19,2.429915234,5,5.923296393,36,3.584891813
+Olivia Jones,University of Toronto,20,1.974474829,5,6.216459813,41,4.823245433
+Mason Davis,Harvard University,18,2.80809193,3,6.340252768,40,24.20704127
+Elijah Smith,Stanford University,22,3.454413984,10,6.621680399,43,0
+Sophia Miller,Stanford University,21,3.743339449,5,7.321660513,40,12.69178305
+Emma Miller,Massachusetts Institute of Technology,21,3.258763942,4,7.858209268,42,29.0232374
+Lucas Jones,University of Oxford,23,3.852055397,4,6.938657568,45,27.08316066
+Liam Wilson,Stanford University,25,2.248460576,7,7.019349745,44,0
+Liam Jones,ETH Zurich,18,4.943764604,3,7.171967566,44,54.88484019
+Olivia Davis,University of Melbourne,21,3.417848822,6,6.380913624,41,19.84214507
+Emma Smith,ETH Zurich,22,4.617295832,2,5.889529291,43,54.05383956
+Lucas Smith,University of Oxford,25,3.842725346,4,4.893474523,42,3.217695577
+Sophia Johnson,Stanford University,22,3.956753219,4,6.16582077,42,26.04594949
+Isabella Smith,ETH Zurich,26,4.06976728,4,7.567774544,43,39.24430684
+Isabella Garcia,University of Oxford,24,3.94770856,8,6.156506274,41,0
+Mason Miller,University of Oxford,19,4.14272276,5,6.714631555,45,28.2404243
+Liam Jones,University of Oxford,20,4.82915253,8,7.559717545,42,29.84270491
+Ava Jones,Harvard University,18,3.69652117,5,7.624827396,43,24.83304424
+Noah Jones,Harvard University,26,4.209003758,7,5.704560577,45,15.12884796
+Lucas Williams,Massachusetts Institute of Technology,22,3.410264306,8,8.196471228,44,0
+Lucas Jones,Harvard University,22,4.940117215,3,8.352820107,39,47.0997201
+Ava Brown,University of Toronto,25,2.823607698,4,5.644180171,43,6.532099328
+Emma Martinez,University of Toronto,26,5.300940433,6,6.011395756,44,40.11842504
+Liam Miller,University of Oxford,21,3.459842049,4,8.42930882,44,11.50448966
+Liam Smith,ETH Zurich,19,2.069224898,4,6.823775774,40,6.156536974
+Sophia Smith,University of Cambridge,19,3.628104415,6,4.336266463,41,0
+Elijah Davis,Massachusetts Institute of Technology,22,2.818948343,2,5.320382194,44,15.31970737
+Sophia Williams,University of Toronto,19,4.340643549,4,6.70075645,40,30.98582531
+Mason Johnson,Harvard University,21,2.847376021,2,5.60434882,41,16.86005061
+Sophia Garcia,Massachusetts Institute of Technology,21,3.053816567,8,6.503891475,45,0
+Mason Brown,University of Cambridge,23,1.610459269,7,7.038875456,42,0
+Liam Garcia,University of Toronto,19,3.047693681,2,8.754705525,41,17.52472611
+Ava Miller,University of Melbourne,20,1.076120673,5,6.651455301,40,0
+Noah Davis,ETH Zurich,23,1.916097177,6,8.287050159,43,0
+Emma Davis,Stanford University,20,4.260414656,7,8.714512194,39,7.251700709
+Mason Johnson,ETH Zurich,21,4.285800159,7,8.721171603,42,5.781164985
+Olivia Jones,Massachusetts Institute of Technology,20,3.925457562,7,7.341705512,43,15.72685476
+Sophia Smith,University of Melbourne,26,2.533023857,6,4.644053023,45,0
+Isabella Brown,ETH Zurich,18,3.452288644,5,7.552989838,43,27.02938169
+Elijah Miller,University of Cambridge,25,3.496397461,5,8.258079865,41,16.78522597
+Sophia Martinez,Stanford University,24,2.341635311,8,6.902719473,44,0
+Emma Davis,Massachusetts Institute of Technology,18,5.003398302,7,9.093500644,41,16.74838647
+Isabella Williams,Harvard University,26,4.377362291,4,8.031800274,40,36.91625856
+Sophia Smith,University of Melbourne,26,3.279035826,5,7.681928053,42,8.209351659
+Ava Williams,ETH Zurich,26,3.526885839,8,8.303656853,45,3.21443338
+Ava Williams,Harvard University,22,3.708382808,5,7.400043822,42,22.88507118
+Olivia Brown,Massachusetts Institute of Technology,24,1.458265132,2,4.008627401,42,0
+Sophia Davis,University of Cambridge,25,3.252822617,3,6.401033258,45,36.16407123
+Mason Smith,ETH Zurich,24,2.818015752,7,8.436601633,39,0
+Emma Davis,University of Toronto,18,2.49837999,3,6.030890392,39,16.60332184
+Olivia Davis,Harvard University,24,3.218899707,8,6.731832994,39,0
+Emma Jones,University of Oxford,19,5.297686527,1,5.746196423,43,62.96827568
+Sophia Davis,ETH Zurich,22,4.140842861,5,9.140707114,42,3.326587311
+Sophia Miller,Stanford University,19,2.92882101,3,9.017790949,45,3.244067463
+Emma Wilson,University of Melbourne,19,4.072582781,5,5.939357326,42,30.89329964

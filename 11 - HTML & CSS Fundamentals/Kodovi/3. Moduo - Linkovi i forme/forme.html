@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Form</title>
+</head>
+<body>
+<form action="#" method="post" name="form1" id="form1">
+<fieldset>	
+	<legend>Personal information:</legend>
+	<label for="fullname">Your full name:</label>
+	<input type="text" name="fullname" id="name"><br>
+	<br>
+	<label for="email">E-mail Address:</legend>
+	<input type="text" name="email" id="email"><br>
+	<br>
+	<label for="country">You are:</label>
+	<select name="country" id="country">
+		<option value="Serbia">Serbia</option>
+		<option value="Romania" selected="selected">Romania</option>
+		<option value="Ukraine">Ukraine</option>
+	</select>
+</fieldset>
+<br>
+<fieldset>
+	<legend>Reason you are contacting us:</legend>
+	<input type="checkbox" name="question1" value="Like" id="question1">
+	<label for="question1">I would like detailed information</label> <br>
+
+	<input type="checkbox" name="question2" value="Like" id="question2">
+	<label for="question2">I am interested in employement</label> <br>
+
+	<input type="checkbox" name="question3" value="Like" id="question3">
+	<label for="question3">I would like to give you my feedback</label> <br>
+
+	<input type="checkbox" name="question4" value="Like" id="question4">
+	<label for="question4">Other (see below)</label>
+</fieldset>
+
+<br>
+<label for="description">Comments:</label><br>
+<textarea name="description" id="description"></textarea><br>
+
+<br>
+<input type="submit" value="Submit">
+
+
+
+</body>
+</html>
