@@ -1,0 +1,381 @@
+mesec,kategorija,region,prihod
+7,,,6363
+4,Home,west ,"10,580"
+Mesec 5,ELECTRONICS, north,12040
+11,Electronics, north,$5374
+8,, north,"8,996"
+Mesec 5,Home,South,$6530
+5,Cloth, north,"8,881"
+7,,NORTH,"10,017"
+10,Home,North,$12674
+03,Cloth,SOUTH,"14,536"
+7,ELECTRONICS,West, 11550 RSD 
+11,, north,$5177
+11,Cloth,west , 6892 RSD 
+8,Electronics, north,"5,472"
+5,ELECTRONICS,west , 7971 RSD 
+4,Electronics,NORTH,
+8,home ,west ,7569
+8, electronics,, 14330 RSD 
+03,,West,8254
+6,Cloth,North,$8238
+5, electronics,west , 9687 RSD 
+2, electronics,west ,11911
+8,Cloth,North,$5266
+12,ELECTRONICS,West,12161
+,, north,9570
+6,home ,west ,"14,891"
+2,Electronics,North,8981
+12,Home,,"2,523"
+5,Electronics,,"12,160"
+1,Home,NORTH,"9,240"
+12,Electronics,North,"7,240"
+10,Cloth,NORTH,$8493
+6,home ,,5644
+Mesec 5,,West,12247
+12,Home, north,$7811
+9,,North,"2,055"
+1,,SOUTH,$14315
+11,,,"2,364"
+11,CLOTH,,
+10,ELECTRONICS,SOUTH,$7126
+12,Electronics,South,$4797
+12,,,"10,172"
+,Electronics,west ,$8882
+,,West,$10152
+,Home,North,$10905
+03,ELECTRONICS,SOUTH,"8,229"
+12,ELECTRONICS,west ,6632
+7,Cloth,SOUTH, 8168 RSD 
+4,CLOTH,North,2232
+9,Cloth,NORTH,$8371
+03,Cloth,North, 14910 RSD 
+5,Cloth,South,$8891
+03,Cloth,North,"12,852"
+7,Cloth,North,$3761
+5,home ,South,"2,876"
+9,ELECTRONICS,West,11504
+7,Cloth,,"3,733"
+2,,North,"12,755"
+4,ELECTRONICS,South,$12589
+9,ELECTRONICS,west ,
+12, electronics,NORTH,$10434
+,home ,NORTH, 12787 RSD 
+2,Cloth,North, 9489 RSD 
+10,Electronics,West,$10195
+9,Home,West,"13,120"
+10,CLOTH,west ,"7,560"
+5,,North, 8316 RSD 
+2,Electronics,NORTH, 11333 RSD 
+4,home ,West, 2224 RSD 
+12,Home,North,14846
+12,home ,SOUTH,"14,607"
+7,,West,$6234
+12,ELECTRONICS,South,$4026
+Mesec 5,Home,SOUTH,
+8,ELECTRONICS,,2009
+03,,West,
+,Electronics,NORTH, 4060 RSD 
+1,, north,$10512
+4,Electronics,SOUTH,4832
+2,Home,,$12230
+8,Home,west ,9984
+4,Cloth,west ,"2,235"
+2,home ,NORTH,$10567
+,Cloth,West,$4635
+6,home ,North,
+6,Cloth,West, 13157 RSD 
+10,ELECTRONICS,NORTH,$10007
+4,Home,west , 8413 RSD 
+6,Electronics,West,6820
+Mesec 5,home ,west ,"9,546"
+2,,SOUTH,6227
+10,home ,,"4,136"
+12,Electronics,North, 11510 RSD 
+2,Cloth,SOUTH,13954
+10,home ,west ,$7142
+,CLOTH,west ,4712
+4,ELECTRONICS, north,"14,790"
+,Home, north, 5687 RSD 
+8,Electronics,SOUTH,"3,970"
+,Home,South, 3202 RSD 
+7,CLOTH,SOUTH,$9667
+12,home , north, 7408 RSD 
+9,home ,west , 2922 RSD 
+,,NORTH,3120
+8,CLOTH,SOUTH,2950
+5,Electronics,west ,
+Mesec 5,,NORTH,$6612
+2,ELECTRONICS,NORTH,13045
+5,, north,8371
+8, electronics,SOUTH,$9863
+10,Electronics,West,$13420
+9, electronics,North,"5,756"
+12,CLOTH, north,
+12,Cloth, north, 12147 RSD 
+12, electronics,West, 4116 RSD 
+Mesec 5,ELECTRONICS,North,"13,111"
+9,,west ,$8166
+Mesec 5,Cloth,South, 10554 RSD 
+Mesec 5,,SOUTH,"9,783"
+1, electronics,South, 9790 RSD 
+9,,west , 5531 RSD 
+7,CLOTH,,13127
+9,Cloth, north,5177
+8,CLOTH,North,13641
+1, electronics, north,"9,196"
+12,CLOTH,NORTH,$5797
+8,ELECTRONICS, north,13053
+8, electronics, north, 3645 RSD 
+11, electronics,west ,4872
+03, electronics,west ,$6662
+1,Electronics,west ,$4708
+8,,South,
+03,Electronics,NORTH,5507
+03,Electronics,,
+1,ELECTRONICS,, 10766 RSD 
+11,Cloth,west ,"12,314"
+5,,North,$13473
+10,CLOTH,South, 5600 RSD 
+7,home ,West,$6971
+10, electronics,North,14951
+9,CLOTH,SOUTH,14997
+12, electronics,SOUTH,8320
+7,ELECTRONICS,North,"6,757"
+9, electronics,west ,
+8,Electronics,West,2966
+12,,West, 2688 RSD 
+2,home ,South,7182
+1,Home,West,6422
+7, electronics,SOUTH,$11181
+7,CLOTH,NORTH,$2951
+,Electronics,west ,4717
+8,Home,West,"11,692"
+5,home ,South,"9,186"
+03,Home,SOUTH,$7490
+12,Electronics,NORTH, 8645 RSD 
+8,, north,"13,485"
+6,, north, 8016 RSD 
+11,Cloth,NORTH,$10038
+03,,SOUTH,$3481
+1,Cloth,South,5451
+03,Home,NORTH,
+5,ELECTRONICS,west ,5462
+,CLOTH,west ,$14600
+03,CLOTH, north,$12682
+1,Home,West,
+5, electronics,South,5310
+10, electronics, north, 9776 RSD 
+7,,West, 9970 RSD 
+,CLOTH,West, 11503 RSD 
+7,CLOTH,, 14175 RSD 
+11,Cloth,west ,14469
+9,ELECTRONICS,SOUTH, 2822 RSD 
+10,Electronics,North,$6425
+10, electronics,SOUTH,$13348
+12,CLOTH,North, 11106 RSD 
+Mesec 5,Cloth,NORTH,"6,177"
+03,home ,west , 8852 RSD 
+7,Cloth,West,$3409
+1, electronics,South, 6491 RSD 
+4, electronics,North,"3,279"
+Mesec 5,Cloth,SOUTH,$9083
+4,Electronics,West, 13093 RSD 
+,Home,North,"12,953"
+5, electronics,North,$10173
+7,Cloth,,"4,768"
+7,CLOTH,North,
+Mesec 5,Cloth,South,"4,599"
+11,ELECTRONICS,west ,13622
+Mesec 5,Home,South, 4541 RSD 
+4,home , north,12268
+Mesec 5,Electronics,West,$10996
+7,,west ,12367
+11,home ,,"10,232"
+03,Home,west ,
+6,Home,west ,"9,141"
+12,Home,SOUTH,"10,041"
+2,home ,west ,$9992
+10,CLOTH,,"6,263"
+Mesec 5,Home,South,8136
+,Cloth,west ,11900
+9,home ,NORTH,"9,643"
+5,,West, 6225 RSD 
+6,Home,west ,$13968
+12,Cloth,West,"7,490"
+12,CLOTH,NORTH,
+12,ELECTRONICS,NORTH, 12250 RSD 
+12,CLOTH,West,$10378
+4,,North,"3,333"
+,Home, north,"4,711"
+,,SOUTH,9479
+11,home ,North, 10942 RSD 
+10, electronics,North,"14,112"
+7,Home,South,"8,122"
+12, electronics,SOUTH,9617
+9,Cloth,SOUTH,4343
+7,ELECTRONICS,North,$2060
+,Electronics,west ,$14312
+1,,South,
+1,CLOTH,South,
+9,ELECTRONICS,NORTH,
+11,Home,,"6,197"
+, electronics,SOUTH, 11828 RSD 
+9,CLOTH,North,8960
+4, electronics,NORTH,$5640
+Mesec 5,home ,West,"6,107"
+9, electronics, north, 2338 RSD 
+03,home ,,$13344
+7,Cloth,,"9,119"
+6,CLOTH,,8609
+8,CLOTH,South,"13,834"
+11,Electronics,West,
+9,Home,,"13,551"
+,home ,West,$10592
+5,Electronics,west ,"5,157"
+1, electronics,,6430
+03, electronics, north, 13122 RSD 
+10,Electronics,West,$11018
+12,CLOTH,West,"5,294"
+8, electronics, north,
+11,,,"3,466"
+6,Cloth, north,$9693
+8,Cloth,West, 4667 RSD 
+9,, north,2130
+4,Electronics,West,$6278
+1,,West,
+,home ,west , 8640 RSD 
+1,home ,North,2920
+10,Electronics,West,14303
+4,,,$13713
+12,home ,NORTH,"2,545"
+,CLOTH,South,
+7,,SOUTH,$5810
+2,CLOTH,North,"14,316"
+03,home ,North,14605
+1,Cloth,North, 2271 RSD 
+5,home ,west ,"12,616"
+1,CLOTH,West,$10190
+8,ELECTRONICS,west ,"12,816"
+1,Home,West,
+11, electronics,,"10,567"
+1,,west ,"2,145"
+2,ELECTRONICS,west ,10623
+2,home ,South,$4632
+12,Cloth,NORTH, 9511 RSD 
+6,Electronics,west ,12233
+7,home ,South, 11130 RSD 
+5,Cloth, north,$11655
+1,Home,NORTH,"10,202"
+1,home ,, 9878 RSD 
+03,CLOTH,west ,
+,Electronics,SOUTH,7429
+2,Cloth,North,"3,389"
+5,Cloth, north,
+12,Cloth, north,2936
+10,Home,,5845
+6,home ,South,
+7,Home, north,4736
+4,,NORTH,3913
+7, electronics,west ,$9657
+11, electronics,west ,12301
+8,,SOUTH,$14447
+11,home ,,9287
+1,CLOTH,North, 12568 RSD 
+6,Home,South,$13873
+8,Electronics,North,$9490
+5,Cloth, north,3218
+4,Cloth,,14457
+2,home ,SOUTH,11752
+6,CLOTH,North, 11175 RSD 
+6, electronics,NORTH,7370
+11, electronics,west ,
+1,Cloth, north, 10228 RSD 
+9,home ,SOUTH,10987
+12,Home,North, 7233 RSD 
+11, electronics,South,2317
+6,Home,NORTH, 3591 RSD 
+Mesec 5,CLOTH,NORTH,5930
+03, electronics,North, 11477 RSD 
+4, electronics,west , 5239 RSD 
+12,ELECTRONICS,North,3704
+11, electronics, north,"11,908"
+4,,North,"5,738"
+03,Electronics,NORTH,"2,556"
+10,,SOUTH,$7150
+03,home ,North,
+03,home ,west ,"13,700"
+4,Home,, 12321 RSD 
+7,,SOUTH,10780
+4,,South, 12177 RSD 
+9,,West,11882
+1,CLOTH,North,$14647
+8, electronics,west , 6543 RSD 
+7,Electronics,SOUTH,"3,007"
+2,Home,west ,"13,718"
+8,,South, 14094 RSD 
+1,,NORTH,11437
+11,ELECTRONICS,west , 9059 RSD 
+12,Home,SOUTH,$9491
+9,,west ,11109
+9,Home,west ,"4,752"
+2, electronics,west ,"8,353"
+7,ELECTRONICS, north,2686
+,Home, north,$10954
+10,Electronics,NORTH,$12699
+03,Electronics,North,
+7,home ,west ,$14191
+12,ELECTRONICS,South,"13,801"
+10,ELECTRONICS,North, 5356 RSD 
+9,home ,South,8540
+4,Home,North,11078
+12,ELECTRONICS,NORTH, 9027 RSD 
+1,Electronics,west ,"5,155"
+2,Electronics,west ,5778
+1,,West, 13703 RSD 
+, electronics,South, 8446 RSD 
+12,ELECTRONICS,North,"6,179"
+5,Home,North,7626
+5,home ,,$2933
+11,home ,,12047
+7,Home, north,$12001
+9,CLOTH,West, 5610 RSD 
+9,Cloth,SOUTH,2984
+03, electronics,,$10711
+03,home ,SOUTH, 5633 RSD 
+03,ELECTRONICS, north,
+4, electronics, north,8059
+8,ELECTRONICS, north,$6473
+6,CLOTH,South,2526
+8,Electronics,South,
+1, electronics,NORTH, 14157 RSD 
+7,,,6363
+4,Home,west ,"10,580"
+Mesec 5,ELECTRONICS, north,12040
+11,Electronics, north,$5374
+8,, north,"8,996"
+Mesec 5,Home,South,$6530
+5,Cloth, north,"8,881"
+7,,NORTH,"10,017"
+10,Home,North,$12674
+03,Cloth,SOUTH,"14,536"
+7,ELECTRONICS,West, 11550 RSD 
+11,, north,$5177
+11,Cloth,west , 6892 RSD 
+8,Electronics, north,"5,472"
+5,ELECTRONICS,west , 7971 RSD 
+4,Electronics,NORTH,
+8,home ,west ,7569
+8, electronics,, 14330 RSD 
+03,,West,8254
+6,Cloth,North,$8238
+5, electronics,west , 9687 RSD 
+2, electronics,west ,11911
+8,Cloth,North,$5266
+12,ELECTRONICS,West,12161
+,, north,9570
+6,home ,west ,"14,891"
+2,Electronics,North,8981
+12,Home,,"2,523"
+5,Electronics,,"12,160"
+1,Home,NORTH,"9,240"
