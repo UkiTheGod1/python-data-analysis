@@ -16,7 +16,6 @@ data= pd.DataFrame({
     'Bonus_Storage_Type': ['None', 'None', 'None', 'HDD', 'None', 'None'],
 })
 
-predictions = model.predict(data)
-# print(predictions)
-
+data["Predicted_Price"] = model.predict(data)
+data["Predicted_Price"] = data["Predicted_Price"].round(2)
 print(data)
