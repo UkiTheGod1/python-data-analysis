@@ -1,7 +1,7 @@
 import pandas as pd
 import joblib
 
-model = joblib.load("D:/Python/Uro/vezbe/5 - Machine Learning/5.5 - 2model.pkl")
+model = joblib.load("D:/Python/Exercise/5 - Machine Learning/5.5 - 2model.pkl")
 
 new_messages = pd.DataFrame({
     "text": ["Hey, are you coming to the office tomorrow? I need that report by 10 AM.",
