@@ -1,7 +1,7 @@
 import joblib
 
 # 1. Učitavanje sačuvanog modela
-model = joblib.load("D:/Python/Exercise/5 - Machine Learning/5.7 - 2model.joblib")
+model = joblib.load("D:/Python/Exercise/5 - Machine Learning/5.7 - Pipeline Multi Classifiers/2model.joblib")
 
 # 2. Test primeri (kombinacija tipičnih HAM i SPAM poruka)
 test_messages = [

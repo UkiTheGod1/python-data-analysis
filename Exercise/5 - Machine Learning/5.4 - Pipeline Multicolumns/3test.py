@@ -1,7 +1,7 @@
 import pandas as pd
 import joblib
 
-model = joblib.load("D:/Python/Exercise/5 - Machine Learning/5.4 - 2model.pkl")
+model = joblib.load("D:/Python/Exercise/5 - Machine Learning/5.4 - Pipeline Multicolumns/2model.joblib")
 
 data= pd.DataFrame({
     'Company': ['Apple', 'Dell', 'HP', 'Lenovo', 'Asus', 'Apple'],

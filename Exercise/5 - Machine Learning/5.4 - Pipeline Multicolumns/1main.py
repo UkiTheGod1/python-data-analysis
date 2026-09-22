@@ -51,6 +51,6 @@ pipeline = Pipeline([
 
 pipeline.fit(X, y)
 
-joblib.dump(pipeline, "5.4 - 2model.pkl")
+joblib.dump(pipeline, "D:/Python/Exercise/5 - Machine Learning/5.4 - Pipeline Multicolumns/2model.joblib")
 
 

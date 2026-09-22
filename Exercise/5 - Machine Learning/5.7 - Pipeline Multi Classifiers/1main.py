@@ -40,8 +40,7 @@ for name, model in models.items():
 
 # LinearSVC se pokazao kao najprecizniji
 
-
 final_pipeline = Pipeline([("vectorizer", TfidfVectorizer()), ("classifier", LinearSVC())])
 final_pipeline.fit(X, y)
 
-joblib.dump(final_pipeline, "D:/Python/Exercise/5 - Machine Learning/5.7 - 2model.joblib")
+joblib.dump(final_pipeline, "D:/Python/Exercise/5 - Machine Learning/5.7 - Pipeline Multi Classifiers/2model.joblib")
